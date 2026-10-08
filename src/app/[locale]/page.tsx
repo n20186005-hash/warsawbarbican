@@ -18,6 +18,7 @@ import FAQSection from "@/components/FAQSection";
 import SourcesSection from "@/components/SourcesSection";
 import MapEmbed from "@/components/MapEmbed";
 import WeatherSection from "@/components/WeatherSection";
+import SeasonalNotice from "@/components/SeasonalNotice";
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -64,6 +65,7 @@ export default async function HomePage({
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
       <Hero />
+      <SeasonalNotice />
       <Intro />
       <BasicInfo />
       <HoursSection />

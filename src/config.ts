@@ -17,7 +17,7 @@ export const siteConfig = {
     "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4344.524743185378!2d21.010079999999995!3d52.2506035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc6fa03dfdd7%3A0xd8d8b95a9ab7b544!2z5Y2O5rKZ55Ou5Z-O!5e1!3m2!1szh-CN!2s!4v1788314032418!5m2!1szh-CN!2s",
   heroImage: "/gallery/warsaw-barbican-1.jpg",
   galleryCount: 14,
-  lastUpdated: "2026-09-02",
+  lastUpdated: "2026-10-08",
   ga4Id: "G-HXM22WWPKP",
   contentVersion: "2026",
 } as const;

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Warsaw Barbican (Warsaw): Hours, Tickets & History (2026)",
-    "description": "Planning to visit the Warsaw Barbican (Barbakan Warszawski)? Find ticket prices, opening hours, self-guided tour routes, and photos of Warsaw's historic city walls.",
+    "title": "Warsaw Barbican – Free Entry, Opening Hours & Map",
+    "description": "Visit Warsaw Barbican in the Old Town. The gate passage is free; the seasonal exhibition requires a ticket. Find opening hours, directions, history and nearby attractions.",
     "keywords": "warsaw barbican, barbakan warszawski, warsaw old town, things to do in warsaw, royal castle warsaw, warsaw old town market square, podwale street warsaw"
   },
   "header": {
@@ -23,7 +23,11 @@
     "subtitle": "A 16th-century red-brick fortification at the edge of Warsaw's Old Town. Opening hours, ticket prices, history and a self-guided walking route — all in one guide.",
     "imgAlt": "The red-brick Warsaw Barbican gate connecting the Old Town and New Town walls, Warsaw, Poland",
     "ctaPrimary": "Plan Your Visit",
-    "ctaSecondary": "View on Map"
+    "ctaSecondary": "View on Map",
+    "freeBadge": "Free to walk through"
+  },
+  "seasonal": {
+    "notice": "October 2026: The seasonal museum exhibition is closed. The Barbakan gate passage and accessible defensive walls remain free to visit, subject to local conditions."
   },
   "intro": {
     "title": "A Gateway Through Six Centuries",
@@ -52,7 +56,7 @@
       },
       {
         "label": "Google rating",
-        "value": "4.7/5 (11,103 reviews)"
+        "value": "4.7/5 (11,164 reviews)"
       },
       {
         "label": "Admission",
@@ -604,7 +608,7 @@
   },
   "privacy": {
     "title": "Privacy Policy",
-    "lastUpdated": "Last updated: September 2, 2026",
+    "lastUpdated": "Last updated: October 8, 2026",
     "sections": [
       {
         "heading": "Who we are",
@@ -634,7 +638,7 @@
   },
   "terms": {
     "title": "Terms of Service",
-    "lastUpdated": "Last updated: September 2, 2026",
+    "lastUpdated": "Last updated: October 8, 2026",
     "sections": [
       {
         "heading": "Purpose",

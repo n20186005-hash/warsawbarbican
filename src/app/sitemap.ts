@@ -1,24 +1,24 @@
 import type { MetadataRoute } from "next";
 import { siteConfig } from "@/config";
+import { routing } from "@/i18n/routing";
 
-const locales = ["pl", "en", "zh", "ru", "de"] as const;
-
-const staticPaths = ["", "privacy-policy", "terms-of-service", "cookie-settings"] as const;
+const locales = routing.locales;
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const lastModified = new Date("2026-09-02");
+  const lastModified = new Date("2026-10-08");
 
-  return locales.flatMap((locale) =>
-    staticPaths.map((path) => ({
-      url: `${siteConfig.baseUrl}/${locale}${path ? `/${path}` : ""}`,
-      lastModified,
-      changeFrequency: "monthly" as const,
-      priority: path === "" ? 1 : 0.6,
-      alternates: {
-        languages: Object.fromEntries(
-          locales.map((l) => [l, `${siteConfig.baseUrl}/${l}${path ? `/${path}` : ""}`])
+  return locales.map((locale) => ({
+    url: `${siteConfig.baseUrl}/${locale}`,
+    lastModified,
+    changeFrequency: "monthly" as const,
+    priority: 1,
+    alternates: {
+      languages: {
+        ...Object.fromEntries(
+          locales.map((l) => [l, `${siteConfig.baseUrl}/${l}`])
         ),
+        "x-default": `${siteConfig.baseUrl}/${routing.defaultLocale}`,
       },
-    }))
-  );
+    },
+  }));
 }

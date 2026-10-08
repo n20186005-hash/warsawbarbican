@@ -213,6 +213,60 @@ img {
   margin-bottom: 1rem;
 }
 
+.hero-badge {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #fff;
+  background: rgba(195, 169, 106, 0.22);
+  border: 1px solid var(--gold);
+  border-radius: 999px;
+  padding: 0.25rem 0.8rem;
+  margin-bottom: 1rem;
+}
+
+/* ---------- Seasonal notice banner ---------- */
+.seasonal-banner {
+  background: var(--teal-light);
+  border-bottom: 1px solid var(--line);
+  padding: 1rem 0;
+}
+
+.seasonal-banner .inner {
+  display: flex;
+  gap: 0.8rem;
+  align-items: flex-start;
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+.seasonal-tag {
+  flex-shrink: 0;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #fff;
+  background: var(--brick);
+  border-radius: 999px;
+  padding: 0.25rem 0.7rem;
+  margin-top: 0.15rem;
+}
+
+.seasonal-banner p {
+  margin: 0;
+  font-size: 0.95rem;
+  color: var(--ink);
+}
+
+@media (max-width: 620px) {
+  .seasonal-banner .inner {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+}
+
 .hero h1 {
   color: #fff;
   font-size: clamp(1.8rem, 4.4vw, 3.1rem);

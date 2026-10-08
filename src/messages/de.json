@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Warschauer Barbakan (Warschau): Öffnungszeiten, Tickets & Geschichte (2026)",
-    "description": "Planen Sie einen Besuch des Warschauer Barbakans (Barbakan Warszawski)? Hier finden Sie Ticketpreise, Öffnungszeiten, eine Route für den Altstadt-Spaziergang und Fotos der historischen Stadtmauern von Warschau.",
+    "title": "Warschauer Barbakan – Öffnungszeiten, Eintritt & Anfahrt",
+    "description": "Besuchen Sie den Warschauer Barbakan: kostenloser Durchgang, saisonale Ausstellung, Öffnungszeiten, Anfahrt und Tipps für die Warschauer Altstadt.",
     "keywords": "warschau barbakan, warsaw barbican, barbakan warszawski, warschauer altstadt, sehenswürdigkeiten warschau, königsschloss warschau, altstadt marktplatz warschau, podwale straße"
   },
   "header": {
@@ -23,7 +23,11 @@
     "subtitle": "Eine Backsteinbefestigung aus dem 16. Jahrhundert am Rand der Warschauer Altstadt. Öffnungszeiten, Ticketpreise, Geschichte und eine Route für den eigenen Spaziergang — alles in einem Führer.",
     "imgAlt": "Das rotbacksteinerne Barbakan-Tor in Warschau, das die Mauern von Alt- und Neustadt verbindet, Warschau, Polen",
     "ctaPrimary": "Besuch planen",
-    "ctaSecondary": "Auf der Karte ansehen"
+    "ctaSecondary": "Auf der Karte ansehen",
+    "freeBadge": "Kostenlos durchqueren"
+  },
+  "seasonal": {
+    "notice": "Oktober 2026: Die saisonale Museumausstellung ist geschlossen. Der Barbakan-Durchgang und zugängliche Teile der Mauern bleiben kostenlos zugänglich, je nach örtlichen Bedingungen."
   },
   "intro": {
     "title": "Ein Tor durch sechs Jahrhunderte",
@@ -52,7 +56,7 @@
       },
       {
         "label": "Google-Bewertung",
-        "value": "4,7/5 (11.103 Bewertungen)"
+        "value": "4,7/5 (11.164 Bewertungen)"
       },
       {
         "label": "Eintritt",
@@ -604,7 +608,7 @@
   },
   "privacy": {
     "title": "Datenschutzerklärung",
-    "lastUpdated": "Zuletzt aktualisiert: 2. September 2026",
+    "lastUpdated": "Zuletzt aktualisiert: 8. Oktober 2026",
     "sections": [
       {
         "heading": "Wer wir sind",
@@ -634,7 +638,7 @@
   },
   "terms": {
     "title": "Nutzungsbedingungen",
-    "lastUpdated": "Zuletzt aktualisiert: 2. September 2026",
+    "lastUpdated": "Zuletzt aktualisiert: 8. Oktober 2026",
     "sections": [
       {
         "heading": "Zweck",

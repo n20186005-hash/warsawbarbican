@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Barbakan Warszawski (Warszawa): Godziny Otwarcia, Bilety i Historia (2026)",
-    "description": "Planujesz wizytę w Barbakanie Warszawskim? Sprawdź ceny biletów, godziny otwarcia, trasę spaceru po Starym Mieście oraz zdjęcia średniowiecznych murów Warszawy.",
+    "title": "Barbakan Warszawski – Zwiedzanie, Godziny i Bilety | Warszawa",
+    "description": "Barbakan Warszawski: bezpłatne przejście, sezonowa wystawa, godziny zwiedzania, bilety, dojazd i mapa. Zaplanuj spacer po Starym Mieście w Warszawie.",
     "keywords": "barbakan warszawski, warsaw barbican, barbakan godziny otwarcia, barbakan bilety, stare miasto warszawa, zamek królewski warszawa, rynek starego miasta, ulica podwale"
   },
   "header": {
@@ -23,7 +23,11 @@
     "subtitle": "Ceglana fortyfikacja z XVI wieku na skraju Starego Miasta. Godziny otwarcia, ceny biletów, historia i trasa spaceru — wszystko w jednym przewodniku.",
     "imgAlt": "Barbakan Warszawski — ceglana brama łącząca mury Starego i Nowego Miasta, Warszawa, Polska",
     "ctaPrimary": "Zaplanuj wizytę",
-    "ctaSecondary": "Zobacz na mapie"
+    "ctaSecondary": "Zobacz na mapie",
+    "freeBadge": "Bezpłatne przejście"
+  },
+  "seasonal": {
+    "notice": "Październik 2026: sezonowa wystawa muzealna jest zamknięta. Przejście bramą oraz dostępne fragmenty murów pozostają bezpłatne, w zależności od warunków."
   },
   "intro": {
     "title": "Brama przez Sześć Wieków",
@@ -52,7 +56,7 @@
       },
       {
         "label": "Ocena Google",
-        "value": "4,7/5 (11 103 recenzje)"
+        "value": "4,7/5 (11 164 recenzje)"
       },
       {
         "label": "Wstęp",
@@ -604,7 +608,7 @@
   },
   "privacy": {
     "title": "Polityka Prywatności",
-    "lastUpdated": "Ostatnia aktualizacja: 2 września 2026",
+    "lastUpdated": "Ostatnia aktualizacja: 8 października 2026",
     "sections": [
       {
         "heading": "Kim jesteśmy",
@@ -634,7 +638,7 @@
   },
   "terms": {
     "title": "Regulamin",
-    "lastUpdated": "Ostatnia aktualizacja: 2 września 2026",
+    "lastUpdated": "Ostatnia aktualizacja: 8 października 2026",
     "sections": [
       {
         "heading": "Cel",

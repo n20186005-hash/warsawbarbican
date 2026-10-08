@@ -45,9 +45,12 @@ export async function generateMetadata({
     keywords: t("keywords"),
     alternates: {
       canonical: url,
-      languages: Object.fromEntries(
-        routing.locales.map((l) => [l, `${siteConfig.baseUrl}/${l}`])
-      ),
+      languages: {
+        ...Object.fromEntries(
+          routing.locales.map((l) => [l, `${siteConfig.baseUrl}/${l}`])
+        ),
+        "x-default": `${siteConfig.baseUrl}/${routing.defaultLocale}`,
+      },
     },
     openGraph: {
       title: t("title"),
@@ -118,7 +121,7 @@ export default async function LocaleLayout({
         description: t("description"),
         inLanguage: htmlLangMap[locale] ?? "pl",
         datePublished: "2026-09-02",
-        dateModified: "2026-09-02",
+        dateModified: "2026-10-08",
         isPartOf: { "@id": `${siteConfig.baseUrl}/#website` },
         about: { "@id": `${siteConfig.baseUrl}/#attraction` },
       },
@@ -151,7 +154,7 @@ export default async function LocaleLayout({
         aggregateRating: {
           "@type": "AggregateRating",
           ratingValue: 4.7,
-          ratingCount: 11103,
+          ratingCount: 11164,
           bestRating: 5,
         },
         touristType: ["Historic Landmark", "City Gate", "Fortification"],

@@ -15,6 +15,7 @@ export default async function Hero() {
       <div className="hero-overlay" />
       <div className="container hero-content">
         <span className="hero-kicker">Warsaw · Old Town (Stare Miasto) · Since 1548</span>
+        <span className="hero-badge">{t("freeBadge")}</span>
         <h1>{t("title")}</h1>
         <p className="hero-sub">{t("subtitle")}</p>
         <div className="hero-actions">
