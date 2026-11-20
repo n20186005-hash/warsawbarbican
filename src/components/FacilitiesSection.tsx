@@ -5,6 +5,7 @@ import { getTranslations } from "next-intl/server";
 const FACILITY_ICONS = ["🚻", "☕", "🏨", "🛍️", "🅿️", "💳", "🛒", "⛽", "💊", "🚲"];
 
 export default async function FacilitiesSection() {
+  const ui = await getTranslations("ui");
   const t = await getTranslations("facilities");
   const items = t.raw("items") as { type: string; hint: string }[];
 
@@ -12,7 +13,7 @@ export default async function FacilitiesSection() {
     <section className="section" id="facilities">
       <div className="container">
         <div className="section-head">
-          <span className="kicker">Practical info</span>
+          <span className="kicker">{ui("practical")}</span>
           <h2>{t("title")}</h2>
           <p>{t("subtitle")}</p>
         </div>

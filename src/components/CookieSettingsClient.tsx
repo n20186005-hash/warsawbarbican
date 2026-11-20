@@ -1,5 +1,6 @@
 "use client";
 
+import { useTranslations } from "next-intl";
 import { useEffect, useState } from "react";
 import { Link } from "@/i18n/navigation";
 
@@ -24,6 +25,7 @@ export default function CookieSettingsClient({
   saved: string;
   back: string;
 }) {
+  const ui = useTranslations("ui");
   const [analyticsOn, setAnalyticsOn] = useState(false);
   const [savedFlag, setSavedFlag] = useState(false);
 
@@ -60,7 +62,7 @@ export default function CookieSettingsClient({
           <h3>{essential}</h3>
           <p>{essentialText}</p>
           <p>
-            <strong>✓</strong> {save} — always on
+            <strong>✓</strong> {ui("alwaysOn")}
           </p>
         </div>
 

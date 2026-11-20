@@ -1,3 +1,5 @@
+import defaultMessages from "@/messages/pl.json";
+
 export default function GlobalNotFound() {
   return (
     <html lang="pl">
@@ -15,7 +17,7 @@ export default function GlobalNotFound() {
       >
         <div style={{ textAlign: "center" }}>
           <h1 style={{ fontSize: "3rem", margin: 0 }}>404</h1>
-          <p>Strona nie została znaleziona.</p>
+          <p>{defaultMessages.ui.notFound}</p>
           <a
             href="/pl"
             style={{
@@ -28,7 +30,7 @@ export default function GlobalNotFound() {
               textDecoration: "none",
             }}
           >
-            Wróć na stronę główną
+            {defaultMessages.ui.home}
           </a>
         </div>
       </body>

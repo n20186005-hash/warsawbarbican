@@ -1,15 +1,15 @@
 import type { Metadata } from "next";
 import { siteConfig } from "@/config";
+import defaultMessages from "@/messages/pl.json";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.baseUrl),
   title: {
-    default: "Warsaw Barbican — Visitor Guide & History",
+    default: defaultMessages.meta.title,
     template: "%s",
   },
-  description:
-    "Independent visitor guide to the Warsaw Barbican (Barbakan Warszawski): opening hours, tickets, history, photos and a self-guided Old Town walking route.",
-  applicationName: "Warsaw Barbican Guide",
+  description: defaultMessages.meta.description,
+  applicationName: defaultMessages.ui.guideName,
   formatDetection: { telephone: false },
 };
 

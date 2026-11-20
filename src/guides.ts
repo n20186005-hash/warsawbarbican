@@ -1,4 +1,10 @@
-export const guideTopics = ["tickets-and-opening-hours", "old-town-city-walls-walk"] as const;
+import visitorGuides from "@/content/warsaw-guides.json";
+import { guideSources, visitorLabels } from "@/content/warsaw-guide-labels";
+
+export const originalTopics = ["tickets-and-opening-hours", "old-town-city-walls-walk"] as const;
+export type VisitorTopic = keyof typeof visitorGuides;
+export const visitorTopics = Object.keys(visitorGuides) as VisitorTopic[];
+export const guideTopics = [...originalTopics, ...visitorTopics];
 export type GuideTopic = (typeof guideTopics)[number];
 
 export const guideCopy = {
@@ -37,7 +43,7 @@ export const guideCopy = {
     ]],
     walk: ["華沙甕城與老城城牆步行路線", "從甕城出發，經老城市集廣場抵達城堡廣場，沿途觀察防禦工事與老城街巷。", [
       ["1. 華沙甕城", "在 Nowomiejska 15/17 起步，先從新城一側拍攝弧形紅磚城門，再穿過門洞，觀察城門與城牆的接合處。"],
-      ["2. 老城市集廣場", "沿 Nowomiejska 走到老城市集廣場，在美人魚雕像旁停留。廣場 42 號的華沙博物館可延伸了解古城防禦。"],
+      ["2. 老城市集廣場", "沿 Nowomiejska 走到老城市集廣場，在美人魚雕像旁停留。廣場 42 號的華沙博物館可延伸瞭解古城防禦。"],
       ["3. 城堡廣場", "沿 Świętojańska 前往城堡廣場，可看到皇家城堡和西吉斯蒙德圓柱。連同拍照停留，建議預留 30–45 分鐘。"],
     ]],
   },
@@ -70,5 +76,25 @@ export const guideCopy = {
 } as const;
 
 export const guidePath = (locale: string, topic: GuideTopic) => `/${locale}/guide/${topic}`;
-export const getGuide = (locale: keyof typeof guideCopy, topic: GuideTopic) =>
-  guideCopy[locale][topic === "tickets-and-opening-hours" ? "tickets" : "walk"];
+export type GuideLocale = keyof typeof guideCopy;
+type GuideGroup = keyof (typeof visitorLabels)["en"]["groups"];
+
+export function getVisitorGuide(locale: GuideLocale, topic: GuideTopic) {
+  if (topic === "tickets-and-opening-hours" || topic === "old-town-city-walls-walk") return null;
+
+  const { place, duration, group, source, copy } = visitorGuides[topic];
+  const [title, description, walk] = copy[locale];
+  return {
+    title, description, walk, place, duration,
+    group: group as GuideGroup,
+    source: guideSources[source],
+    mapUrl: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(place)}`,
+  };
+}
+
+export function getGuide(locale: GuideLocale, topic: GuideTopic) {
+  const guide = getVisitorGuide(locale, topic);
+  if (!guide) return guideCopy[locale][topic === "tickets-and-opening-hours" ? "tickets" : "walk"];
+  const { background, walk } = visitorLabels[locale];
+  return [guide.title, guide.description, [[background, guide.description], [walk, guide.walk]]] as const;
+}

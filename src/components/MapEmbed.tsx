@@ -1,21 +1,25 @@
-import { getTranslations } from "next-intl/server";
+import { getLocale, getTranslations } from "next-intl/server";
 import { siteConfig } from "@/config";
 
 export default async function MapEmbed() {
+  const ui = await getTranslations("ui");
   const t = await getTranslations("mapSection");
+
+  const locale = await getLocale();
+  const mapLocale = locale === "zh" ? "zh-TW" : locale;
 
   return (
     <section className="section" id="map">
       <div className="container">
         <div className="section-head">
-          <span className="kicker">Map</span>
+          <span className="kicker">{ui("map")}</span>
           <h2>{t("title")}</h2>
           <p>{t("subtitle")}</p>
         </div>
 
         <iframe
           className="map-frame"
-          src={siteConfig.mapsEmbedSrc}
+          src={siteConfig.mapsEmbedSrc.replaceAll("zh-CN", mapLocale)}
           loading="lazy"
           referrerPolicy="strict-origin-when-cross-origin"
           allowFullScreen
@@ -42,7 +46,7 @@ export default async function MapEmbed() {
               {t("authorityLink")}
             </a>
             <br />
-            <strong>Plus Code:</strong> {siteConfig.plusCode}
+            <strong>{ui("plusCode")}:</strong> {siteConfig.plusCode}
           </div>
         </div>
 

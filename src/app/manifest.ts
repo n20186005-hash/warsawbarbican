@@ -1,11 +1,11 @@
 import type { MetadataRoute } from "next";
-import { siteConfig } from "@/config";
+import defaultMessages from "@/messages/pl.json";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Warsaw Barbican — Visitor Guide",
-    short_name: "Warsaw Barbican",
-    description: "Opening hours, tickets, history and walking routes for the Warsaw Barbican (Barbakan Warszawski).",
+    name: defaultMessages.ui.guideName,
+    short_name: defaultMessages.ui.brand,
+    description: defaultMessages.meta.description,
     start_url: "/pl",
     display: "standalone",
     background_color: "#ffffff",

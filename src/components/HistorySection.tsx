@@ -1,13 +1,14 @@
 import { getTranslations } from "next-intl/server";
 
 export default async function HistorySection() {
+  const ui = await getTranslations("ui");
   const t = await getTranslations("history");
 
   return (
     <section className="section section-alt" id="history">
       <div className="container">
         <div className="section-head">
-          <span className="kicker">Architecture & heritage</span>
+          <span className="kicker">{ui("architecture")}</span>
           <h2>{t("title")}</h2>
           <p>{t("subtitle")}</p>
         </div>

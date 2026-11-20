@@ -1,3 +1,4 @@
+import { languageTag } from "@/i18n/language-tags";
 import type { MetadataRoute } from "next";
 import { siteConfig } from "@/config";
 import { routing } from "@/i18n/routing";
@@ -17,7 +18,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     alternates: {
       languages: {
         ...Object.fromEntries(
-          locales.map((l) => [l, `${siteConfig.baseUrl}/${l}`])
+          locales.map((l) => [languageTag(l), `${siteConfig.baseUrl}/${l}`])
         ),
         "x-default": `${siteConfig.baseUrl}/${routing.defaultLocale}`,
       },
@@ -28,7 +29,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date("2026-11-20"),
     alternates: {
       languages: {
-        ...Object.fromEntries(locales.map((lang) => [lang, siteConfig.baseUrl + guidePath(lang, topic)])),
+        ...Object.fromEntries(locales.map((lang) => [languageTag(lang), siteConfig.baseUrl + guidePath(lang, topic)])),
         "x-default": siteConfig.baseUrl + guidePath(routing.defaultLocale, topic),
       },
     },

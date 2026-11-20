@@ -1,13 +1,14 @@
 import { getTranslations } from "next-intl/server";
 
 export default async function PhotoSpots() {
+  const ui = await getTranslations("ui");
   const t = await getTranslations("photoSpots");
 
   return (
     <section className="section section-alt" id="photos">
       <div className="container">
         <div className="section-head">
-          <span className="kicker">Photography</span>
+          <span className="kicker">{ui("photo")}</span>
           <h2>{t("title")}</h2>
           <p>{t("subtitle")}</p>
         </div>

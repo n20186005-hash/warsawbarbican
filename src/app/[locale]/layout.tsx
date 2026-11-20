@@ -1,3 +1,4 @@
+import { languageTag } from "@/i18n/language-tags";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { NextIntlClientProvider, hasLocale } from "next-intl";
@@ -12,7 +13,7 @@ import "../globals.css";
 const htmlLangMap: Record<string, string> = {
   pl: "pl",
   en: "en",
-  zh: "zh-CN",
+  zh: "zh-TW",
   ru: "ru",
   de: "de",
 };
@@ -20,7 +21,7 @@ const htmlLangMap: Record<string, string> = {
 const ogLocaleMap: Record<string, string> = {
   pl: "pl_PL",
   en: "en_US",
-  zh: "zh_CN",
+  zh: "zh_TW",
   ru: "ru_RU",
   de: "de_DE",
 };
@@ -36,6 +37,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "meta" });
+  const ui = await getTranslations({ locale, namespace: "ui" });
   const heroT = await getTranslations({ locale, namespace: "hero" });
   const url = `${siteConfig.baseUrl}/${locale}`;
 
@@ -43,11 +45,13 @@ export async function generateMetadata({
     title: t("title"),
     description: t("description"),
     keywords: t("keywords"),
+    applicationName: ui("guideName"),
+    manifest: "/manifest.webmanifest",
     alternates: {
       canonical: url,
       languages: {
         ...Object.fromEntries(
-          routing.locales.map((l) => [l, `${siteConfig.baseUrl}/${l}`])
+          routing.locales.map((l) => [languageTag(l), `${siteConfig.baseUrl}/${l}`])
         ),
         "x-default": `${siteConfig.baseUrl}/${routing.defaultLocale}`,
       },
@@ -56,7 +60,7 @@ export async function generateMetadata({
       title: t("title"),
       description: t("description"),
       url,
-      siteName: "Warsaw Barbican",
+      siteName: ui("brand"),
       type: "website",
       locale: ogLocaleMap[locale] ?? "pl_PL",
       images: [
@@ -91,6 +95,7 @@ export default async function LocaleLayout({
   setRequestLocale(locale);
 
   const t = await getTranslations({ locale, namespace: "meta" });
+  const ui = await getTranslations({ locale, namespace: "ui" });
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -98,7 +103,7 @@ export default async function LocaleLayout({
       {
         "@type": "Organization",
         "@id": `${siteConfig.baseUrl}/#organization`,
-        name: "Warsaw Barbican Guide",
+        name: ui("guideName"),
         url: siteConfig.baseUrl,
         logo: {
           "@type": "ImageObject",
@@ -109,7 +114,7 @@ export default async function LocaleLayout({
         "@type": "WebSite",
         "@id": `${siteConfig.baseUrl}/#website`,
         url: siteConfig.baseUrl,
-        name: "Warsaw Barbican — Visitor Guide",
+        name: ui("guideName"),
         publisher: { "@id": `${siteConfig.baseUrl}/#organization` },
         inLanguage: htmlLangMap[locale] ?? "pl",
       },
@@ -128,10 +133,9 @@ export default async function LocaleLayout({
       {
         "@type": ["TouristAttraction", "LandmarksOrHistoricalBuildings"],
         "@id": `${siteConfig.baseUrl}/#attraction`,
-        name: "Warsaw Barbican",
-        alternateName: ["Barbakan Warszawski", "Barbican in Warsaw"],
-        description:
-          "Historic 16th-century fortified outpost and city gate in Old Town Warsaw, Poland.",
+        name: ui("brand"),
+        alternateName: ["Barbakan Warszawski"],
+        description: ui("attraction"),
         address: {
           "@type": "PostalAddress",
           streetAddress: "Nowomiejska 15/17",
@@ -157,11 +161,10 @@ export default async function LocaleLayout({
           ratingCount: 11164,
           bestRating: 5,
         },
-        touristType: ["Historic Landmark", "City Gate", "Fortification"],
         openingHoursSpecification: [
           {
             "@type": "OpeningHoursSpecification",
-            name: "Gate passage & city walls",
+            name: ui("gateHours"),
             dayOfWeek: [
               "Monday",
               "Tuesday",
@@ -176,7 +179,7 @@ export default async function LocaleLayout({
           },
           {
             "@type": "OpeningHoursSpecification",
-            name: "Exhibition (summer season)",
+            name: ui("exhibitionHours"),
             dayOfWeek: ["Wednesday", "Saturday"],
             opens: "13:00",
             closes: "17:00",
@@ -215,7 +218,7 @@ export default async function LocaleLayout({
       </head>
       <body>
         <a className="skip-link" href="#main">
-          Skip to content
+          {ui("skip")}
         </a>
         <NextIntlClientProvider>
           <Header />

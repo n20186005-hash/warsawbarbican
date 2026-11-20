@@ -2,13 +2,14 @@ import { getTranslations } from "next-intl/server";
 import { siteConfig } from "@/config";
 
 export default async function BasicInfo() {
+  const ui = await getTranslations("ui");
   const t = await getTranslations("basicInfo");
 
   return (
     <section className="section section-alt" id="basicInfo">
       <div className="container">
         <div className="section-head">
-          <span className="kicker">Essential info</span>
+          <span className="kicker">{ui("essential")}</span>
           <h2>{t("title")}</h2>
           <p>{t("intro")}</p>
         </div>

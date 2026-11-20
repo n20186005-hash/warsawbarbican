@@ -3,6 +3,7 @@ import { Link } from "@/i18n/navigation";
 import LanguageToggle from "./LanguageToggle";
 
 export default async function Header() {
+  const ui = await getTranslations("ui");
   const t = await getTranslations("header");
   const locale = await getLocale();
 
@@ -36,10 +37,10 @@ export default async function Header() {
             <path d="M5 21V7l7-4 7 4v14" />
             <path d="M9 21v-6h6v6" />
           </svg>
-          Warsaw Barbican
+          {ui("brand")}
         </Link>
 
-        <nav className="main-nav" aria-label="Main">
+        <nav className="main-nav" aria-label={ui("main")}>
           {navItems.map((item) => (
             <a key={item.key} href={`/${locale}/${item.href}`}>
               {t(`nav.${item.key}`)}

@@ -1,0 +1,1025 @@
+{
+  "market-square": {
+    "place": "Rynek Starego Miasta, Warszawa",
+    "source": "old-town",
+    "duration": "15–25",
+    "group": "oldTown",
+    "copy": {
+      "pl": [
+        "Rynek Starego Miasta",
+        "Na dawnym placu targowym porównaj szerokość odbudowanych kamienic po czterech stronach rynku. Wąskie fasady pokazują podział na dawne parcele.",
+        "Od Barbakanu idź Nowomiejską. Obejdź rynek przy pierzejach, a potem ustaw się w narożniku, by objąć fasady i Syrenkę jednym kadrem."
+      ],
+      "en": [
+        "Old Town Market Square",
+        "Compare the widths of the rebuilt townhouses on the four sides of Warsaw’s former marketplace. Their narrow fronts preserve the rhythm of the old plots.",
+        "Walk down Nowomiejska from the Barbican. Circle the square along the façades, then try a corner for a photograph with both the townhouses and the Mermaid."
+      ],
+      "zh": [
+        "老城市集廣場",
+        "沿華沙昔日市集的四個街廓，比較戰後重建的聯排屋寬度。窄面寬仍可看出舊地塊的排列。",
+        "從甕城沿 Nowomiejska 抵達，貼著四側屋前繞一圈，再從廣場角落把彩色立面和美人魚一起入鏡。"
+      ],
+      "ru": [
+        "Рыночная площадь Старого города",
+        "Сравните ширину восстановленных домов по четырём сторонам бывшего рынка. Узкие фасады напоминают о старой разбивке участков.",
+        "От барбакана идите по Новомейской. Обойдите площадь вдоль домов и снимите фасады вместе с Русалкой из угла площади."
+      ],
+      "de": [
+        "Altstadtmarkt",
+        "Vergleichen Sie die Breite der wiederaufgebauten Häuser auf allen vier Seiten des früheren Markts. Die schmalen Fassaden spiegeln die alten Grundstücksgrenzen.",
+        "Gehen Sie von der Barbakane über die Nowomiejska. Umrunden Sie den Platz am Rand und fotografieren Sie Häuser und Meerjungfrau aus einer Ecke."
+      ]
+    }
+  },
+  "warsaw-mermaid": {
+    "place": "Pomnik Syrenki, Rynek Starego Miasta, Warszawa",
+    "source": "old-town",
+    "duration": "5–10",
+    "group": "oldTown",
+    "copy": {
+      "pl": [
+        "Syrenka na Rynku",
+        "Miecz i tarcza odróżniają warszawską Syrenkę od zwykłej figury morskiej. Jej wizerunek jest również herbem miasta.",
+        "Na środku rynku obejdź figurę. Do zdjęcia odejdź kilka kroków, aby za tarczą znalazły się kolorowe kamienice."
+      ],
+      "en": [
+        "Old Town Mermaid",
+        "The sword and shield identify the Mermaid as Warsaw’s guardian, an image also used in the city’s coat of arms.",
+        "Circle the figure in the middle of the Market Square. Step back far enough to set the shield against the surrounding townhouses."
+      ],
+      "zh": [
+        "老城美人魚雕像",
+        "劍與盾讓美人魚成為華沙的守護者形象，也是市徽上的圖案。",
+        "到市集廣場中央繞看雕像，拍照時後退幾步，用彩色聯排屋襯託盾牌。"
+      ],
+      "ru": [
+        "Русалка на Рыночной площади",
+        "Меч и щит изображают Русалку защитницей Варшавы. Этот же образ используется на гербе города.",
+        "Обойдите фигуру в центре Рыночной площади. Отойдите на несколько шагов, чтобы снять щит на фоне цветных домов."
+      ],
+      "de": [
+        "Meerjungfrau auf dem Altstadtmarkt",
+        "Schwert und Schild kennzeichnen die Meerjungfrau als Beschützerin Warschaus. Die Figur erscheint auch im Stadtwappen.",
+        "Umrunden Sie die Statue in der Mitte des Markts. Mit etwas Abstand lässt sich der Schild vor den bunten Häusern fotografieren."
+      ]
+    }
+  },
+  "museum-of-warsaw": {
+    "place": "Muzeum Warszawy, Rynek Starego Miasta 28–42, Warszawa",
+    "source": "museum",
+    "duration": "75–120",
+    "group": "oldTown",
+    "copy": {
+      "pl": [
+        "Muzeum Warszawy",
+        "Muzeum zajmuje szereg kamienic po północnej stronie rynku. Przedmioty codziennego użytku pomagają prześledzić historię mieszkańców między kolejnymi epokami miasta.",
+        "Od Syrenki podejdź do numeru 42. Na krótszą wizytę wybierz kilka sal i sprawdź godziny oraz dostępność przejść między kamienicami u organizatora."
+      ],
+      "en": [
+        "Museum of Warsaw",
+        "A row of historic houses on the north side of the square contains collections of objects that trace how Warsaw’s residents lived and how the city changed.",
+        "Approach number 42 from the Mermaid. For a short visit, choose a few rooms and check hours and accessible routes between the houses with the museum."
+      ],
+      "zh": [
+        "華沙博物館",
+        "市集廣場北側的一排歷史聯排屋串成展館，可透過日用物件瞭解居民生活與城市變遷。",
+        "從美人魚走向廣場 42 號。時間有限可先挑幾個展廳，行前向館方查詢開館時間與各棟之間的無障礙動線。"
+      ],
+      "ru": [
+        "Музей Варшавы",
+        "Музей занимает ряд исторических домов на северной стороне площади. Бытовые предметы рассказывают о прошлом города через повседневную жизнь жителей.",
+        "От Русалки идите к дому 42. Если времени мало, выберите несколько залов и заранее уточните часы и доступность переходов между домами."
+      ],
+      "de": [
+        "Museum von Warschau",
+        "Das Museum belegt mehrere historische Häuser an der Nordseite des Markts. Alltagsgegenstände zeigen die Veränderungen der Stadt aus Sicht ihrer Bewohner.",
+        "Gehen Sie von der Meerjungfrau zur Hausnummer 42. Wählen Sie bei wenig Zeit einige Räume aus und fragen Sie nach den Öffnungszeiten und barrierearmen Verbindungen."
+      ]
+    }
+  },
+  "old-town-cellars": {
+    "place": "Centrum Interpretacji Zabytku, Brzozowa 11/13, Warszawa",
+    "source": "old-town",
+    "duration": "30–60",
+    "group": "oldTown",
+    "copy": {
+      "pl": [
+        "Piwnice staromiejskie",
+        "Sklepione piwnice pokazują warstwy starego miasta ukryte pod odbudowanymi fasadami. Zwróć uwagę na grubość murów i różne poziomy podłóg.",
+        "Zacznij przy Muzeum Warszawy. Sprawdź, które obiekty szlaku można zwiedzić danego dnia i które wejścia wymagają pokonania schodów."
+      ],
+      "en": [
+        "Old Town Cellars",
+        "Vaulted cellars preserve layers of the city beneath the rebuilt façades. Look for thick masonry and changes in floor level.",
+        "Start at the Museum of Warsaw. Check which sites on the cellar trail admit visitors that day and which entrances involve stairs."
+      ],
+      "zh": [
+        "老城地窖",
+        "拱頂地窖保留了重建立面底下的城市歷史。參觀時可觀察厚牆與地面高差。",
+        "先到華沙博物館，確認地窖路線當天開放的場館，以及各入口的階梯情況。"
+      ],
+      "ru": [
+        "Подвалы Старого города",
+        "Сводчатые подвалы сохраняют исторические слои города под восстановленными фасадами. Обратите внимание на толщину кладки и перепады пола.",
+        "Начните у Музея Варшавы. Узнайте, какие объекты маршрута открыты сегодня и на каких входах есть ступени."
+      ],
+      "de": [
+        "Altstadtkeller",
+        "Gewölbekeller bewahren ältere Schichten der Stadt unter den wiederaufgebauten Fassaden. Achten Sie auf dickes Mauerwerk und unterschiedliche Fußbodenniveaus.",
+        "Beginnen Sie am Museum von Warschau. Prüfen Sie, welche Stationen der Kellerroute geöffnet sind und wo Treppen zu überwinden sind."
+      ]
+    }
+  },
+  "castle-square": {
+    "place": "Plac Zamkowy, Warszawa",
+    "source": "old-town",
+    "duration": "10–20",
+    "group": "oldTown",
+    "copy": {
+      "pl": [
+        "Plac Zamkowy",
+        "Trójkątny plac otwiera się pomiędzy Starym Miastem a Traktem Królewskim. Z jednego miejsca można porównać skalę zamku, kolumny i domów przy Świętojańskiej.",
+        "Z rynku przyjdź Świętojańską. Stań po stronie Krakowskiego Przedmieścia, aby objąć kolumnę i fasadę zamku szerokim kadrem."
+      ],
+      "en": [
+        "Castle Square",
+        "This triangular square opens between the Old Town and the Royal Route. Compare the scale of the castle, the column and the houses along Świętojańska.",
+        "Approach from the Market Square via Świętojańska. Frame the column and castle together from the side nearest Krakowskie Przedmieście."
+      ],
+      "zh": [
+        "城堡廣場",
+        "三角形廣場銜接老城與皇家大道，可同時比較皇家城堡、紀念圓柱與 Świętojańska 街屋的尺度。",
+        "由市集廣場沿 Świętojańska 抵達，站在靠 Krakowskie Przedmieście 的一側拍攝圓柱與城堡正面。"
+      ],
+      "ru": [
+        "Замковая площадь",
+        "Треугольная площадь соединяет Старый город с Королевским трактом. Здесь удобно сравнить масштаб замка, колонны и домов на Свентояньской.",
+        "От рынка идите по Свентояньской. Снимите колонну и замок со стороны Краковского предместья."
+      ],
+      "de": [
+        "Schlossplatz",
+        "Der dreieckige Platz verbindet die Altstadt mit dem Königsweg. Hier lassen sich Schloss, Säule und Häuser der Świętojańska gut im Maßstab vergleichen.",
+        "Kommen Sie vom Markt über die Świętojańska. Von der Seite der Krakowskie Przedmieście passen Schloss und Säule gemeinsam ins Bild."
+      ]
+    }
+  },
+  "royal-castle": {
+    "place": "Zamek Królewski, Plac Zamkowy 4, Warszawa",
+    "source": "castle",
+    "duration": "90–150",
+    "group": "oldTown",
+    "copy": {
+      "pl": [
+        "Zamek Królewski",
+        "Odbudowana rezydencja mieści królewskie apartamenty oraz obrazy Rembrandta i Bernarda Bellotta. Spójrz z placu na wieżę zegarową, a po zwiedzaniu porównaj ją z elewacją od Wisły.",
+        "Wejście zaplanuj od placu Zamkowego. Przed spacerem wybierz trasę w muzeum i sprawdź ostatnią godzinę wejścia dla wybranej wystawy."
+      ],
+      "en": [
+        "Royal Castle",
+        "The rebuilt royal residence contains state apartments and paintings by Rembrandt and Bernardo Bellotto. Compare the clock tower from Castle Square with the very different river-facing frontage.",
+        "Start at Castle Square. Choose a museum route in advance and check last admission for your exhibition before planning a walk around it."
+      ],
+      "zh": [
+        "皇家城堡",
+        "重建的王室宮殿內有皇家廳室，以及林布蘭與貝爾納多・貝洛託的畫作。先從城堡廣場看鐘樓，再比較面向維斯瓦河的立面。",
+        "從城堡廣場前往入口。先選館內參觀路線，查清目標展覽的最後入場時間，再安排周邊散步。"
+      ],
+      "ru": [
+        "Королевский замок",
+        "В восстановленной резиденции находятся парадные покои и картины Рембрандта и Бернардо Беллотто. Сравните часовую башню со стороны площади с речным фасадом.",
+        "Подходите от Замковой площади. Заранее выберите музейный маршрут и проверьте время последнего входа на нужную выставку."
+      ],
+      "de": [
+        "Königsschloss",
+        "Die wiederaufgebaute Residenz beherbergt Prunkräume und Gemälde von Rembrandt und Bernardo Bellotto. Vergleichen Sie den Uhrturm am Schlossplatz mit der Fassade zur Weichsel.",
+        "Beginnen Sie am Schlossplatz. Wählen Sie vorab einen Museumsrundgang und prüfen Sie den letzten Einlass für die gewünschte Ausstellung."
+      ]
+    }
+  },
+  "sigismunds-column": {
+    "place": "Kolumna Zygmunta, Plac Zamkowy, Warszawa",
+    "source": "old-town",
+    "duration": "5–10",
+    "group": "oldTown",
+    "copy": {
+      "pl": [
+        "Kolumna Zygmunta",
+        "Wysoko ustawiona figura Zygmunta III Wazy góruje nad placem Zamkowym. Przyjrzyj się krzyżowi i mieczowi w dłoniach króla.",
+        "Najpierw obejrzyj cokół, potem odejdź w stronę Świętojańskiej, aby zobaczyć sylwetkę figury ponad zabudową."
+      ],
+      "en": [
+        "Sigismund’s Column",
+        "The elevated figure of Sigismund III Vasa presides over Castle Square. Look up to pick out the king’s cross and sword.",
+        "Examine the pedestal, then step towards Świętojańska for a view of the statue rising above the roofs."
+      ],
+      "zh": [
+        "西吉斯蒙德圓柱",
+        "西吉斯蒙德三世・瓦薩的雕像高踞城堡廣場上方，抬頭可辨認國王手中的十字架與劍。",
+        "先看柱座，再往 Świętojańska 方向退幾步，觀察雕像高出周圍屋頂的輪廓。"
+      ],
+      "ru": [
+        "Колонна Сигизмунда",
+        "Фигура Сигизмунда III Вазы возвышается над Замковой площадью. В руках короля можно различить крест и меч.",
+        "Посмотрите на пьедестал, затем отойдите к Свентояньской, чтобы увидеть силуэт над крышами."
+      ],
+      "de": [
+        "Sigismundsäule",
+        "Die Figur Sigismunds III. Wasa ragt über den Schlossplatz. Am König lassen sich Kreuz und Schwert erkennen.",
+        "Sehen Sie sich den Sockel an und gehen Sie dann Richtung Świętojańska, um die Figur über den Dächern zu betrachten."
+      ]
+    }
+  },
+  "st-johns-archcathedral": {
+    "place": "Archikatedra św. Jana, Świętojańska 8, Warszawa",
+    "source": "old-town",
+    "duration": "20–35",
+    "group": "oldTown",
+    "copy": {
+      "pl": [
+        "Archikatedra św. Jana",
+        "Schodkowy szczyt ceglanej fasady jest czytelny z wąskiej Świętojańskiej. W katedrze spoczywają między innymi książęta mazowieccy oraz Stanisław August Poniatowski.",
+        "Wejdź od Świętojańskiej w przerwie między nabożeństwami. Dostęp do krypt sprawdź osobno i po wyjściu skręć za katedrę na Kanonię."
+      ],
+      "en": [
+        "St John’s Archcathedral",
+        "The stepped brick gable is visible even from narrow Świętojańska. The cathedral holds the tombs of Mazovian princes and King Stanisław August Poniatowski.",
+        "Visit from Świętojańska between services. Check crypt access separately, then round the cathedral to Kanonia on leaving."
+      ],
+      "zh": [
+        "聖若翰總主教座堂",
+        "從狹窄的 Świętojańska 街仍可看清紅磚階梯山牆。教堂內安葬了馬佐夫舍諸公爵與國王斯坦尼斯瓦夫・奧古斯特・波尼亞托夫斯基。",
+        "從 Świętojańska 進入，避開禮拜時段。地下墓室開放情況另行查詢，出來可繞到教堂背後的卡諾尼亞廣場。"
+      ],
+      "ru": [
+        "Архикафедральный собор Святого Иоанна",
+        "Ступенчатый кирпичный фронтон виден с узкой Свентояньской. В соборе погребены мазовецкие князья и король Станислав Август Понятовский.",
+        "Входите со Свентояньской между службами. Доступ в крипты уточняйте отдельно, а после визита обойдите собор к Канонии."
+      ],
+      "de": [
+        "Johanneskathedrale",
+        "Der gestufte Backsteingiebel ist von der schmalen Świętojańska zu sehen. Im Dom ruhen unter anderem masowische Herzöge und König Stanisław August Poniatowski.",
+        "Besuchen Sie den Dom zwischen Gottesdiensten. Prüfen Sie den Zugang zur Krypta gesondert und gehen Sie anschließend zur Kanonia hinter dem Dom."
+      ]
+    }
+  },
+  "kanonia-square": {
+    "place": "Kanonia, Warszawa",
+    "source": "old-town",
+    "duration": "5–10",
+    "group": "oldTown",
+    "copy": {
+      "pl": [
+        "Plac Kanonia i dzwon",
+        "Mały plac za archikatedrą otaczają ciasno ustawione kamienice. Wolno stojący dzwon daje punkt odniesienia do ich skali.",
+        "Od Świętojańskiej obejdź katedrę. Z krawędzi placu można ująć dzwon i zabudowę w jednym kadrze, pozostawiając środek przejścia wolny."
+      ],
+      "en": [
+        "Kanonia Square and Bell",
+        "Tightly spaced houses surround the small square behind the cathedral. The freestanding bell gives a sense of their scale.",
+        "Round the cathedral from Świętojańska. Shoot from the square’s edge to frame the bell with the houses and leave the passage clear."
+      ],
+      "zh": [
+        "卡諾尼亞廣場與古鐘",
+        "教堂後方的小廣場被密集排列的連棟屋包圍，獨立擺放的古鐘可作為觀察空間尺度的參照。",
+        "從 Świętojańska 繞到教堂後方，在廣場邊緣將鐘與房屋一起入鏡，讓出中央通道。"
+      ],
+      "ru": [
+        "Площадь Канония и колокол",
+        "Крошечную площадь за собором окружают тесно стоящие дома. Отдельно установленный колокол помогает оценить их масштаб.",
+        "Обойдите собор со Свентояньской. Снимайте с края площади, чтобы вместить колокол и дома и оставить проход свободным."
+      ],
+      "de": [
+        "Kanonia und die Glocke",
+        "Eng stehende Häuser umgeben den kleinen Platz hinter dem Dom. Die frei stehende Glocke macht ihre Proportionen deutlich.",
+        "Gehen Sie von der Świętojańska um den Dom herum. Fotografieren Sie Glocke und Häuser vom Rand des Platzes und halten Sie den Durchgang frei."
+      ]
+    }
+  },
+  "gnojna-gora-viewpoint": {
+    "place": "Góra Gnojna, Brzozowa, Warszawa",
+    "source": "old-town",
+    "duration": "10–15",
+    "group": "oldTown",
+    "copy": {
+      "pl": [
+        "Punkt widokowy na Górze Gnojnej",
+        "Wschodnia krawędź Starego Miasta opada ku Wiśle. Z tarasu zobaczysz, jak położenie na skarpie oddziela rynek od nadrzecznych dzielnic.",
+        "Dojdź Brzozową od rynku i skieruj obiektyw ponad balustradą ku rzece. Jeśli chcesz uniknąć schodów, wróć tą samą ulicą."
+      ],
+      "en": [
+        "Gnojna Góra Viewpoint",
+        "At the eastern edge of the Old Town, the ground drops towards the Vistula. The terrace shows how the escarpment separates the Market Square from the river districts.",
+        "Approach along Brzozowa from the market and aim over the railing towards the river. Return the same way if you are avoiding steps."
+      ],
+      "zh": [
+        "格諾伊納山觀景臺",
+        "老城東緣朝維斯瓦河陡降。站在平臺可看出高地市集與低處河岸街區之間的落差。",
+        "從市集沿 Brzozowa 前往，越過欄杆向河面構圖。若想避開階梯，可沿原路返回。"
+      ],
+      "ru": [
+        "Смотровая площадка Гнойна-Гура",
+        "Восточная окраина Старого города спускается к Висле. С площадки видно, как уступ отделяет рынок от прибрежных кварталов.",
+        "Подойдите по Бжозовой от рынка и направьте камеру к реке поверх перил. Для прогулки без лестницы возвращайтесь тем же путём."
+      ],
+      "de": [
+        "Aussichtspunkt Gnojna Góra",
+        "Am Ostrand der Altstadt fällt das Gelände zur Weichsel ab. Von der Terrasse erkennt man, wie die Böschung Markt und Uferquartiere trennt.",
+        "Kommen Sie vom Markt über die Brzozowa und fotografieren Sie über das Geländer zum Fluss. Gehen Sie auf demselben Weg zurück, wenn Sie Treppen meiden möchten."
+      ]
+    }
+  },
+  "stone-steps": {
+    "place": "Kamienne Schodki, Warszawa",
+    "source": "unesco",
+    "duration": "5–10",
+    "group": "oldTown",
+    "copy": {
+      "pl": [
+        "Kamienne Schodki",
+        "Wąska ulica ze stopniami odzwierciedla strome położenie Starego Miasta na skarpie.",
+        "Podejdź od rynku i spójrz w dół wzdłuż osi uliczki. Przy śliskich stopniach pozostań na górnym odcinku."
+      ],
+      "en": [
+        "Stone Steps Lane",
+        "The narrow stepped lane shows how streets on the escarpment adapt to the Old Town’s steep terrain.",
+        "Approach from the Market Square and look down the axis of the lane. Stay at the upper end when the steps are slippery."
+      ],
+      "zh": [
+        "石階巷",
+        "狹窄的階梯巷順著陡坡修建，反映老城街道如何適應河岸高地。",
+        "從市集一側靠近並順著巷道向下看。若石階濕滑，可留在上端觀察。"
+      ],
+      "ru": [
+        "Переулок Каменные ступени",
+        "Узкий переулок с лестницей показывает, как улицы Старого города приспособлены к крутому склону.",
+        "Подойдите от рынка и посмотрите вниз по оси переулка. На скользких ступенях лучше остаться наверху."
+      ],
+      "de": [
+        "Steintreppengasse",
+        "Die schmale Treppengasse zeigt, wie sich die Altstadtstraßen dem steilen Gelände anpassen.",
+        "Kommen Sie vom Markt und schauen Sie die Gasse hinab. Bei rutschigen Stufen bietet der obere Abschnitt bereits einen guten Blick."
+      ]
+    }
+  },
+  "piwna-street": {
+    "place": "Piwna, Stare Miasto, Warszawa",
+    "source": "unesco",
+    "duration": "10–20",
+    "group": "oldTown",
+    "copy": {
+      "pl": [
+        "Ulica Piwna",
+        "Rząd kamienic i fasada kościoła św. Marcina pokazują różnicę pomiędzy skalą domu i budowli sakralnej w obrębie dawnych murów.",
+        "Wejdź od placu Zamkowego. Zatrzymaj się naprzeciw kościoła, a potem wróć na rynek poprzeczną uliczką."
+      ],
+      "en": [
+        "Piwna Street",
+        "Townhouses and St Martin’s Church show the scale of domestic and religious buildings within the former city walls.",
+        "Enter from Castle Square. Stop opposite St Martin’s, then take a side lane back to the Market Square."
+      ],
+      "zh": [
+        "皮夫納街",
+        "聯排屋與聖馬丁教堂並立，可比較昔日城牆範圍內民居與宗教建築的尺度。",
+        "由城堡廣場進入，在聖馬丁教堂對面停留，再從橫巷折回市集廣場。"
+      ],
+      "ru": [
+        "Улица Пивна",
+        "Жилые дома и костёл Святого Мартина позволяют сравнить масштаб жилой и церковной застройки внутри старых стен.",
+        "Войдите с Замковой площади. Остановитесь напротив костёла, затем вернитесь к рынку по боковому переулку."
+      ],
+      "de": [
+        "Piwna-Straße",
+        "Bürgerhäuser und die Martinskirche zeigen die unterschiedlichen Maßstäbe von Wohn- und Sakralbauten innerhalb der alten Stadtmauern.",
+        "Beginnen Sie am Schlossplatz. Halten Sie gegenüber der Martinskirche und gehen Sie durch eine Quergasse zum Markt zurück."
+      ]
+    }
+  },
+  "st-martins-church": {
+    "place": "Kościół św. Marcina, Piwna 9/11, Warszawa",
+    "source": "unesco",
+    "duration": "10–20",
+    "group": "oldTown",
+    "copy": {
+      "pl": [
+        "Kościół św. Marcina",
+        "Falujące linie fasady wyróżniają kościół wśród kamienic Piwnej. Przyjrzyj się portalowi i osi okien powyżej.",
+        "Przyjdź od placu Zamkowego. Obserwuj fasadę z przeciwnej strony ulicy, a wnętrze odwiedź, jeśli kościół jest otwarty poza nabożeństwem."
+      ],
+      "en": [
+        "St Martin’s Church",
+        "The curves of St Martin’s façade stand out along Piwna’s row of townhouses. Look at the portal and the alignment of the windows above.",
+        "Approach from Castle Square and look across the street at the façade. Enter if the church is open to visitors between services."
+      ],
+      "zh": [
+        "聖馬丁教堂",
+        "教堂外牆的曲線在皮夫納街平直排列的屋面中特別醒目。先看門框，再看上方窗戶的中軸。",
+        "由城堡廣場步行前往，站在街道對面觀察正面。若教堂在禮拜間開放，再進入參觀。"
+      ],
+      "ru": [
+        "Костёл Святого Мартина",
+        "Изогнутые линии фасада выделяют костёл среди домов Пивной. Обратите внимание на портал и ось окон над ним.",
+        "Подойдите от Замковой площади. Осмотрите фасад с противоположной стороны улицы и войдите, если храм открыт между службами."
+      ],
+      "de": [
+        "Martinskirche",
+        "Die geschwungene Fassade hebt sich von den Bürgerhäusern der Piwna ab. Achten Sie auf das Portal und die darüberliegende Fensterachse.",
+        "Kommen Sie vom Schlossplatz und betrachten Sie die Fassade von gegenüber. Gehen Sie hinein, wenn die Kirche zwischen Gottesdiensten geöffnet ist."
+      ]
+    }
+  },
+  "podwale-walk": {
+    "place": "Podwale, Stare Miasto, Warszawa",
+    "source": "barbican",
+    "duration": "20–30",
+    "group": "walls",
+    "copy": {
+      "pl": [
+        "Spacer ulicą Podwale",
+        "Podwale prowadzi po zewnętrznej stronie starego obwodu obronnego. Wzdłuż ulicy widać, jak ceglane mury wykorzystują różnice wysokości.",
+        "Wyjdź z Barbakanu na Podwale i idź w stronę placu Zamkowego. Z szerszych odcinków ulicy fotografuj mur po skosie."
+      ],
+      "en": [
+        "Podwale Wall Walk",
+        "Podwale follows the outer side of the old defensive circuit. From the street you can see how the brick walls use changes in terrain.",
+        "Leave the Barbican for Podwale and walk towards Castle Square. Photograph the walls at an angle from wider sections of the sidewalk."
+      ],
+      "zh": [
+        "波德瓦萊城牆散步",
+        "Podwale 沿昔日防禦圈外緣延伸，從街上可觀察磚牆如何配合地勢高低。",
+        "從甕城走上 Podwale 並往城堡廣場前進，可在較寬的人行道上斜拍城牆。"
+      ],
+      "ru": [
+        "Прогулка по Подвале",
+        "Улица Подвале идёт вдоль внешней стороны старых укреплений. С неё видно, как кирпичные стены используют перепад высот.",
+        "От барбакана идите по Подвале к Замковой площади. Снимайте стену под углом с более широких участков тротуара."
+      ],
+      "de": [
+        "Stadtmauerspaziergang an der Podwale",
+        "Die Podwale folgt der Außenseite des alten Befestigungsrings. Von der Straße sieht man, wie die Backsteinmauern die Höhenunterschiede nutzen.",
+        "Gehen Sie von der Barbakane über die Podwale zum Schlossplatz. Fotografieren Sie die Mauer schräg von einem breiteren Abschnitt des Gehwegs."
+      ]
+    }
+  },
+  "little-insurgent-monument": {
+    "place": "Pomnik Małego Powstańca, Podwale, Warszawa",
+    "source": "barbican",
+    "duration": "5–10",
+    "group": "walls",
+    "copy": {
+      "pl": [
+        "Pomnik Małego Powstańca",
+        "Niewielka figura w za dużym hełmie upamiętnia najmłodszych uczestników Powstania Warszawskiego. Ceglana ściana stanowi tło dla sylwetki.",
+        "Idąc Podwalem od Barbakanu, wypatruj pomnika przy murze. Zatrzymaj się z boku, by przeczytać napis i zostawić miejsce innym."
+      ],
+      "en": [
+        "Little Insurgent Monument",
+        "A small figure wearing an oversized helmet commemorates the youngest participants in the Warsaw Uprising. The brick wall forms a backdrop to its silhouette.",
+        "Follow Podwale from the Barbican and look for the statue against the wall. Pause at one side to read the inscription and leave room for others."
+      ],
+      "zh": [
+        "小起義者紀念碑",
+        "戴著過大頭盔的孩童雕像紀念華沙起義中年輕的參與者，磚牆襯托出雕像的輪廓。",
+        "自甕城沿 Podwale 步行，在城牆前尋找雕像。靠一側停留閱讀碑文，給其他人留下空間。"
+      ],
+      "ru": [
+        "Памятник Маленькому повстанцу",
+        "Небольшая фигура в слишком большом шлеме посвящена самым юным участникам Варшавского восстания. Кирпичная стена подчёркивает её силуэт.",
+        "Ищите памятник у стены на Подвале по пути от барбакана. Остановитесь сбоку, чтобы прочитать надпись и оставить место другим."
+      ],
+      "de": [
+        "Denkmal des Kleinen Aufständischen",
+        "Die kleine Figur mit einem übergroßen Helm erinnert an die jüngsten Teilnehmer des Warschauer Aufstands. Die Backsteinmauer bildet den Hintergrund.",
+        "Suchen Sie die Figur an der Mauer der Podwale. Lesen Sie die Inschrift von der Seite, damit andere Besucher Platz haben."
+      ]
+    }
+  },
+  "barbican-architecture": {
+    "place": "Barbakan Warszawski, Nowomiejska 15/17, Warszawa",
+    "source": "barbican",
+    "duration": "15–25",
+    "group": "walls",
+    "copy": {
+      "pl": [
+        "Architektura Barbakanu",
+        "Półkolisty plan odróżnia bramę od prostych odcinków murów. Otwory w ceglanej elewacji pozwalają zrozumieć, jak kontrolowano podejście do miasta.",
+        "Stań po stronie Freta, by zobaczyć obrys, po czym przejdź pod bramą. Obejrzyj styki murów od strony Podwala."
+      ],
+      "en": [
+        "Barbican Architecture",
+        "The curved footprint distinguishes the gate from the straight wall segments. Openings in the brickwork help explain how defenders watched the approach to town.",
+        "View the outline from the Freta side, pass beneath the gate and look at the junctions with the walls from Podwale."
+      ],
+      "zh": [
+        "華沙甕城的防禦建築",
+        "城門的半圓平面與筆直城牆形成對照，磚面上的開口讓人理解守軍如何監視接近城門的人。",
+        "先從 Freta 街一端看弧形外廓，再穿過門洞，從 Podwale 一側觀察與城牆的接合處。"
+      ],
+      "ru": [
+        "Архитектура барбакана",
+        "Полукруглая форма ворот отличается от прямых участков стены. По проёмам в кладке можно понять, как защитники наблюдали за подступами.",
+        "Рассмотрите контур со стороны Фреты, пройдите под воротами, а затем посмотрите на примыкания стен с Подвале."
+      ],
+      "de": [
+        "Architektur der Barbakane",
+        "Der gebogene Grundriss unterscheidet das Tor von den geraden Mauerabschnitten. Die Öffnungen im Backstein zeigen, wie die Verteidiger den Zugang überwachten.",
+        "Betrachten Sie die Form von der Freta aus, gehen Sie durch das Tor und schauen Sie sich die Maueranschlüsse von der Podwale an."
+      ]
+    }
+  },
+  "unesco-reconstruction": {
+    "place": "Stare Miasto, Warszawa",
+    "source": "unesco",
+    "duration": "30–45",
+    "group": "walls",
+    "copy": {
+      "pl": [
+        "Odbudowa Starego Miasta UNESCO",
+        "Wpis UNESCO docenia powojenną rekonstrukcję całej dzielnicy i zachowanie układu ulic. Odbudowę najlepiej czytać w skali kwartału, patrząc na parcele, pierzeje i położenie murów.",
+        "Porównaj rynek, wąską Świętojańską i otwarty plac Zamkowy. Na zakończenie spójrz na granicę dzielnicy przy Barbakanie od strony Freta."
+      ],
+      "en": [
+        "UNESCO Old Town Reconstruction",
+        "UNESCO recognizes the postwar reconstruction of an entire district, including its street plan. Look at plots, continuous façades and the line of the walls to understand reconstruction at the neighborhood scale.",
+        "Compare the Market Square, narrow Świętojańska and the open Castle Square. Finish on the Freta side of the Barbican to see where the enclosed town gave way to its neighbor."
+      ],
+      "zh": [
+        "世界遺產與華沙老城重建",
+        "聯合國教科文組織肯定華沙對整片街區的戰後重建，包括街道格局。觀察地塊、連續立面與城牆走向，可理解重建在街區尺度上的成果。",
+        "依次比較市集廣場、狹窄的 Świętojańska 和開闊的城堡廣場，再從 Freta 一側回望甕城，辨認老城原本的界線。"
+      ],
+      "ru": [
+        "Реконструкция Старого города и ЮНЕСКО",
+        "ЮНЕСКО отмечает послевоенное восстановление целого района, включая план улиц. Границы участков, ряды фасадов и линия стен помогают читать кварталы как единое целое.",
+        "Сравните рынок, узкую Свентояньскую и открытую Замковую площадь. Затем выйдите через барбакан к Фрете, чтобы увидеть границу старого города."
+      ],
+      "de": [
+        "UNESCO und der Wiederaufbau der Altstadt",
+        "Die UNESCO würdigt den Wiederaufbau eines ganzen Viertels mit seinem Straßengrundriss. Parzellen, Häuserfronten und der Mauerverlauf machen die Rekonstruktion im Stadtmaßstab verständlich.",
+        "Vergleichen Sie den Markt, die enge Świętojańska und den offenen Schlossplatz. Betrachten Sie anschließend von der Freta aus die alte Stadtgrenze an der Barbakane."
+      ]
+    }
+  },
+  "freta-street": {
+    "place": "Freta, Nowe Miasto, Warszawa",
+    "source": "unesco",
+    "duration": "15–25",
+    "group": "newTown",
+    "copy": {
+      "pl": [
+        "Ulica Freta",
+        "Freta prowadzi od obronnego wjazdu Starego Miasta do dawnego centrum Nowego Miasta. Przy numerze 16 stoi dom związany z Marią Skłodowską-Curie.",
+        "Przejdź przez Barbakan na północ. Porównaj zwężenie przy bramie z szerszym odcinkiem prowadzącym do rynku Nowego Miasta."
+      ],
+      "en": [
+        "Freta Street",
+        "Freta runs from the fortified entrance to the Old Town towards the center of the historic New Town. The house at number 16 is associated with Marie Skłodowska Curie.",
+        "Walk north through the Barbican. Compare the narrow transition at the gate with the broader stretch leading to the New Town Market Square."
+      ],
+      "zh": [
+        "弗雷塔街",
+        "Freta 從老城防禦入口延伸至昔日新城市中心，16 號是與瑪麗亞・斯克沃多夫斯卡—居里有關的歷史故居。",
+        "穿過甕城往北走，比較狹窄的城門與通往新城市集廣場的較寬街段。"
+      ],
+      "ru": [
+        "Улица Фрета",
+        "Фрета ведёт от укреплённого входа в Старый город к центру исторического Нового города. Дом 16 связан с Марией Склодовской-Кюри.",
+        "Пройдите через барбакан на север. Сравните тесный проход у ворот с более широкой улицей перед рынком Нового города."
+      ],
+      "de": [
+        "Freta-Straße",
+        "Die Freta führt vom befestigten Altstadtzugang zur Mitte der historischen Neustadt. Hausnummer 16 ist mit Marie Skłodowska Curie verbunden.",
+        "Gehen Sie nordwärts durch die Barbakane. Vergleichen Sie die Engstelle am Tor mit dem breiteren Abschnitt in Richtung Neustadtmarkt."
+      ]
+    }
+  },
+  "curie-museum": {
+    "place": "Muzeum Marii Skłodowskiej-Curie, Freta 16, Warszawa",
+    "source": "curie",
+    "duration": "45–75",
+    "group": "newTown",
+    "copy": {
+      "pl": [
+        "Muzeum Marii Skłodowskiej-Curie",
+        "Muzeum w domu urodzenia uczonej pokazuje jej związki z Warszawą oraz drogę do pracy naukowej.",
+        "Od Barbakanu idź ulicą Freta do numeru 16. Sprawdź godziny i języki oprowadzania, a na zewnątrz poszukaj oznaczenia domu."
+      ],
+      "en": [
+        "Marie Skłodowska Curie Museum",
+        "The museum in Curie’s birthplace traces her Warsaw connections and her path into scientific research.",
+        "Follow Freta from the Barbican to number 16. Check opening hours and tour languages, and look for the marker on the outside of the house."
+      ],
+      "zh": [
+        "居里夫人博物館",
+        "博物館設在居里夫人的出生地，介紹她與華沙的淵源及走上科學研究的歷程。",
+        "由甕城沿 Freta 到 16 號。行前查詢開放時間和導覽語言，抵達後可先找外牆上的故居標記。"
+      ],
+      "ru": [
+        "Музей Марии Склодовской-Кюри",
+        "Музей в доме, где родилась учёная, рассказывает о её связи с Варшавой и пути к научной работе.",
+        "Идите от барбакана по Фрете до дома 16. Проверьте часы работы и языки экскурсий, а на фасаде найдите памятную табличку."
+      ],
+      "de": [
+        "Marie-Skłodowska-Curie-Museum",
+        "Das Museum im Geburtshaus zeigt Curies Verbindung zu Warschau und ihren Weg in die wissenschaftliche Forschung.",
+        "Folgen Sie der Freta von der Barbakane bis zur Nummer 16. Prüfen Sie Öffnungszeiten und Führungssprachen und achten Sie auf die Kennzeichnung am Haus."
+      ]
+    }
+  },
+  "new-town-market-square": {
+    "place": "Rynek Nowego Miasta, Warszawa",
+    "source": "unesco",
+    "duration": "10–20",
+    "group": "newTown",
+    "copy": {
+      "pl": [
+        "Rynek Nowego Miasta",
+        "Plac wyznacza środek dawnego Nowego Miasta. Zabudowa i kopuła kościoła sakramentek tworzą niższą, spokojniejszą panoramę niż na placu Zamkowym.",
+        "Przyjdź ulicą Freta i obejrzyj plac od strony kościoła. Kontynuuj przez Mostową w dół ku Wiśle, jeśli odpowiada Ci zejście po pochyłości."
+      ],
+      "en": [
+        "New Town Market Square",
+        "This square marks the center of the historic New Town. The houses and the dome of the Sacramentine church give it a lower skyline than Castle Square.",
+        "Arrive along Freta and look back from the church side. Take Mostowa downhill towards the Vistula if a sloping route suits you."
+      ],
+      "zh": [
+        "新城市集廣場",
+        "廣場是昔日新城的中心，周圍住宅和聖體修女會教堂的圓頂，形成比城堡廣場低矮的天際線。",
+        "從 Freta 抵達後走到教堂一側回望廣場。若能接受下坡，可沿 Mostowa 往維斯瓦河走。"
+      ],
+      "ru": [
+        "Рыночная площадь Нового города",
+        "Площадь отмечает центр исторического Нового города. Дома и купол храма сакраменток образуют более низкий силуэт, чем на Замковой площади.",
+        "Подойдите по Фрете и оглянитесь от церкви. Если спуск удобен, продолжите по Мостовой к Висле."
+      ],
+      "de": [
+        "Neustadtmarkt",
+        "Der Platz bildet die Mitte der historischen Neustadt. Häuser und Kirchenkuppel ergeben eine niedrigere Silhouette als am Schlossplatz.",
+        "Kommen Sie über die Freta und blicken Sie von der Kirche zurück. Wenn Gefälle für Sie in Ordnung ist, gehen Sie über die Mostowa hinunter zur Weichsel."
+      ]
+    }
+  },
+  "st-kazimierz-church": {
+    "place": "Kościół św. Kazimierza, Rynek Nowego Miasta 2, Warszawa",
+    "source": "unesco",
+    "duration": "10–20",
+    "group": "newTown",
+    "copy": {
+      "pl": [
+        "Kościół św. Kazimierza",
+        "Jasna fasada i kopuła kościoła sakramentek zamykają widok na rynek Nowego Miasta. Cofnij się, aby zobaczyć symetrię bryły.",
+        "Podejdź ulicą Freta. Wnętrze zwiedzaj między nabożeństwami, a fasadę fotografuj z przeciwległej części rynku."
+      ],
+      "en": [
+        "St Casimir’s Church",
+        "The light façade and dome of the Sacramentine church frame the New Town Market Square. Step back to see the symmetry of the whole building.",
+        "Approach via Freta. Visit between services and photograph the façade from across the square."
+      ],
+      "zh": [
+        "聖卡齊米日教堂",
+        "聖體修女會教堂的淺色立面與圓頂收束新城市集廣場的視線。退遠一點可看清整座建築的對稱佈局。",
+        "沿 Freta 抵達，避開禮拜時段參觀。外觀可從廣場對側拍攝。"
+      ],
+      "ru": [
+        "Костёл Святого Казимира",
+        "Светлый фасад и купол храма сакраменток замыкают перспективу рынка Нового города. Издали видна симметрия всего здания.",
+        "Подойдите по Фрете. Осматривайте храм между службами, а фасад снимайте с противоположной стороны площади."
+      ],
+      "de": [
+        "Kasimirskirche",
+        "Helle Fassade und Kuppel der Sakramentinerinnenkirche schließen den Neustadtmarkt ab. Aus etwas Abstand ist die Symmetrie des Baus gut zu erkennen.",
+        "Kommen Sie über die Freta. Besuchen Sie die Kirche zwischen Gottesdiensten und fotografieren Sie die Fassade vom gegenüberliegenden Platzrand."
+      ]
+    }
+  },
+  "mostowa-street": {
+    "place": "Mostowa, Warszawa",
+    "source": "unesco",
+    "duration": "10–15",
+    "group": "newTown",
+    "copy": {
+      "pl": [
+        "Ulica Mostowa",
+        "Spadek ulicy pozwala zobaczyć różnicę wysokości pomiędzy historyczną zabudową a brzegiem Wisły. Warto spojrzeć pod górę na linię dachów.",
+        "Od Freta zejdź w stronę Rybaków. Na zdjęcie wybierz szersze miejsce, a po deszczu uważaj na mokry bruk."
+      ],
+      "en": [
+        "Mostowa Street",
+        "The slope of Mostowa shows the height difference between the historic neighborhoods and the Vistula shore. Look uphill to follow the line of roofs.",
+        "Descend from Freta towards Rybaki. Stop in a wider spot to take photographs and watch for wet cobbles after rain."
+      ],
+      "zh": [
+        "莫斯托瓦街",
+        "街道坡度讓人直觀感受歷史街區與維斯瓦河岸的高差。從下方向上看，可追蹤依坡排列的屋頂。",
+        "由 Freta 朝 Rybaki 下行，找較寬的位置停下拍照。雨後留意濕滑石板。"
+      ],
+      "ru": [
+        "Улица Мостовая",
+        "Уклон улицы показывает перепад между исторической застройкой и берегом Вислы. Посмотрите вверх вдоль линии крыш.",
+        "От Фреты спускайтесь к Рыбакам. Остановитесь для снимка там, где тротуар шире, и учитывайте мокрую брусчатку после дождя."
+      ],
+      "de": [
+        "Mostowa-Straße",
+        "Das Gefälle zeigt den Höhenunterschied zwischen den historischen Häusern und dem Weichselufer. Bergauf lässt sich die Dachlinie gut verfolgen.",
+        "Gehen Sie von der Freta Richtung Rybaki hinunter. Fotografieren Sie an einer breiteren Stelle und achten Sie nach Regen auf nasses Pflaster."
+      ]
+    }
+  },
+  "fountain-park": {
+    "place": "Multimedialny Park Fontann, Skwer I Dywizji Pancernej, Warszawa",
+    "source": "fountains",
+    "duration": "20–40",
+    "group": "newTown",
+    "copy": {
+      "pl": [
+        "Multimedialny Park Fontann",
+        "Położony pod skarpą park zmienia widok na Stare i Nowe Miasto. Za dnia można obejść baseny, a sezonowe pokazy mają odrębny harmonogram.",
+        "Z Nowego Miasta zejdź Mostową. Na pokaz sprawdź datę u organizatora i wybierz miejsce z widokiem na całą nieckę."
+      ],
+      "en": [
+        "Multimedia Fountain Park",
+        "This park below the escarpment gives a different view of the Old and New Town. Walk around the pools by day and check the separate schedule for seasonal shows.",
+        "Descend from the New Town via Mostowa. For a show, check the date with the organizer and choose a spot where the whole basin is visible."
+      ],
+      "zh": [
+        "多媒體噴泉公園",
+        "公園在坡地底部，能從低處回望老城與新城。白天可繞水池走走，季節表演另有時程。",
+        "從新城沿 Mostowa 下坡。想看錶演時先查主辦方的日期，並挑一處看得到完整水池的位置。"
+      ],
+      "ru": [
+        "Мультимедийный парк фонтанов",
+        "Парк под склоном открывает другой вид на Старый и Новый город. Днём можно обойти бассейны, а сезонные шоу идут по отдельному расписанию.",
+        "Спуститесь из Нового города по Мостовой. Сверьте дату шоу с организатором и выберите место с видом на весь бассейн."
+      ],
+      "de": [
+        "Multimedia-Springbrunnenpark",
+        "Der Park unterhalb der Böschung eröffnet einen anderen Blick auf Alt- und Neustadt. Tagsüber kann man die Becken umrunden. Saisonale Shows haben eigene Termine.",
+        "Kommen Sie von der Neustadt über die Mostowa. Prüfen Sie Showtermine beim Veranstalter und suchen Sie einen Platz mit Blick auf das ganze Becken."
+      ]
+    }
+  },
+  "vistula-boulevards": {
+    "place": "Bulwar Jana Karskiego, Warszawa",
+    "source": "river",
+    "duration": "30–60",
+    "group": "newTown",
+    "copy": {
+      "pl": [
+        "Bulwary Wiślane pod Starym Miastem",
+        "Nadrzeczny spacer odsłania skarpę i panoramę drugiego brzegu. Po przejściu z ciasnych uliczek szerokość koryta Wisły zmienia perspektywę.",
+        "Od parku fontann kieruj się na bulwar Jana Karskiego i idź w stronę mostu Śląsko-Dąbrowskiego. Na zdjęcie zatrzymaj się poza drogą rowerową."
+      ],
+      "en": [
+        "Vistula Boulevards Below the Old Town",
+        "The promenade opens views of the escarpment and the opposite bank. After the narrow Old Town lanes, the broad river gives a sense of Warsaw’s geography.",
+        "From the Fountain Park head for Bulwar Jana Karskiego and walk towards the Śląsko-Dąbrowski Bridge. Step clear of the cycle lane before stopping for photos."
+      ],
+      "zh": [
+        "老城下方的維斯瓦河步道",
+        "河岸步道可仰望高地並平視對岸。從窄巷走到寬闊河道，會更容易理解華沙沿河而建的地理位置。",
+        "從噴泉公園走向 Bulwar Jana Karskiego，再往希隆斯克—東布羅瓦橋方向。停下拍照前先離開腳踏車道。"
+      ],
+      "ru": [
+        "Бульвары Вислы под Старым городом",
+        "С набережной открывается вид на склон и противоположный берег. После тесных переулков широкая река помогает понять географию Варшавы.",
+        "От парка фонтанов выйдите на бульвар Яна Карского и идите к Силезско-Домбровскому мосту. Для фото сойдите с велодорожки."
+      ],
+      "de": [
+        "Weichselboulevards unter der Altstadt",
+        "Die Promenade bietet Ausblicke auf die Böschung und das gegenüberliegende Ufer. Nach den engen Altstadtgassen vermittelt der breite Fluss ein Gefühl für Warschaus Lage.",
+        "Gehen Sie vom Brunnenpark zum Bulwar Jana Karskiego und weiter zur Śląsko-Dąbrowski-Brücke. Verlassen Sie zum Fotografieren den Radweg."
+      ]
+    }
+  },
+  "krasinski-square": {
+    "place": "Plac Krasińskich, Warszawa",
+    "source": "tourism",
+    "duration": "15–25",
+    "group": "newTown",
+    "copy": {
+      "pl": [
+        "Plac Krasińskich",
+        "Pałac i pomnik Powstania Warszawskiego stoją przy jednym placu. Warto zestawić regularną fasadę pałacu z dynamicznymi figurami pomnika.",
+        "Od Barbakanu idź Długą na zachód. Po obejrzeniu placu przejdź na stronę ogrodu Krasińskich, jeśli chcesz odpocząć."
+      ],
+      "en": [
+        "Krasiński Square",
+        "A palace and the Warsaw Uprising Monument share this square. Compare the ordered palace frontage with the dynamic figures of the memorial.",
+        "Walk west from the Barbican along Długa. After crossing the square, continue to the Krasiński Garden side for a break."
+      ],
+      "zh": [
+        "克拉辛斯基廣場",
+        "克拉辛斯基宮和華沙起義紀念碑同處一個廣場，可比較宮殿規整的立面與紀念碑人物的動態姿勢。",
+        "從甕城沿 Długa 往西走，看完廣場後可前往克拉辛斯基花園休息。"
+      ],
+      "ru": [
+        "Площадь Красиньских",
+        "Дворец и памятник Варшавскому восстанию стоят на одной площади. Сравните строгий фасад дворца с динамичными фигурами памятника.",
+        "От барбакана идите на запад по Длугой. После осмотра площади можно отдохнуть в саду Красиньских."
+      ],
+      "de": [
+        "Krasiński-Platz",
+        "Palast und Denkmal des Warschauer Aufstands stehen am selben Platz. Vergleichen Sie die regelmäßige Palastfassade mit den bewegten Figuren des Denkmals.",
+        "Gehen Sie von der Barbakane westwärts über die Długa. Für eine Pause können Sie nach dem Platz in den Krasiński-Garten gehen."
+      ]
+    }
+  },
+  "warsaw-uprising-monument": {
+    "place": "Pomnik Powstania Warszawskiego, Plac Krasińskich, Warszawa",
+    "source": "rising",
+    "duration": "10–20",
+    "group": "newTown",
+    "copy": {
+      "pl": [
+        "Pomnik Powstania Warszawskiego",
+        "Pomnik upamiętnia powstanie z 1944 r. Dwie grupy postaci ukazują walkę w mieście i zejście do kanałów.",
+        "Wejdź na plac Krasińskich od Długiej. Obejrzyj obie grupy z poziomu placu, a jeśli chcesz poznać relacje uczestników, zaplanuj osobną wizytę w muzeum powstania."
+      ],
+      "en": [
+        "Warsaw Uprising Monument",
+        "The monument commemorates the 1944 uprising. Two groups of figures depict fighting in the streets and descent into the sewers.",
+        "Approach Krasiński Square from Długa. View both groups from the square, then plan a separate visit to the Warsaw Rising Museum for firsthand accounts."
+      ],
+      "zh": [
+        "華沙起義紀念碑",
+        "紀念碑追念 1944 年的華沙起義。兩組人物分別呈現街頭戰鬥及下到下水道的場景。",
+        "從 Długa 進入克拉辛斯基廣場，在廣場地面觀察兩組雕像。想了解當事人口述，可另外安排華沙起義博物館。"
+      ],
+      "ru": [
+        "Памятник Варшавскому восстанию",
+        "Памятник посвящён восстанию 1944 года. Две группы фигур показывают бой на улицах и спуск в канализацию.",
+        "Войдите на площадь Красиньских с Длугой. Осмотрите обе группы с площади, а за рассказами участников запланируйте отдельный визит в музей восстания."
+      ],
+      "de": [
+        "Denkmal des Warschauer Aufstands",
+        "Das Denkmal erinnert an den Aufstand von 1944. Zwei Figurengruppen zeigen den Straßenkampf und den Abstieg in die Kanalisation.",
+        "Kommen Sie über die Długa zum Krasiński-Platz. Betrachten Sie beide Gruppen vom Platz aus und planen Sie für Zeitzeugenberichte einen eigenen Besuch im Aufstandsmuseum."
+      ]
+    }
+  },
+  "krasinski-garden": {
+    "place": "Ogród Krasińskich, Warszawa",
+    "source": "tourism",
+    "duration": "20–40",
+    "group": "newTown",
+    "copy": {
+      "pl": [
+        "Ogród Krasińskich",
+        "Park za pałacem daje przestrzeń na dłuższy odpoczynek. Z alei można porównać parkową fasadę pałacu z frontem widocznym z placu.",
+        "Obejdź pałac od placu Krasińskich i wejdź jednym z publicznych wejść. Zostaw czas na powrót przez Długą do Barbakanu."
+      ],
+      "en": [
+        "Krasiński Garden",
+        "The park behind the palace makes room for a longer rest. From the paths, compare the garden façade with the palace frontage on the square.",
+        "Round the palace from Krasiński Square and enter by a public gate. Leave time to return along Długa to the Barbican."
+      ],
+      "zh": [
+        "克拉辛斯基花園",
+        "宮殿後方的公園適合安排一段較長的休息。從園路可比較朝花園的立面與廣場上的正面。",
+        "由克拉辛斯基廣場繞過宮殿，從公共入口進園。回程可留時間沿 Długa 折返甕城。"
+      ],
+      "ru": [
+        "Сад Красиньских",
+        "Парк за дворцом подходит для более долгого отдыха. С дорожек можно сравнить садовый фасад дворца с парадным фасадом на площади.",
+        "Обойдите дворец со стороны площади и войдите через открытый для посетителей вход. Оставьте время на обратный путь к барбакану по Длугой."
+      ],
+      "de": [
+        "Krasiński-Garten",
+        "Der Park hinter dem Palast eignet sich für eine längere Pause. Von den Wegen lässt sich die Gartenfassade mit der Front am Platz vergleichen.",
+        "Gehen Sie vom Krasiński-Platz um den Palast und nehmen Sie einen öffentlichen Eingang. Planen Sie Zeit für den Rückweg über die Długa ein."
+      ]
+    }
+  },
+  "st-annes-church": {
+    "place": "Kościół św. Anny, Krakowskie Przedmieście 68, Warszawa",
+    "source": "tourism",
+    "duration": "20–40",
+    "group": "royalRoute",
+    "copy": {
+      "pl": [
+        "Kościół św. Anny",
+        "Klasycyzująca fasada kościoła stoi przy przejściu z placu Zamkowego na Trakt Królewski. Dzwonnica obok daje widok z góry na to połączenie.",
+        "Przyjdź od kolumny Zygmunta. Sprawdź osobno godziny wejścia na taras i liczbę schodów, jeśli planujesz wejście na wieżę."
+      ],
+      "en": [
+        "St Anne’s Church and Bell Tower",
+        "The classical-style façade marks the transition from Castle Square to the Royal Route. The adjoining bell tower offers a view of this junction from above.",
+        "Approach from Sigismund’s Column. Check terrace hours separately and consider the stair climb before including the tower."
+      ],
+      "zh": [
+        "聖安妮教堂與鐘樓",
+        "教堂的古典風格立面坐落於城堡廣場通往皇家大道的交會處，相鄰鐘樓可俯瞰這個街道轉折。",
+        "從西吉斯蒙德圓柱步行前往。若要登塔，請另查平臺開放時間，並評估階梯。"
+      ],
+      "ru": [
+        "Костёл Святой Анны и колокольня",
+        "Фасад в классическом стиле стоит на переходе от Замковой площади к Королевскому тракту. С соседней колокольни виден этот стык улиц сверху.",
+        "Подойдите от колонны Сигизмунда. Отдельно проверьте часы смотровой площадки и учтите подъём по лестнице."
+      ],
+      "de": [
+        "Annenkirche und Glockenturm",
+        "Die klassizistische Fassade steht am Übergang vom Schlossplatz zum Königsweg. Vom benachbarten Glockenturm lässt sich die Verbindung von oben sehen.",
+        "Kommen Sie von der Sigismundsäule. Prüfen Sie die Öffnungszeiten der Aussichtsterrasse gesondert und berücksichtigen Sie die Treppen."
+      ]
+    }
+  },
+  "krakowskie-przedmiescie": {
+    "place": "Krakowskie Przedmieście, Warszawa",
+    "source": "royal-route",
+    "duration": "30–60",
+    "group": "royalRoute",
+    "copy": {
+      "pl": [
+        "Krakowskie Przedmieście",
+        "Północny odcinek Traktu Królewskiego prowadzi obok kościołów, pałaców i uniwersytetu. Na szerszej ulicy łatwiej porównać reprezentacyjne fasady niż w wąskich uliczkach Starego Miasta.",
+        "Z placu Zamkowego idź na południe. Zatrzymaj się przy kościele św. Anny i pałacu Prezydenckim, a następnie wróć lub idź do bramy uniwersytetu."
+      ],
+      "en": [
+        "Krakowskie Przedmieście Walk",
+        "The northern Royal Route passes churches, palaces and the university. Its width makes it easier to compare ceremonial façades than in the narrow Old Town lanes.",
+        "Walk south from Castle Square. Stop at St Anne’s and the Presidential Palace, then turn back or continue to the university gate."
+      ],
+      "zh": [
+        "克拉科夫郊區街散步",
+        "皇家大道北段經過教堂、宮邸和大學。相較於老城窄巷，較寬的街道更便於比較大型建築的正面。",
+        "由城堡廣場往南，在聖安妮教堂與總統府停留，再折返或繼續走到華沙大學校門。"
+      ],
+      "ru": [
+        "Прогулка по Краковскому предместью",
+        "Северная часть Королевского тракта проходит мимо церквей, дворцов и университета. Широкая улица позволяет лучше сравнить парадные фасады, чем тесные переулки Старого города.",
+        "Идите на юг от Замковой площади. Остановитесь у костёла Святой Анны и Президентского дворца, затем возвращайтесь или идите к воротам университета."
+      ],
+      "de": [
+        "Spaziergang auf der Krakowskie Przedmieście",
+        "Der nördliche Königsweg führt an Kirchen, Palästen und der Universität vorbei. Auf der breiten Straße sind die repräsentativen Fassaden gut zu vergleichen.",
+        "Gehen Sie vom Schlossplatz nach Süden. Halten Sie an der Annenkirche und am Präsidentenpalast und gehen Sie bei Bedarf bis zum Universitätstor weiter."
+      ]
+    }
+  },
+  "presidential-palace": {
+    "place": "Pałac Prezydencki, Krakowskie Przedmieście 46/48, Warszawa",
+    "source": "royal-route",
+    "duration": "5–15",
+    "group": "royalRoute",
+    "copy": {
+      "pl": [
+        "Pałac Prezydencki",
+        "Oficjalna rezydencja prezydenta jest cofnięta za dziedzińcem. Pomnik księcia Józefa Poniatowskiego stanowi punkt odniesienia dla osi budynku.",
+        "Idź od placu Zamkowego Krakowskim Przedmieściem i zaplanuj oglądanie od ulicy. Z przeciwnego chodnika widać układ fasady i bramy."
+      ],
+      "en": [
+        "Presidential Palace",
+        "The president’s official residence stands back behind a courtyard. The equestrian statue of Prince Józef Poniatowski marks the approach to the façade.",
+        "Follow Krakowskie Przedmieście from Castle Square and plan a street-side stop. The opposite sidewalk offers a wider view of the façade and gate."
+      ],
+      "zh": [
+        "波蘭總統府",
+        "總統官邸位於前庭後方，約瑟夫・波尼亞托夫斯基親王的騎馬像標示通往立面的中軸。",
+        "從城堡廣場沿 Krakowskie Przedmieście 走，將此處安排為街邊停留。可從對麵人行道看清立面和大門。"
+      ],
+      "ru": [
+        "Президентский дворец",
+        "Официальная резиденция президента находится за парадным двором. Конная статуя князя Юзефа Понятовского отмечает центральную ось фасада.",
+        "Идите от Замковой площади по Краковскому предместью и планируйте осмотр с улицы. С противоположного тротуара лучше видно фасад и ворота."
+      ],
+      "de": [
+        "Präsidentenpalast",
+        "Die offizielle Residenz des Präsidenten liegt hinter einem Vorhof. Das Reiterdenkmal für Fürst Józef Poniatowski markiert die Achse der Fassade.",
+        "Folgen Sie der Krakowskie Przedmieście vom Schlossplatz. Planen Sie einen Halt auf der Straße, deren gegenüberliegender Gehweg den Blick auf Fassade und Tor freigibt."
+      ]
+    }
+  },
+  "university-main-gate": {
+    "place": "Brama Uniwersytetu Warszawskiego, Krakowskie Przedmieście 26/28, Warszawa",
+    "source": "royal-route",
+    "duration": "10–20",
+    "group": "royalRoute",
+    "copy": {
+      "pl": [
+        "Brama główna Uniwersytetu Warszawskiego",
+        "Brama wyznacza przejście z Traktu Królewskiego do dziedzińców kampusu. Z chodnika widać zmianę skali pomiędzy ulicą a wnętrzem zespołu.",
+        "Podejdź od pałacu Prezydenckiego. Jeśli kampus jest otwarty, przejdź do pierwszego dziedzińca i zostaw przejście wolne dla studentów."
+      ],
+      "en": [
+        "University of Warsaw Main Gate",
+        "The gate marks the transition from the Royal Route to the university courtyards. From the sidewalk, look through it to see how the scale changes inside the campus.",
+        "Approach from the Presidential Palace. If the campus is open, continue to the first courtyard and keep the entrance clear for students."
+      ],
+      "zh": [
+        "華沙大學主校門",
+        "主校門標示皇家大道與大學庭院的交界。從人行道向內看，可比較大街與校園空間的尺度。",
+        "由總統府方向抵達。若校園開放，可走到第一座庭院，並讓出學生通行的出入口。"
+      ],
+      "ru": [
+        "Главные ворота Варшавского университета",
+        "Ворота ведут с Королевского тракта во дворы университета. С тротуара видно, как меняется масштаб пространства внутри кампуса.",
+        "Подойдите от Президентского дворца. Если кампус открыт, пройдите до первого двора и оставьте вход свободным для студентов."
+      ],
+      "de": [
+        "Haupttor der Universität Warschau",
+        "Das Tor verbindet den Königsweg mit den Innenhöfen der Universität. Vom Gehweg erkennt man, wie sich die Proportionen hinter dem Tor ändern.",
+        "Kommen Sie vom Präsidentenpalast. Wenn der Campus geöffnet ist, gehen Sie bis zum ersten Innenhof und halten Sie den Eingang für Studierende frei."
+      ]
+    }
+  }
+}

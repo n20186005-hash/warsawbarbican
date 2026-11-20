@@ -5,6 +5,7 @@ import { getGuide, guidePath } from "@/guides";
 import { getLocale, getTranslations } from "next-intl/server";
 
 export default async function WalkingTourSection() {
+  const ui = await getTranslations("ui");
   const t = await getTranslations("walkingTour");
 
   const locale = await getLocale();
@@ -14,7 +15,7 @@ export default async function WalkingTourSection() {
     <section className="section section-alt" id="walkingTour">
       <div className="container">
         <div className="section-head">
-          <span className="kicker">Things to do in Warsaw</span>
+          <span className="kicker">{ui("walking")}</span>
           <h2>{t("title")}</h2>
           <p>{t("subtitle")}</p>
         </div>

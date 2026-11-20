@@ -10,11 +10,17 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "terms" });
+  const title = t("title");
+  const description = (t.raw("sections") as { text: string }[])[0].text;
+  const url = `${siteConfig.baseUrl}/${locale}/terms-of-service`;
   return {
-    title: t("title"),
+    title,
+    description,
+    openGraph: { title, description, url },
+    twitter: { card: "summary", title, description },
     robots: { index: false, follow: true },
     alternates: {
-      canonical: `${siteConfig.baseUrl}/${locale}/terms-of-service`,
+      canonical: url,
     },
   };
 }

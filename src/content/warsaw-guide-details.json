@@ -1,0 +1,1118 @@
+{
+  "market-square": {
+    "manager": "city",
+    "transit": "oldTram",
+    "access": "outdoor",
+    "nextStop": "warsaw-mermaid",
+    "photoSpot": "Nowomiejska × Rynek Starego Miasta",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Warsaw_Old_Town_Market_Square_10.JPG",
+      "author": "Adrian Grycuk",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "width": 960,
+      "height": 630
+    },
+    "history": {
+      "pl": "Rynek wytyczono około 1300 r. Dwie ulice odchodzą z każdego narożnika, zachowując średniowieczny układ.",
+      "en": "The market was laid out around 1300. Two streets leave each corner, preserving the medieval plan.",
+      "zh": "廣場約在 1300 年劃設。每個轉角各通向兩條街，延續了中世紀格局。",
+      "ru": "Рынок заложили около 1300 года. Из каждого угла выходят две улицы, сохраняя средневековую планировку.",
+      "de": "Der Markt entstand um 1300. Von jeder Ecke gehen zwei Straßen ab, wie im mittelalterlichen Grundriss."
+    },
+    "framing": {
+      "pl": "Z narożnika ujmij dwie pierzeje i Syrenkę.",
+      "en": "Frame two rows of houses and the Mermaid from the corner.",
+      "zh": "從角落把兩側屋面與美人魚一起入鏡。",
+      "ru": "Из угла снимите два ряда домов и Русалку.",
+      "de": "Rahmen Sie zwei Häuserreihen und die Meerjungfrau aus der Ecke."
+    },
+    "tip": {
+      "pl": "Zacznij od pierzei Dekerta, zanim wyjdziesz na środek placu.",
+      "en": "Walk the Dekert frontage before crossing the centre of the square.",
+      "zh": "先沿德克特一側走，再進廣場中央。",
+      "ru": "Сначала пройдите вдоль стороны Декерта, затем пересеките площадь.",
+      "de": "Gehen Sie zuerst an der Dekert-Seite entlang und dann über die Platzmitte."
+    }
+  },
+  "warsaw-mermaid": {
+    "manager": "city",
+    "transit": "oldTram",
+    "access": "outdoor",
+    "nextStop": "museum-of-warsaw",
+    "photoSpot": "Rynek Starego Miasta → strona Dekerta",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Syrena_(mermaid)_in_the_old_town_Market_Square_in_Warsaw.JPG",
+      "author": "Nieszka",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "width": 960,
+      "height": 638
+    },
+    "history": {
+      "pl": "Rzeźbę zaprojektował Konstanty Hegel w XIX wieku. Oryginał znajduje się w Muzeum Warszawy.",
+      "en": "Konstanty Hegel designed the sculpture in the nineteenth century. The original is in the Museum of Warsaw.",
+      "zh": "雕像由康斯坦蒂・黑格爾於十九世紀設計，原作收藏於華沙博物館。",
+      "ru": "Скульптуру создал Константы Гегель в XIX веке. Оригинал хранится в Музее Варшавы.",
+      "de": "Konstanty Hegel schuf die Figur im 19. Jahrhundert. Das Original steht im Museum von Warschau."
+    },
+    "framing": {
+      "pl": "Ustaw tarczę na tle kamienic po północnej stronie.",
+      "en": "Frame the shield against the houses on the north side.",
+      "zh": "用北側聯排屋當作盾牌的背景。",
+      "ru": "Снимите щит на фоне северного ряда домов.",
+      "de": "Setzen Sie den Schild vor die Häuser auf der Nordseite."
+    },
+    "tip": {
+      "pl": "Połącz postój przy kopii na rynku z obejrzeniem oryginału w muzeum.",
+      "en": "Pair the square’s copy with the original displayed in the museum.",
+      "zh": "先看廣場上的複製雕像，再到博物館看原作。",
+      "ru": "Сравните копию на площади с оригиналом в музее.",
+      "de": "Vergleichen Sie die Kopie am Markt mit dem Original im Museum."
+    }
+  },
+  "museum-of-warsaw": {
+    "manager": "museum",
+    "transit": "oldTram",
+    "access": "museum",
+    "nextStop": "old-town-cellars",
+    "photoSpot": "Rynek Starego Miasta 42",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Pomnik_Syreny_i_strona_Dekerta_Rynek_Starego_Miasta_w_Warszawie_2020.jpg",
+      "author": "Adrian Grycuk",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "width": 960,
+      "height": 623
+    },
+    "history": {
+      "pl": "Jedenaście połączonych kamienic ciągnie się od pierzei Dekerta ku Nowomiejskiej. W środku zmiany poziomu przypominają o osobnych budynkach.",
+      "en": "Eleven connected houses run from the Dekert side of the market towards Nowomiejska. Changes in floor level inside recall the separate buildings.",
+      "zh": "十一棟相連的聯排屋從廣場德克特一側延伸到 Nowomiejska。展館地面高低的變化，仍可看出房屋原本各自獨立。",
+      "ru": "Одиннадцать соединённых домов тянутся от стороны Декерта к Новомейской. Перепады пола напоминают об отдельных зданиях.",
+      "de": "Elf verbundene Häuser ziehen sich von der Dekert-Seite des Marktes zur Nowomiejska. Höhenwechsel im Inneren erinnern an die einzelnen Bauten."
+    },
+    "framing": {
+      "pl": "Z przeciwnej strony rynku ujmij kilka wejść i różne szerokości fasad.",
+      "en": "From across the square, frame several entrances and the changing façade widths.",
+      "zh": "從廣場對側拍攝數個入口和寬窄不一的立面。",
+      "ru": "С другой стороны площади снимите несколько входов и фасады разной ширины.",
+      "de": "Fotografieren Sie mehrere Eingänge und die unterschiedlich breiten Fassaden vom anderen Platzrand."
+    },
+    "tip": {
+      "pl": "Przy krótkiej wizycie wybierz kilka gabinetów wystawy stałej zamiast przechodzić przez wszystkie kamienice.",
+      "en": "On a short visit, select a few themed rooms in the permanent exhibition; the linked townhouses span several floors.",
+      "zh": "時間不多時，從常設展選幾個主題展廳。相連的聯排屋有多個樓層。",
+      "ru": "Для короткого визита выберите несколько тематических залов постоянной выставки: дома занимают несколько этажей.",
+      "de": "Wählen Sie bei wenig Zeit einige Themenräume der Dauerausstellung; die verbundenen Häuser haben mehrere Stockwerke."
+    }
+  },
+  "old-town-cellars": {
+    "manager": "cellars",
+    "transit": "oldTram",
+    "access": "museum",
+    "nextStop": "gnojna-gora-viewpoint",
+    "photoSpot": "Brzozowa 11/13",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Warsaw%27s_Old_Town_Heritage_Interpretation_Center.jpg",
+      "author": "Wistula",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 960,
+      "height": 640
+    },
+    "history": {
+      "pl": "Centrum Interpretacji Zabytku na Brzozowej 11/13 pokazuje, jak odtworzono miasto. Prace przy adaptacji piwnic poprzedziły badania archeologiczne.",
+      "en": "The Heritage Interpretation Centre at Brzozowa 11/13 explains the rebuilding. Archaeologists examined the cellars before they were adapted for visitors.",
+      "zh": "位在 Brzozowa 11/13 的遺產詮釋中心介紹城市重建。地窖改造供遊人參觀之前，先做了考古調查。",
+      "ru": "Центр интерпретации наследия на Бжозовой, 11/13, рассказывает о восстановлении города. Перед приспособлением подвалов их исследовали археологи.",
+      "de": "Das Besucherzentrum in der Brzozowa 11/13 erklärt den Wiederaufbau. Vor dem Umbau der Keller fanden archäologische Untersuchungen statt."
+    },
+    "framing": {
+      "pl": "Z ulicy sfotografuj łuk wejścia. O zasady fotografowania wnętrz zapytaj obsługę.",
+      "en": "Photograph the arched entrance from the street. Ask staff about photography inside.",
+      "zh": "可在街上拍攝拱門入口。室內攝影規定可向館方查詢。",
+      "ru": "С улицы снимите арочный вход. О съёмке внутри спросите сотрудников.",
+      "de": "Fotografieren Sie den Torbogen von der Straße und fragen Sie im Haus nach den Fotoregeln."
+    },
+    "tip": {
+      "pl": "Przy potrzebie dostępu bez schodów zapytaj centrum o platformy i trasę od wejścia.",
+      "en": "If you need step-free access, ask the centre about its lifting platforms and the route from the entrance.",
+      "zh": "如需無階梯動線，先向遺產中心確認升降平臺及入口路線。",
+      "ru": "Если нужен маршрут без ступеней, уточните у центра, как воспользоваться подъёмными платформами.",
+      "de": "Fragen Sie für einen stufenlosen Besuch nach Hebeplattformen und dem Weg ab dem Eingang."
+    }
+  },
+  "castle-square": {
+    "manager": "city",
+    "transit": "oldTram",
+    "access": "outdoor",
+    "nextStop": "sigismunds-column",
+    "photoSpot": "Plac Zamkowy × Krakowskie Przedmieście",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Plac_Zamkowy_w_Warszawie_widziany_z_wie%C5%BCy_ko%C5%9Bcio%C5%82a_%C5%9Bw._Anny.JPG",
+      "author": "Adrian Grycuk",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "width": 960,
+      "height": 687
+    },
+    "history": {
+      "pl": "Dzisiejszy układ placu ukształtowano na początku XIX wieku. Rok po roku odbudowy zmienił jego pierzeje po wojennych zniszczeniach.",
+      "en": "The square took its present shape in the early nineteenth century. Its frontages were rebuilt after wartime destruction.",
+      "zh": "今日廣場的佈局形成於十九世紀初，周邊立面在戰爭破壞後重建。",
+      "ru": "Современные очертания площадь получила в начале XIX века. Окружающие фасады восстановлены после войны.",
+      "de": "Die heutige Form entstand im frühen 19. Jahrhundert. Die Platzfronten wurden nach den Kriegszerstörungen rekonstruiert."
+    },
+    "framing": {
+      "pl": "Ustaw kolumnę z boku kadru, aby odsłonić szeroką fasadę zamku.",
+      "en": "Place the column to one side to leave the broad castle façade visible.",
+      "zh": "把圓柱放在畫面一側，留出城堡寬闊的立面。",
+      "ru": "Сместите колонну к краю кадра, чтобы открыть фасад замка.",
+      "de": "Rücken Sie die Säule an den Bildrand, damit die Schlossfassade sichtbar bleibt."
+    },
+    "tip": {
+      "pl": "Wybierz kolumnę jako punkt spotkania, a fasadę zamku oglądaj z szerokiego brzegu placu.",
+      "en": "Use the column as a meeting point, then view the castle façade from the wide edge of the square.",
+      "zh": "可在圓柱約集合，再走到廣場較寬的一側看城堡立面。",
+      "ru": "Назначьте встречу у колонны, а фасад замка осмотрите с широкого края площади.",
+      "de": "Treffen Sie sich an der Säule und betrachten Sie die Schlossfassade dann vom breiten Platzrand."
+    }
+  },
+  "royal-castle": {
+    "manager": "castle",
+    "transit": "oldTram",
+    "access": "museum",
+    "nextStop": "castle-square",
+    "photoSpot": "Plac Zamkowy × Świętojańska",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:POL_Warsaw_Royal_Castle_2008_(3).JPG",
+      "author": "Alina Zienowicz Ala z",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 960,
+      "height": 655
+    },
+    "history": {
+      "pl": "Od rezydencji książąt mazowieckich zamek rozrósł się do siedziby monarchy i sejmu. W 1791 r. uchwalono tu Konstytucję 3 maja.",
+      "en": "The Mazovian dukes’ residence grew into the seat of the monarch and parliament. The Constitution of 3 May was adopted here in 1791.",
+      "zh": "此處從馬佐夫舍諸公爵的住所發展為王室與議會所在地。1791 年的《五三憲法》即在此透過。",
+      "ru": "Резиденция мазовецких князей стала местом работы монарха и сейма. В 1791 году здесь приняли Конституцию 3 мая.",
+      "de": "Aus der Residenz der masowischen Herzöge wurde der Sitz von König und Parlament. Hier wurde 1791 die Verfassung vom 3. Mai verabschiedet."
+    },
+    "framing": {
+      "pl": "Z placu poprowadź kadr pionowo od portalu do zegara.",
+      "en": "Use a vertical frame from the portal up to the clock.",
+      "zh": "從廣場用直幅構圖，從門廊拍到時鐘。",
+      "ru": "С площади снимите вертикальный кадр от портала до часов.",
+      "de": "Wählen Sie ein Hochformat vom Portal bis zur Uhr."
+    },
+    "tip": {
+      "pl": "Wybierz apartamenty dla wnętrz dworskich albo trasę muzealną dla sal sejmowych i galerii.",
+      "en": "Choose the Royal Route for court interiors or the Museum Route for parliamentary rooms and galleries.",
+      "zh": "想看宮廷空間可選皇家路線，想看議會廳與畫作可選博物館路線。",
+      "ru": "Для придворных интерьеров выбирайте королевский маршрут, для залов сейма и галерей — музейный.",
+      "de": "Wählen Sie für höfische Räume die Königsroute und für Parlamentssäle und Galerien die Museumsroute."
+    }
+  },
+  "sigismunds-column": {
+    "manager": "city",
+    "transit": "oldTram",
+    "access": "outdoor",
+    "nextStop": "castle-square",
+    "photoSpot": "Plac Zamkowy × Świętojańska",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Kolumna_Zygmunta_III_Wazy_2020.jpg",
+      "author": "Adrian Grycuk",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "width": 490,
+      "height": 750
+    },
+    "history": {
+      "pl": "Władysław IV ufundował pomnik ojca w 1644 r. Monument odbudowano po zniszczeniu w 1944 r.",
+      "en": "Władysław IV commissioned the monument to his father in 1644. It was restored after its destruction in 1944.",
+      "zh": "瓦迪斯瓦夫四世於 1644 年為父親立碑。圓柱於 1944 年被毀，後經重建。",
+      "ru": "Владислав IV установил памятник отцу в 1644 году. Колонну восстановили после разрушения в 1944 году.",
+      "de": "Władysław IV. stiftete das Denkmal für seinen Vater 1644. Nach der Zerstörung 1944 wurde es wiederaufgebaut."
+    },
+    "framing": {
+      "pl": "Odejdź od cokołu i użyj zbliżenia na krzyż oraz miecz.",
+      "en": "Step back from the plinth and zoom in on the cross and sword.",
+      "zh": "從柱座後退，用長焦拍攝十字架與劍。",
+      "ru": "Отойдите от постамента и приблизьте крест и меч.",
+      "de": "Treten Sie vom Sockel zurück und zoomen Sie auf Kreuz und Schwert."
+    },
+    "tip": {
+      "pl": "Najpierw zobacz sylwetkę króla z daleka, potem podejdź do podstawy kolumny.",
+      "en": "Read the king’s silhouette from a distance before approaching the plinth.",
+      "zh": "先從遠處看國王雕像輪廓，再走近圓柱底座。",
+      "ru": "Сначала рассмотрите силуэт короля издали, затем подойдите к постаменту.",
+      "de": "Betrachten Sie zuerst die Silhouette des Königs aus der Ferne und gehen Sie dann zum Sockel."
+    }
+  },
+  "st-johns-archcathedral": {
+    "manager": "cathedral",
+    "transit": "oldTram",
+    "access": "church",
+    "nextStop": "kanonia-square",
+    "photoSpot": "Świętojańska 8",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Bazylika_archikatedralna_%C5%9Bw._Jana_Chrzciciela_w_Warszawie_2020.jpg",
+      "author": "Adrian Grycuk",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "width": 593,
+      "height": 750
+    },
+    "history": {
+      "pl": "Kościół ma średniowieczne początki, a obecną ceglaną fasadę ukształtowano w trakcie powojennej odbudowy. Wewnątrz zwróć uwagę na sklepienia.",
+      "en": "The church has medieval origins. The present brick frontage took shape during postwar reconstruction. Inside, look up at the vaults.",
+      "zh": "教堂始於中世紀，今日的紅磚正面則形成於戰後重建。進入堂內可抬頭觀察拱頂。",
+      "ru": "Храм восходит к Средневековью. Нынешний кирпичный фасад сложился при послевоенном восстановлении. Внутри посмотрите на своды.",
+      "de": "Die Kirche hat mittelalterliche Wurzeln. Die heutige Backsteinfront entstand beim Wiederaufbau nach dem Krieg. Im Inneren lohnt der Blick ins Gewölbe."
+    },
+    "framing": {
+      "pl": "Fotografuj szczyt pionowo, obejmując dolne wejście.",
+      "en": "Use a vertical shot that includes the lower doorway and stepped gable.",
+      "zh": "用直幅把下方入口與階梯山牆一起入鏡。",
+      "ru": "Снимите вертикально, включив нижний вход и ступенчатый фронтон.",
+      "de": "Nehmen Sie Eingang und Stufengiebel im Hochformat auf."
+    },
+    "tip": {
+      "pl": "Jeśli krypta jest zamknięta, obejrzyj fasadę i domknij spacer placem Kanonia.",
+      "en": "If the crypt is closed, see the exterior and finish at Kanonia Square.",
+      "zh": "若地下墓室未開放，可先看正面，再步行到卡諾尼亞廣場。",
+      "ru": "Если крипта закрыта, осмотрите фасад и завершите прогулку на Канонии.",
+      "de": "Ist die Krypta geschlossen, betrachten Sie die Fassade und gehen Sie weiter zur Kanonia."
+    }
+  },
+  "kanonia-square": {
+    "manager": "city",
+    "transit": "oldTram",
+    "access": "outdoor",
+    "nextStop": "gnojna-gora-viewpoint",
+    "photoSpot": "Kanonia × Jezuicka",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Kanonia_Street_in_Warsaw_-_Bell_-_01.jpg",
+      "author": "Jolanta Dyr",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 960,
+      "height": 720
+    },
+    "history": {
+      "pl": "Nazwa placu przypomina o kanonikach związanych z katedrą. Wąskie fronty domów widać najlepiej, stojąc przy dzwonie.",
+      "en": "The square’s name recalls the canons attached to the cathedral. The bell gives a useful vantage point for comparing the narrow house fronts.",
+      "zh": "廣場名稱源自與主教座堂有關的教士。站在古鐘附近，最容易比較周圍狹窄的屋面。",
+      "ru": "Название напоминает о канониках кафедрального собора. От колокола удобно сравнить узкие фасады домов.",
+      "de": "Der Platzname erinnert an die Domherren. Bei der Glocke lassen sich die schmalen Hausfronten gut vergleichen."
+    },
+    "framing": {
+      "pl": "Niski kadr pozwala pokazać dzwon na tle ciasnych fasad.",
+      "en": "A low angle puts the bell against the tight rows of façades.",
+      "zh": "低角度可讓古鐘以密集的屋面為背景。",
+      "ru": "Низкая точка съёмки поместит колокол на фоне тесных фасадов.",
+      "de": "Aus niedriger Perspektive hebt sich die Glocke vor den engen Fronten ab."
+    },
+    "tip": {
+      "pl": "Plac jest mały, więc zaplanuj krótki postój i zostaw wolne dojścia do domów.",
+      "en": "The square is small. Make this a brief stop and leave residential entrances clear.",
+      "zh": "廣場很小，建議短暫停留並讓出住戶門口。",
+      "ru": "Площадь небольшая. Сделайте короткую остановку и не перекрывайте входы в дома.",
+      "de": "Der Platz ist klein. Halten Sie nur kurz und lassen Sie Hauseingänge frei."
+    }
+  },
+  "gnojna-gora-viewpoint": {
+    "manager": "city",
+    "transit": "oldTram",
+    "access": "outdoor",
+    "nextStop": "stone-steps",
+    "photoSpot": "Góra Gnojna × Brzozowa",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:G%C3%B3ra_Gnojna_w_Warszawie.jpg",
+      "author": "Arkadiusz Zarzecki",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 960,
+      "height": 640
+    },
+    "history": {
+      "pl": "Nazwa wiąże się z dawnym składowiskiem odpadów. Dzisiejszy taras odsłania kontrast pomiędzy zwartą zabudową a otwartym brzegiem.",
+      "en": "The name recalls a former refuse site. Today’s terrace exposes the contrast between the tight blocks and the open riverbank.",
+      "zh": "地名保留了此地昔日作為垃圾堆放地的記憶。從今日平臺可比較緊密的街廓與開闊河岸。",
+      "ru": "Название напоминает о бывшей свалке. Сегодня с террасы виден контраст плотной застройки и открытого берега.",
+      "de": "Der Name erinnert an eine frühere Abfallhalde. Heute zeigt die Terrasse den Übergang von dichter Bebauung zum offenen Ufer."
+    },
+    "framing": {
+      "pl": "Z tarasu ułóż wisłostradowe i nadrzeczne poziomy w szerokim kadrze.",
+      "en": "Use a wide frame to show the lower riverside levels from the terrace.",
+      "zh": "在平臺用廣角拍出下方河岸不同高度的地形。",
+      "ru": "С площадки возьмите широкий кадр с разными уровнями набережной.",
+      "de": "Zeigen Sie vom Aussichtspunkt die tieferen Uferebenen im weiten Bild."
+    },
+    "tip": {
+      "pl": "Na prostszy powrót do rynku wybierz Brzozową zamiast schodów ku rzece.",
+      "en": "For an easier return to the market, use Brzozowa and leave the river staircase for another walk.",
+      "zh": "想較輕鬆回市集，沿 Brzozowa 返回，可把河岸階梯留給另一段行程。",
+      "ru": "Для простого возврата к рынку идите по Бжозовой, а спуск к реке оставьте на другой раз.",
+      "de": "Zurück zum Markt ist die Brzozowa einfacher als die Treppe zum Fluss."
+    }
+  },
+  "stone-steps": {
+    "manager": "city",
+    "transit": "oldTram",
+    "access": "stairs",
+    "nextStop": "gnojna-gora-viewpoint",
+    "photoSpot": "Kamienne Schodki × Krzywe Koło",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ulica_Kamienne_Schodki_w_Warszawie_2025.jpg",
+      "author": "Adrian Grycuk",
+      "license": "CC BY 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+      "width": 498,
+      "height": 750
+    },
+    "history": {
+      "pl": "Górny odcinek łączy Krzywe Koło z Brzozową. Przy Brzozowej dolny bieg schodów przesuwa się w bok w kierunku Bugaju.",
+      "en": "The upper steps link Krzywe Koło with Brzozowa. At Brzozowa, the lower flight shifts sideways towards Bugaj.",
+      "zh": "上段石階連線 Krzywe Koło 與 Brzozowa。到 Brzozowa 後，下段往 Bugaj 的石階錯開了一個位置。",
+      "ru": "Верхняя лестница соединяет Кшиве-Коло и Бжозову. У Бжозовой нижний марш смещается в сторону Бугая.",
+      "de": "Der obere Lauf verbindet Krzywe Koło mit der Brzozowa. Dort versetzt sich der untere Treppenabschnitt Richtung Bugaj."
+    },
+    "framing": {
+      "pl": "Z góry ustaw środek kadru na osi schodów.",
+      "en": "From above, center the frame on the staircase.",
+      "zh": "從上端沿階梯中線構圖。",
+      "ru": "Сверху поместите лестницу в центр кадра.",
+      "de": "Richten Sie das Bild von oben mittig auf die Treppe."
+    },
+    "tip": {
+      "pl": "Po deszczu przyjrzyj się schodom z górnej ulicy i zdecyduj, czy schodzić.",
+      "en": "After rain, assess the steps from the upper street before committing to the descent.",
+      "zh": "雨後先在上方街口檢視石階，再決定是否下行。",
+      "ru": "После дождя оцените ступени сверху, прежде чем спускаться.",
+      "de": "Prüfen Sie nach Regen die Treppe von der oberen Straße aus, bevor Sie hinuntergehen."
+    }
+  },
+  "piwna-street": {
+    "manager": "city",
+    "transit": "oldTram",
+    "access": "outdoor",
+    "nextStop": "st-martins-church",
+    "photoSpot": "Piwna × Plac Zamkowy",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ulica_Piwna_w_Warszawie_przy_placu_Zamkowym_2020.jpg",
+      "author": "Adrian Grycuk",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "width": 960,
+      "height": 633
+    },
+    "history": {
+      "pl": "Nazwa, zapisana już w XV wieku, jest kojarzona z piwem. Ulica biegnie od placu Zamkowego do Wąskiego Dunaju.",
+      "en": "The name, recorded by the fifteenth century, is associated with beer. The street runs from Castle Square to Wąski Dunaj.",
+      "zh": "街名在十五世紀已有記錄，與啤酒有關。街道從城堡廣場延伸至 Wąski Dunaj。",
+      "ru": "Название известно с XV века и связано с пивом. Улица тянется от Замковой площади до Вонского Дуная.",
+      "de": "Der seit dem 15. Jahrhundert belegte Name wird mit Bier verbunden. Die Straße führt vom Schlossplatz bis zur Wąski Dunaj."
+    },
+    "framing": {
+      "pl": "Sfotografuj ulicę wzdłuż osi, pozostawiając po bokach po jednym rzędzie fasad.",
+      "en": "Shoot along the street’s axis with one row of façades on either side.",
+      "zh": "沿街道中軸取景，讓兩排立面分列左右。",
+      "ru": "Снимите вдоль оси улицы, оставив по ряду фасадов с каждой стороны.",
+      "de": "Fotografieren Sie entlang der Straßenachse mit je einer Fassadenreihe am Rand."
+    },
+    "tip": {
+      "pl": "Idź od zamku do Wąskiego Dunaju i wróć równoległą Świętojańską.",
+      "en": "Walk from the castle to Wąski Dunaj and return along parallel Świętojańska.",
+      "zh": "由城堡走到 Wąski Dunaj，再沿平行的 Świętojańska 折返。",
+      "ru": "Пройдите от замка до Вонского Дуная и вернитесь по параллельной Свентояньской.",
+      "de": "Gehen Sie vom Schloss zur Wąski Dunaj und über die parallele Świętojańska zurück."
+    }
+  },
+  "st-martins-church": {
+    "manager": "martin",
+    "transit": "oldTram",
+    "access": "church",
+    "nextStop": "piwna-street",
+    "photoSpot": "Piwna 9/11",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Marcina_w_Warszawie_2018.jpg",
+      "author": "Adrian Grycuk",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "width": 409,
+      "height": 750
+    },
+    "history": {
+      "pl": "Świątynia wyrosła z fundacji augustiańskiej w XIV wieku. Jej obecna fasada zachowuje barokową kompozycję.",
+      "en": "The church began as a fourteenth-century Augustinian foundation. Its present frontage preserves a Baroque composition.",
+      "zh": "教堂源於十四世紀的奧古斯丁會建院，今日正面保留巴洛克構圖。",
+      "ru": "Храм возник при августинцах в XIV веке. Нынешний фасад сохраняет барочную композицию.",
+      "de": "Die Kirche geht auf eine Augustinergründung des 14. Jahrhunderts zurück. Ihre heutige Front bewahrt die barocke Gliederung."
+    },
+    "framing": {
+      "pl": "Spójrz w górę z przeciwległej strony Piwnej, aby objąć portal i gzyms.",
+      "en": "Look up from the opposite side of Piwna to include the portal and cornice.",
+      "zh": "從皮夫納街對面仰拍，把門廊與簷口納入畫面。",
+      "ru": "С другой стороны Пивной включите в кадр портал и карниз.",
+      "de": "Nehmen Sie Portal und Gesims von der gegenüberliegenden Seite der Piwna auf."
+    },
+    "tip": {
+      "pl": "Gdy trwa nabożeństwo, zatrzymaj się na Piwnej i obejrzyj krzywizny fasady.",
+      "en": "During a service, pause outside on Piwna to study the curves of the façade.",
+      "zh": "遇到禮拜時，可留在皮夫納街觀察教堂正面的曲線。",
+      "ru": "Во время службы останьтесь на Пивной и рассмотрите изгибы фасада.",
+      "de": "Während eines Gottesdiensts lassen sich die geschwungenen Fassadenlinien von der Piwna aus betrachten."
+    }
+  },
+  "podwale-walk": {
+    "manager": "city",
+    "transit": "arsenal",
+    "access": "outdoor",
+    "nextStop": "little-insurgent-monument",
+    "photoSpot": "Podwale × Wąski Dunaj",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Podwale_za%C5%82o%C5%BCenie_urbanistyczne_k.przygodzki2.jpg",
+      "author": "KrzysztofPrzygodzki",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "width": 960,
+      "height": 303
+    },
+    "history": {
+      "pl": "Łuk ulicy odpowiada przebiegowi dawnej fosy u stóp obwarowań. Z tej strony łatwo dostrzec różnicę poziomów po przeciwnych stronach muru.",
+      "en": "The curve of the street follows the former moat. From this side, compare the ground levels on either side of the walls.",
+      "zh": "街道的弧線順著昔日護城壕。從這一側可比較城牆兩側的地面高度。",
+      "ru": "Изгиб улицы повторяет линию бывшего рва. Отсюда удобно сравнить уровни земли по обе стороны стены.",
+      "de": "Der Straßenbogen folgt dem früheren Graben. Von hier lässt sich die Geländehöhe auf beiden Seiten der Mauer vergleichen."
+    },
+    "framing": {
+      "pl": "Ustaw mur ukośnie przez kadr, aby wydobyć zakręt ulicy.",
+      "en": "Use an oblique view along the wall to show the bend of the street.",
+      "zh": "斜向沿城牆取景，帶出街道的彎曲。",
+      "ru": "Снимите стену под углом, чтобы показать изгиб улицы.",
+      "de": "Fotografieren Sie schräg entlang der Mauer, damit der Straßenbogen sichtbar wird."
+    },
+    "tip": {
+      "pl": "Idź najpierw u stóp murów, a w drodze powrotnej porównaj poziom ulic wewnątrz obwarowań.",
+      "en": "Follow the foot of the walls first, then return through the higher streets inside the old enclosure.",
+      "zh": "先沿城牆下方走，回程進入城牆內側較高的街巷作比較。",
+      "ru": "Сначала пройдите у подножия стен, затем вернитесь по более высоким улицам внутри укреплений.",
+      "de": "Gehen Sie zuerst am Mauerfuß entlang und über die höher gelegenen Straßen innerhalb der Befestigung zurück."
+    }
+  },
+  "little-insurgent-monument": {
+    "manager": "city",
+    "transit": "arsenal",
+    "access": "outdoor",
+    "nextStop": "barbican-architecture",
+    "photoSpot": "Podwale × Wąski Dunaj",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Pomnik_Malego_Powstanca.JPG",
+      "author": "Cezary Piwowarski",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 498,
+      "height": 750
+    },
+    "history": {
+      "pl": "Jerzy Jarnuszkiewicz zaprojektował figurę w 1946 r. Pomnik stoi w pobliżu wylotu Wąskiego Dunaju.",
+      "en": "Jerzy Jarnuszkiewicz designed the figure in 1946. The monument stands near the end of Wąski Dunaj.",
+      "zh": "耶日・雅爾努什凱維奇於 1946 年設計雕像。紀念碑立在 Wąski Dunaj 街出口附近。",
+      "ru": "Ежи Ярнушкевич создал фигуру в 1946 году. Памятник стоит у выхода с Вонского Дуная.",
+      "de": "Jerzy Jarnuszkiewicz entwarf die Figur 1946. Das Denkmal steht nahe der Einmündung der Wąski Dunaj."
+    },
+    "framing": {
+      "pl": "Zbliż figurę na tle czerwonego muru, zostawiając widoczny cokół.",
+      "en": "Frame the figure against the red wall and keep the plinth in view.",
+      "zh": "以紅磚牆作背景，保留雕像下的基座。",
+      "ru": "Снимите фигуру на фоне красной стены, оставив в кадре постамент.",
+      "de": "Fotografieren Sie die Figur vor der roten Mauer mit sichtbarem Sockel."
+    },
+    "tip": {
+      "pl": "Porównaj tę pojedynczą figurę z grupami rzeźb na placu Krasińskich.",
+      "en": "Compare the single figure here with the sculptural groups on Krasiński Square.",
+      "zh": "把這座單人雕像與克拉辛斯基廣場的群像一起安排，對照兩種紀念方式。",
+      "ru": "Сравните одинокую фигуру с группами скульптур на площади Красиньских.",
+      "de": "Vergleichen Sie die Einzelfigur mit den Figurengruppen am Krasiński-Platz."
+    }
+  },
+  "barbican-architecture": {
+    "manager": "barbican",
+    "transit": "arsenal",
+    "access": "barbican",
+    "nextStop": "podwale-walk",
+    "photoSpot": "Freta × Nowomiejska",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Barbakan_w_Warszawie_-_03.jpg",
+      "author": "Carlos Delgado",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "width": 960,
+      "height": 640
+    },
+    "history": {
+      "pl": "Barbakan powstał około 1548 r. przed Bramą Nowomiejską. Odbudowa przywróciła charakterystyczny obrys przedbramia.",
+      "en": "Built around 1548, the Barbican stood in front of the New Town Gate. Reconstruction restored its distinctive projecting outline.",
+      "zh": "甕城約建於 1548 年，位在新城門外。戰後重建恢復了這座外堡向前突出的輪廓。",
+      "ru": "Барбакан построили около 1548 года перед Новомейскими воротами. При восстановлении воссоздали его выступающий контур.",
+      "de": "Die Barbakane entstand um 1548 vor dem Neustadttor. Der Wiederaufbau stellte den charakteristischen vorspringenden Grundriss wieder her."
+    },
+    "framing": {
+      "pl": "Od Freta ujmij łuk bramy i boczną linię ceglanego muru.",
+      "en": "From Freta, frame the arch with the line of brickwork beside it.",
+      "zh": "從 Freta 拍攝拱門及相連側邊的紅磚牆。",
+      "ru": "С Фреты снимите арку и примыкающую линию кирпичной стены.",
+      "de": "Nehmen Sie von der Freta den Torbogen und die anschließende Mauer auf."
+    },
+    "tip": {
+      "pl": "Obejdź bramę z obu stron, bo jej wypukły obrys najlepiej widać od Freta.",
+      "en": "Visit both sides of the gate. Freta gives the clearest view of the projecting outline.",
+      "zh": "建議從兩側觀察城門。在 Freta 一側最容易辨認外堡突出的輪廓。",
+      "ru": "Осмотрите ворота с двух сторон. Выступающий контур лучше всего виден с Фреты.",
+      "de": "Betrachten Sie beide Seiten des Tors. Von der Freta ist der vorspringende Umriss am deutlichsten."
+    }
+  },
+  "unesco-reconstruction": {
+    "manager": "heritage",
+    "transit": "oldTram",
+    "access": "outdoor",
+    "nextStop": "old-town-cellars",
+    "photoSpot": "Rynek Starego Miasta × Świętojańska",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Warszawa_Stare_Miasto_(dron).jpg",
+      "author": "Kapitel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 960,
+      "height": 317
+    },
+    "history": {
+      "pl": "Historyczne centrum wpisano na listę UNESCO w 1980 r. Podczas odbudowy zachowano średniowieczny układ, od murów po krawędź skarpy wiślanej.",
+      "en": "The historic centre joined the World Heritage List in 1980. Reconstruction retained the medieval plan between the walls and the Vistula escarpment.",
+      "zh": "華沙歷史中心於 1980 年列入世界遺產。重建保留了城牆至維斯瓦河高地之間的中世紀街道格局。",
+      "ru": "Исторический центр включили в список ЮНЕСКО в 1980 году. При восстановлении сохранили средневековую планировку от стен до откоса Вислы.",
+      "de": "Das historische Zentrum wurde 1980 Welterbe. Beim Wiederaufbau blieb der mittelalterliche Grundriss zwischen Mauer und Weichselböschung erhalten."
+    },
+    "framing": {
+      "pl": "Zestaw na zdjęciach szeroki rynek z ciasnym wylotem Świętojańskiej.",
+      "en": "Take paired shots of the broad market and the narrow mouth of Świętojańska.",
+      "zh": "各拍一張開闊市集和狹窄的 Świętojańska 街口以供比較。",
+      "ru": "Сделайте два кадра для сравнения рынка и узкого выхода Свентояньской.",
+      "de": "Vergleichen Sie in zwei Bildern den breiten Markt und die enge Świętojańska."
+    },
+    "tip": {
+      "pl": "Porównaj rynek i mury, a następnie obejrzyj wystawę o odbudowie przy Brzozowej.",
+      "en": "Compare the market and walls, then visit the reconstruction exhibition on Brzozowa.",
+      "zh": "先比較市集與城牆，再到 Brzozowa 看戰後重建展覽。",
+      "ru": "Сравните рынок и стены, затем посетите выставку о восстановлении на Бжозовой.",
+      "de": "Vergleichen Sie Markt und Mauern und besuchen Sie anschließend die Wiederaufbau-Ausstellung an der Brzozowa."
+    }
+  },
+  "freta-street": {
+    "manager": "city",
+    "transit": "arsenal",
+    "access": "outdoor",
+    "nextStop": "curie-museum",
+    "photoSpot": "Freta × Mostowa",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ulica_Freta_w_Warszawie_2020.jpg",
+      "author": "Adrian Grycuk",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "width": 960,
+      "height": 670
+    },
+    "history": {
+      "pl": "Freta była fragmentem dawnej drogi na północ wzdłuż Wisły. Zestaw wyniesione fasady domów z niskim przejściem przez Barbakan.",
+      "en": "Freta formed part of an old road north along the Vistula. Compare its tall house fronts with the low opening of the Barbican.",
+      "zh": "Freta 曾是沿維斯瓦河北行的舊道路一段。可比較沿街高立面與甕城低矮門洞的尺度。",
+      "ru": "Фрета была частью старой дороги на север вдоль Вислы. Сравните высокие фасады с низким проходом барбакана.",
+      "de": "Die Freta gehörte zu einem alten Weg nordwärts entlang der Weichsel. Vergleichen Sie die hohen Hausfassaden mit dem niedrigen Torbogen der Barbakane."
+    },
+    "framing": {
+      "pl": "Od Mostowej spójrz wzdłuż Freta ku bramie.",
+      "en": "From Mostowa, look along Freta towards the gate.",
+      "zh": "從 Mostowa 沿 Freta 朝甕城方向取景。",
+      "ru": "С Мостовой снимите перспективу Фреты в сторону ворот.",
+      "de": "Blicken Sie von der Mostowa die Freta entlang zur Barbakane."
+    },
+    "tip": {
+      "pl": "Wybierz Freta na krótkie przejście z Barbakanu na rynek Nowego Miasta z postojem pod numerem 16.",
+      "en": "Use Freta for a short walk from the Barbican to New Town Market Square, with a stop at number 16.",
+      "zh": "沿 Freta 從甕城走到新城市集，途中在 16 號停留。",
+      "ru": "Пройдите по Фрете от барбакана к рынку Нового города с остановкой у дома 16.",
+      "de": "Gehen Sie über die Freta von der Barbakane zum Neustadtmarkt und halten Sie an Hausnummer 16."
+    }
+  },
+  "curie-museum": {
+    "manager": "curie",
+    "transit": "arsenal",
+    "access": "museum",
+    "nextStop": "new-town-market-square",
+    "photoSpot": "Freta 16",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Kamienica_%C5%81yszkiewicza_w_Warszawie_2020.jpg",
+      "author": "Adrian Grycuk",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "width": 960,
+      "height": 659
+    },
+    "history": {
+      "pl": "Uczona urodziła się w 1867 r. w kamienicy Łyszkiewicza. Dzisiejszy budynek jest rekonstrukcją domu związanego z jej rodziną.",
+      "en": "The scientist was born in the Łyszkiewicz townhouse in 1867. The present building is a reconstruction of the house associated with her family.",
+      "zh": "居里夫人於 1867 年出生在 Łyszkiewicz 聯排屋。現在所見是與她家族相關的故居重建建築。",
+      "ru": "Учёная родилась в доме Лышкевича в 1867 году. Нынешнее здание — реконструкция дома её семьи.",
+      "de": "Die Forscherin wurde 1867 im Haus Łyszkiewicz geboren. Das heutige Gebäude ist eine Rekonstruktion des mit ihrer Familie verbundenen Hauses."
+    },
+    "framing": {
+      "pl": "Z przeciwległego chodnika ujmij całą kamienicę i oznaczenie muzeum.",
+      "en": "Frame the whole townhouse and museum sign from across the street.",
+      "zh": "從街道對面把整棟故居與博物館標示拍進畫面。",
+      "ru": "С другого тротуара снимите весь дом и вывеску музея.",
+      "de": "Fotografieren Sie vom anderen Gehweg das ganze Haus mit dem Museumsschild."
+    },
+    "tip": {
+      "pl": "Po obejrzeniu domu urodzenia przejdź w stronę rynku Nowego Miasta, aby zobaczyć ulicę w szerszym kontekście.",
+      "en": "After the birthplace, continue to New Town Market Square to see the street in context.",
+      "zh": "看完出生故居後繼續走到新城市集，感受這條街在街區中的位置。",
+      "ru": "После дома рождения пройдите к рынку Нового города, чтобы увидеть улицу в контексте квартала.",
+      "de": "Gehen Sie nach dem Geburtshaus zum Neustadtmarkt weiter, um die Straße im Zusammenhang des Viertels zu sehen."
+    }
+  },
+  "new-town-market-square": {
+    "manager": "city",
+    "transit": "arsenal",
+    "access": "outdoor",
+    "nextStop": "st-kazimierz-church",
+    "photoSpot": "Rynek Nowego Miasta × Freta",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Warszawa_Rynek_Nowego_Miasta_(dron).jpg",
+      "author": "Kapitel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 960,
+      "height": 640
+    },
+    "history": {
+      "pl": "Rynek ukształtowano około 1400 r. dla odrębnego miasta sąsiadującego ze Starą Warszawą. Skarpa na wschodzie ograniczała jego położenie.",
+      "en": "The square emerged around 1400 as the market of a separate town next to Old Warsaw. The escarpment constrained its eastern side.",
+      "zh": "廣場約於 1400 年形成，原是與老華沙相鄰、獨立成鎮的新城市集，東側受高地邊緣限制。",
+      "ru": "Рынок возник около 1400 года в отдельном городе рядом со Старой Варшавой. С востока площадь ограничивал склон.",
+      "de": "Der Markt entstand um 1400 für eine eigenständige Nachbarstadt Alt-Warschaus. Im Osten begrenzte ihn die Böschung."
+    },
+    "framing": {
+      "pl": "Z otwartej części placu zostaw w kadrze zarówno kamienice, jak i kopułę.",
+      "en": "Include the houses and dome together from the open part of the square.",
+      "zh": "在廣場開闊處把聯排屋與教堂圓頂一起入鏡。",
+      "ru": "С открытой части площади снимите дома и купол вместе.",
+      "de": "Nehmen Sie vom offenen Platz Häuser und Kuppel gemeinsam auf."
+    },
+    "tip": {
+      "pl": "Obejdź rynek i usiądź na przerwę przed zejściem w stronę Wisły.",
+      "en": "Circle the square and take a break before descending towards the Vistula.",
+      "zh": "繞廣場一圈，可在往維斯瓦河下坡前休息片刻。",
+      "ru": "Обойдите площадь и сделайте паузу перед спуском к Висле.",
+      "de": "Umrunden Sie den Platz und machen Sie vor dem Abstieg zur Weichsel eine Pause."
+    }
+  },
+  "st-kazimierz-church": {
+    "manager": "casimir",
+    "transit": "arsenal",
+    "access": "church",
+    "nextStop": "mostowa-street",
+    "photoSpot": "Rynek Nowego Miasta 2",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Saint_Kazimierz_Church_in_Warsaw_-_New_Town.jpg",
+      "author": "LoMit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 960,
+      "height": 640
+    },
+    "history": {
+      "pl": "Królowa Maria Kazimiera sprowadziła sakramentki u schyłku XVII wieku. Wysoka kopuła wyróżnia ich kościół na tle niskiej zabudowy.",
+      "en": "Queen Marie Casimire brought the Sacramentine sisters to Warsaw in the late seventeenth century. The dome rises distinctly over the low neighboring buildings.",
+      "zh": "十七世紀末，瑪麗亞・卡齊米拉王后迎請聖體修女會來華沙。教堂的圓頂突出於周圍低矮屋宇。",
+      "ru": "Королева Мария Казимира пригласила сакраменток в конце XVII века. Купол церкви заметно возвышается над низкими домами.",
+      "de": "Königin Marie Casimire holte die Sakramentinerinnen im späten 17. Jahrhundert nach Warschau. Die Kuppel hebt sich von der niedrigen Umgebung ab."
+    },
+    "framing": {
+      "pl": "Stań na wprost kościoła, aby pokazać jego symetrię.",
+      "en": "Face the church square-on to show its symmetry.",
+      "zh": "從教堂正前方取景，凸顯建築的對稱佈局。",
+      "ru": "Снимайте строго напротив, чтобы передать симметрию храма.",
+      "de": "Fotografieren Sie die Kirche frontal, um ihre Symmetrie zu zeigen."
+    },
+    "tip": {
+      "pl": "Zobacz kopułę z przeciwległej strony rynku, a wejście wybierz w przerwie między nabożeństwami.",
+      "en": "View the dome from across the square and time an interior visit between services.",
+      "zh": "先從廣場對側看圓頂，再安排禮拜間隔入內。",
+      "ru": "Посмотрите на купол с противоположной стороны площади и войдите между службами.",
+      "de": "Betrachten Sie die Kuppel vom gegenüberliegenden Platzrand und besuchen Sie das Innere zwischen Gottesdiensten."
+    }
+  },
+  "mostowa-street": {
+    "manager": "city",
+    "transit": "arsenal",
+    "access": "outdoor",
+    "nextStop": "fountain-park",
+    "photoSpot": "Mostowa × Rybaki",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ulica_Mostowa_w_Warszawie_2020.jpg",
+      "author": "Adrian Grycuk",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "width": 960,
+      "height": 656
+    },
+    "history": {
+      "pl": "Ulica prowadziła ku dawnej przeprawie przez Wisłę. Jej nazwa nawiązuje do mostu Zygmunta Augusta.",
+      "en": "The street led to an old Vistula crossing. Its name refers to the bridge of Sigismund Augustus.",
+      "zh": "這條街昔日通向維斯瓦河的渡河點，街名得自西吉斯蒙德・奧古斯特之橋。",
+      "ru": "Улица вела к старой переправе через Вислу. Её название связано с мостом Сигизмунда Августа.",
+      "de": "Die Straße führte zu einem alten Weichselübergang. Ihr Name erinnert an die Brücke Sigismund Augusts."
+    },
+    "framing": {
+      "pl": "Z dolnego odcinka skieruj aparat pod górę na dachy i bruk.",
+      "en": "From the lower section, aim uphill to include roofs and cobbles.",
+      "zh": "從較下方沿坡往上拍，把屋頂和石板路一起納入畫面。",
+      "ru": "С нижнего участка снимите вверх, включив крыши и брусчатку.",
+      "de": "Fotografieren Sie vom unteren Abschnitt bergauf mit Dächern und Pflaster."
+    },
+    "tip": {
+      "pl": "Na zejście nad rzekę wybierz Mostową, a na powrót zaplanuj zauważalne podejście.",
+      "en": "Use Mostowa for the descent to the river and allow for a noticeable climb on the way back.",
+      "zh": "可沿 Mostowa 下到河邊，回程需預留上坡時間。",
+      "ru": "Спускайтесь к реке по Мостовой и учитывайте подъём на обратном пути.",
+      "de": "Nehmen Sie für den Abstieg die Mostowa und rechnen Sie auf dem Rückweg mit Steigung."
+    }
+  },
+  "fountain-park": {
+    "manager": "fountains",
+    "transit": "river",
+    "access": "show",
+    "nextStop": "vistula-boulevards",
+    "photoSpot": "Rybaki 3",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Multimedialny_Park_Fontann_Warszawa.JPG",
+      "author": "Adrian Grycuk",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "width": 960,
+      "height": 636
+    },
+    "history": {
+      "pl": "Park upamiętnia 125-lecie warszawskich wodociągów. Szukaj ławki z postacią projektanta kanalizacji Williama Heerleina Lindleya.",
+      "en": "The park commemorates 125 years of Warsaw’s waterworks. Look for the bench with sewer designer William Heerlein Lindley.",
+      "zh": "公園紀念華沙供水系統 125 週年。可找找有下水道設計者威廉・赫萊因・林德利塑像的長椅。",
+      "ru": "Парк посвящён 125-летию варшавского водопровода. Найдите скамью с фигурой инженера Уильяма Хирлейна Линдли.",
+      "de": "Der Park erinnert an 125 Jahre Warschauer Wasserwerke. Suchen Sie die Bank mit dem Kanalingenieur William Heerlein Lindley."
+    },
+    "framing": {
+      "pl": "Z brzegu basenu zostaw w kadrze miejsce na końce strumieni.",
+      "en": "From the basin’s edge, leave room in the frame for the tops of the jets.",
+      "zh": "從水池邊取景時，在畫面上方留空容納噴水最高點。",
+      "ru": "С края бассейна оставьте место над струями в кадре.",
+      "de": "Lassen Sie vom Beckenrand aus Platz für die Spitzen der Wasserstrahlen."
+    },
+    "tip": {
+      "pl": "Jeśli pokazów nie ma, połącz dzienny spacer wokół basenu z bulwarem Jana Karskiego.",
+      "en": "Outside show season, combine a daytime circuit of the basin with the Karski Boulevard.",
+      "zh": "沒有表演時，白天可繞水池一圈，再接揚・卡爾斯基步道。",
+      "ru": "Вне сезона шоу совместите дневную прогулку вокруг бассейна с бульваром Карского.",
+      "de": "Außerhalb der Showsaison lässt sich ein Rundgang am Becken mit dem Karski-Boulevard verbinden."
+    }
+  },
+  "vistula-boulevards": {
+    "manager": "river",
+    "transit": "river",
+    "access": "outdoor",
+    "nextStop": "fountain-park",
+    "photoSpot": "Bulwar Jana Karskiego × Rybaki",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:POL_Warszawa_Vistula_Boulevards_16.jpg",
+      "author": "Tadeusz Rudzki",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 960,
+      "height": 720
+    },
+    "history": {
+      "pl": "Na bulwarze Jana Karskiego rzeka pozwala zobaczyć miasto z poziomu wody. Patrząc w stronę Starego Miasta, odszukaj wyraźny uskok skarpy.",
+      "en": "At the Karski Boulevard, the riverside offers a view of the city from near water level. Look back towards the Old Town to find the edge of the escarpment.",
+      "zh": "在揚・卡爾斯基河岸步道，可從近水面高度觀察城市。回望老城時，找找高地邊緣的明顯高差。",
+      "ru": "С бульвара Карского город виден почти с уровня воды. Оглянитесь на Старый город и найдите край крутого склона.",
+      "de": "Am Karski-Boulevard sieht man die Stadt fast vom Wasserniveau aus. Blicken Sie zur Altstadt zurück und suchen Sie die Kante der Böschung."
+    },
+    "framing": {
+      "pl": "Z poziomu promenady poprowadź linię brzegu w stronę mostu.",
+      "en": "From promenade level, use the bank as a leading line towards the bridge.",
+      "zh": "在步道高度取景，用河岸線把視線引向橋梁。",
+      "ru": "С набережной используйте линию берега, ведущую к мосту.",
+      "de": "Nutzen Sie vom Uferweg aus die Uferlinie als Blickführung zur Brücke."
+    },
+    "tip": {
+      "pl": "Wybierz krótki odcinek między fontannami a mostem i zaplanuj powrót górą lub tą samą promenadą.",
+      "en": "Walk the short stretch between the fountains and bridge, then return via the upper streets or the same promenade.",
+      "zh": "先走噴泉至橋梁的短段，回程可循上方街道或原河濱步道。",
+      "ru": "Пройдите от фонтанов до моста, а обратно — верхними улицами или той же набережной.",
+      "de": "Gehen Sie von den Fontänen bis zur Brücke und über die oberen Straßen oder denselben Uferweg zurück."
+    }
+  },
+  "krasinski-square": {
+    "manager": "city",
+    "transit": "krasinski",
+    "access": "outdoor",
+    "nextStop": "warsaw-uprising-monument",
+    "photoSpot": "Plac Krasińskich × Długa",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Warszawa_plac_Krasinskich_(dron).jpg",
+      "author": "Kapitel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 960,
+      "height": 640
+    },
+    "history": {
+      "pl": "Plac wyrósł z dziedzińca pałacowego. Współczesne zabudowania i pomnik pokazują, jak miejsce zmieniało funkcję po otwarciu dla publiczności.",
+      "en": "The square grew out of a palace courtyard. The later buildings and memorial show how its role changed as it became public space.",
+      "zh": "廣場由宮殿前庭演變而來。後來的建築和紀念碑，反映這裡開放成公共空間後的功能轉變。",
+      "ru": "Площадь выросла из дворцового двора. Поздние здания и памятник показывают, как изменилась её роль после открытия для горожан.",
+      "de": "Der Platz entstand aus einem Palasthof. Spätere Bauten und das Denkmal zeigen seinen Wandel zum öffentlichen Raum."
+    },
+    "framing": {
+      "pl": "Z placu weź osobny kadr fasady i osobny figur pomnika.",
+      "en": "Take separate frames of the palace frontage and the memorial figures.",
+      "zh": "從廣場分別拍攝宮殿正面與紀念碑人物群。",
+      "ru": "С площади отдельно снимите фасад дворца и фигуры памятника.",
+      "de": "Fotografieren Sie Palastfront und Denkmalfiguren jeweils in einem eigenen Bild."
+    },
+    "tip": {
+      "pl": "Zostaw czas na obejście pomnika i odpoczynek w ogrodzie po drugiej stronie pałacu.",
+      "en": "Leave time to walk around the memorial and rest in the garden behind the palace.",
+      "zh": "留時間繞看紀念碑，再到宮殿後方的花園休息。",
+      "ru": "Оставьте время обойти памятник и отдохнуть в саду за дворцом.",
+      "de": "Planen Sie Zeit für das Denkmal und eine Pause im Garten hinter dem Palast ein."
+    }
+  },
+  "warsaw-uprising-monument": {
+    "manager": "city",
+    "transit": "krasinski",
+    "access": "outdoor",
+    "nextStop": "krasinski-garden",
+    "photoSpot": "Plac Krasińskich × Długa",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Pomnik_Powstania_Warszawskiego_w_Warszawie_2019a.jpg",
+      "author": "Adrian Grycuk",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "width": 960,
+      "height": 648
+    },
+    "history": {
+      "pl": "Pomnik odsłonięto w 1989 r. Aby zobaczyć oba epizody, przejdź wzdłuż zespołu od dużych figur ku grupie przy kanale.",
+      "en": "The memorial was unveiled in 1989. To see both scenes, walk from the large figures to the group at the sewer entrance.",
+      "zh": "紀念碑於 1989 年揭幕。可沿雕塑群從較高大的人物走到下水道入口旁的小組，依次看清兩個場景。",
+      "ru": "Памятник открыли в 1989 году. Чтобы увидеть обе сцены, пройдите от крупных фигур к группе у входа в канализацию.",
+      "de": "Das Denkmal wurde 1989 enthüllt. Gehen Sie von den großen Figuren zur Gruppe am Kanaleinstieg, um beide Szenen zu sehen."
+    },
+    "framing": {
+      "pl": "Obejrzyj obie grupy z poziomu chodnika, a szczegóły fotografuj z boku.",
+      "en": "View both groups from pavement level and shoot details from the side.",
+      "zh": "從人行道高度看兩組人物，再從側面拍攝細節。",
+      "ru": "Посмотрите на обе группы с тротуара и снимите детали сбоку.",
+      "de": "Betrachten Sie beide Gruppen vom Gehweg und fotografieren Sie Einzelheiten von der Seite."
+    },
+    "tip": {
+      "pl": "Obejrzyj dwie grupy figur przed wyjściem do ogrodu. Na relacje uczestników zarezerwuj osobny czas w muzeum powstania.",
+      "en": "See both sculptural groups before going to the garden. Set aside a separate museum visit for firsthand accounts.",
+      "zh": "到花園前先看兩組雕塑。想聽親歷者口述，可另外安排起義博物館。",
+      "ru": "Осмотрите обе группы перед выходом в сад. Для рассказов участников отведите отдельное время в музее восстания.",
+      "de": "Sehen Sie beide Figurengruppen vor dem Gartenbesuch. Nehmen Sie sich für Zeitzeugenberichte gesondert Zeit im Aufstandsmuseum."
+    }
+  },
+  "krasinski-garden": {
+    "manager": "garden",
+    "transit": "krasinski",
+    "access": "park",
+    "nextStop": "krasinski-square",
+    "photoSpot": "Ogród Krasińskich × Długa",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ogr%C3%B3d_Krasi%C5%84skich-_IV_2016.jpg",
+      "author": "Matpol222",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 960,
+      "height": 576
+    },
+    "history": {
+      "pl": "Ogród powstał w XVII wieku jako część założenia pałacowego. Od pałacu warto przejść alejkami ku stawowi, by zobaczyć swobodniejszy układ zieleni.",
+      "en": "The garden began in the seventeenth century as part of the palace grounds. Follow the paths from the palace to the pond to see the more informal landscape.",
+      "zh": "花園始於十七世紀，原是宮殿園區的一部分。可沿園路從宮殿走到池塘，觀察佈局較自然的園景。",
+      "ru": "Сад появился в XVII веке как часть дворцового ансамбля. Пройдите от дворца к пруду, чтобы увидеть более свободную планировку парка.",
+      "de": "Der Garten entstand im 17. Jahrhundert als Teil der Palastanlage. Gehen Sie vom Palast zum Teich, um den freier gestalteten Parkteil zu sehen."
+    },
+    "framing": {
+      "pl": "Z parkowej alejki ujmij fasadę z zielenią na pierwszym planie.",
+      "en": "Frame the garden frontage from a path with greenery in the foreground.",
+      "zh": "從園路拍攝宮殿的花園立面，以綠植作前景。",
+      "ru": "С дорожки снимите садовый фасад с зеленью на переднем плане.",
+      "de": "Fotografieren Sie die Gartenfassade vom Weg mit Grün im Vordergrund."
+    },
+    "tip": {
+      "pl": "Na dłuższą przerwę wybierz alejkę wokół stawu i wróć w stronę fasady pałacu.",
+      "en": "For a longer break, take the path around the pond and return towards the palace frontage.",
+      "zh": "若想多休息一會，可沿池塘繞行，再往宮殿立面返回。",
+      "ru": "Для более долгого отдыха обойдите пруд и возвращайтесь к фасаду дворца.",
+      "de": "Für eine längere Pause umrunden Sie den Teich und gehen zurück zur Palastfassade."
+    }
+  },
+  "st-annes-church": {
+    "manager": "anne",
+    "transit": "oldTram",
+    "access": "tower",
+    "nextStop": "krakowskie-przedmiescie",
+    "photoSpot": "Krakowskie Przedmieście 68",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Anny_w_Warszawie_2020.jpg",
+      "author": "Adrian Grycuk",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "width": 960,
+      "height": 616
+    },
+    "history": {
+      "pl": "Kościół wyrósł przy klasztorze bernardynów założonym w XV wieku. Klasycystyczna fasada jest dużo późniejsza od jego początków.",
+      "en": "The church grew beside a Bernardine monastery founded in the fifteenth century. Its classical frontage came much later.",
+      "zh": "教堂伴隨十五世紀建立的伯納丁修道院而發展。今日的古典主義立面則晚得多。",
+      "ru": "Церковь возникла при монастыре бернардинцев XV века. Классический фасад появился значительно позже.",
+      "de": "Die Kirche entstand bei einem im 15. Jahrhundert gegründeten Bernhardinerkloster. Ihre klassizistische Front kam viel später hinzu."
+    },
+    "framing": {
+      "pl": "Z placu ujmij oddzielnie fasadę i stojącą obok dzwonnicę.",
+      "en": "From the square, frame the church front and adjoining tower separately.",
+      "zh": "從廣場分開拍攝教堂正面和旁邊的鐘樓。",
+      "ru": "С площади отдельно снимите фасад и соседнюю колокольню.",
+      "de": "Fotografieren Sie Kirchenfront und benachbarten Turm vom Platz einzeln."
+    },
+    "tip": {
+      "pl": "Jeśli nie planujesz wejścia po schodach na wieżę, porównaj fasadę kościoła i dzwonnicę z placu.",
+      "en": "If you are skipping the tower stairs, compare the church and belfry from the square.",
+      "zh": "若不登鐘樓，可從廣場比較教堂立面與鐘樓。",
+      "ru": "Если не поднимаетесь на башню, сравните храм и колокольню с площади.",
+      "de": "Wenn Sie nicht auf den Turm steigen, vergleichen Sie Kirche und Glockenturm vom Platz aus."
+    }
+  },
+  "krakowskie-przedmiescie": {
+    "manager": "city",
+    "transit": "university",
+    "access": "outdoor",
+    "nextStop": "presidential-palace",
+    "photoSpot": "Krakowskie Przedmieście × Plac Zamkowy",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Widok_na_krakowskie_przedmiescie_po_remoncie.jpg",
+      "author": "Slawek L",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "width": 960,
+      "height": 430
+    },
+    "history": {
+      "pl": "Trakt wyrósł z przedmieścia za dawną Bramą Krakowską. Ustaw się blisko placu Zamkowego i spójrz wzdłuż ulicy, gdzie pałace są cofnięte za dziedzińcami.",
+      "en": "The route grew out of a suburb beyond the old Kraków Gate. Look down the street from Castle Square to see palaces set back behind forecourts.",
+      "zh": "大道由舊克拉科夫門外的郊區發展而來。靠近城堡廣場眺望街道，可看到宮邸退在前庭後方。",
+      "ru": "Тракт вырос из предместья за старыми Краковскими воротами. Взгляните от Замковой площади вдоль улицы на дворцы за парадными дворами.",
+      "de": "Der Königsweg wuchs aus einer Vorstadt hinter dem Krakauer Tor. Blicken Sie vom Schlossplatz die Straße hinab auf die Paläste hinter ihren Vorhöfen."
+    },
+    "framing": {
+      "pl": "Użyj osi ulicy, aby pokazać odstępy między reprezentacyjnymi fasadami.",
+      "en": "Use the street’s axis to show the gaps between ceremonial façades.",
+      "zh": "沿街道軸線取景，呈現大型建築立面之間的開闊距離。",
+      "ru": "Снимите вдоль оси улицы, чтобы показать расстояния между парадными фасадами.",
+      "de": "Nutzen Sie die Straßenachse, um die Abstände zwischen den repräsentativen Fassaden zu zeigen."
+    },
+    "tip": {
+      "pl": "Na krótki spacer wybierz odcinek od placu Zamkowego do bramy uniwersyteckiej.",
+      "en": "For a short walk, focus on Castle Square to the university gate.",
+      "zh": "短程散步可走城堡廣場至大學校門一段。",
+      "ru": "Для короткой прогулки выберите участок от Замковой площади до ворот университета.",
+      "de": "Für einen kurzen Spaziergang reicht der Abschnitt vom Schlossplatz zum Universitätstor."
+    }
+  },
+  "presidential-palace": {
+    "manager": "president",
+    "transit": "university",
+    "access": "exterior",
+    "nextStop": "university-main-gate",
+    "photoSpot": "Krakowskie Przedmieście 46/48",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Warszawa_Pa%C5%82ac_Prezydencki_2011.jpg",
+      "author": "Marcin Białek",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "width": 960,
+      "height": 658
+    },
+    "history": {
+      "pl": "Pałac wcześniej służył władzom rządowym. Od 1994 r. pełni funkcję oficjalnej siedziby prezydenta.",
+      "en": "The palace previously housed government offices. It has been the official presidential residence since 1994.",
+      "zh": "宮殿曾供政府機關使用，自 1994 年起成為總統的正式官邸。",
+      "ru": "Ранее дворец занимали правительственные учреждения. С 1994 года он служит официальной резиденцией президента.",
+      "de": "Der Palast beherbergte früher Regierungsstellen. Seit 1994 dient er als offizieller Sitz des Präsidenten."
+    },
+    "framing": {
+      "pl": "Z przeciwległego chodnika ustaw pomnik na tle środkowej części pałacu.",
+      "en": "From across the street, align the equestrian statue with the middle of the palace.",
+      "zh": "在對側人行道上，把騎馬像與總統府中央部分對齊。",
+      "ru": "С противоположного тротуара совместите конную статую с центром дворца.",
+      "de": "Richten Sie vom anderen Gehweg das Reiterdenkmal auf die Mitte des Palasts aus."
+    },
+    "tip": {
+      "pl": "Zaplanuj krótki postój po stronie publicznego chodnika, a następnie idź do bramy uniwersytetu.",
+      "en": "Plan a brief pavement-side stop, then continue to the university gate.",
+      "zh": "在公共人行道短暫停留，接著可走到華沙大學校門。",
+      "ru": "Сделайте короткую остановку на общественном тротуаре, затем идите к воротам университета.",
+      "de": "Planen Sie einen kurzen Halt auf dem öffentlichen Gehweg und gehen Sie anschließend zum Universitätstor."
+    }
+  },
+  "university-main-gate": {
+    "manager": "university",
+    "transit": "university",
+    "access": "campus",
+    "nextStop": "krakowskie-przedmiescie",
+    "photoSpot": "Krakowskie Przedmieście 26/28",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Brama_G%C5%82%C3%B3wna_kampus_centralny_Uniwersytetu_Warszawskiego_2019.jpg",
+      "author": "Adrian Grycuk",
+      "license": "CC BY-SA 3.0 pl",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+      "width": 960,
+      "height": 657
+    },
+    "history": {
+      "pl": "Brama stoi w miejscu wcześniejszego wjazdu z XVIII wieku. Z ulicy obejrzyj środkowy przejazd i boczne przejścia dla pieszych.",
+      "en": "The gate occupies the site of an earlier eighteenth-century entrance. From the street, compare the central arch with the side pedestrian openings.",
+      "zh": "校門坐落在十八世紀舊入口的原址。從街上可比較中央拱門與兩側行人入口。",
+      "ru": "Ворота стоят на месте прежнего въезда XVIII века. С улицы сравните центральную арку с боковыми проходами.",
+      "de": "Das Tor steht am Ort einer älteren Zufahrt aus dem 18. Jahrhundert. Vergleichen Sie von der Straße den Mittelbogen mit den seitlichen Fußgängerdurchgängen."
+    },
+    "framing": {
+      "pl": "Ujmij wszystkie przejścia w jednym kadrze od strony ulicy.",
+      "en": "Frame all the openings together from the street.",
+      "zh": "從街上把校門的所有通道一起入鏡。",
+      "ru": "С улицы включите в один кадр все проходы ворот.",
+      "de": "Nehmen Sie von der Straße alle Tordurchgänge gemeinsam ins Bild."
+    },
+    "tip": {
+      "pl": "Zatrzymaj się z boku wejścia, by obserwować układ bramy bez blokowania ruchu studentów.",
+      "en": "Pause to the side to study the gate without blocking students entering campus.",
+      "zh": "站在入口一側觀察校門佈局，給進出校園的學生留出通道。",
+      "ru": "Остановитесь сбоку, чтобы рассмотреть ворота, не мешая проходу студентов.",
+      "de": "Stehen Sie seitlich, um die Toranlage anzusehen und den Durchgang für Studierende freizuhalten."
+    }
+  }
+}
