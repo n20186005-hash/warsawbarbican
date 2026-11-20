@@ -158,7 +158,7 @@ export default async function LocaleLayout({
         aggregateRating: {
           "@type": "AggregateRating",
           ratingValue: 4.7,
-          ratingCount: 11164,
+          ratingCount: 11239,
           bestRating: 5,
         },
         openingHoursSpecification: [
