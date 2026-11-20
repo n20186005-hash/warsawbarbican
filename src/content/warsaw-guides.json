@@ -99,7 +99,7 @@
     }
   },
   "old-town-cellars": {
-    "place": "Piwnice Staromiejskie, Rynek Starego Miasta, Warszawa",
+    "place": "Centrum Interpretacji Zabytku, Brzozowa 11/13, Warszawa",
     "source": "old-town",
     "duration": "30–60",
     "group": "oldTown",
@@ -660,7 +660,7 @@
     }
   },
   "st-kazimierz-church": {
-    "place": "Kościół św. Kazimierza, Rynek Nowego Miasta, Warszawa",
+    "place": "Kościół św. Kazimierza, Rynek Nowego Miasta 2, Warszawa",
     "source": "unesco",
     "duration": "10–20",
     "group": "newTown",
@@ -957,7 +957,7 @@
     }
   },
   "presidential-palace": {
-    "place": "Pałac Prezydencki, Krakowskie Przedmieście 48/50, Warszawa",
+    "place": "Pałac Prezydencki, Krakowskie Przedmieście 46/48, Warszawa",
     "source": "royal-route",
     "duration": "5–15",
     "group": "royalRoute",

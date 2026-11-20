@@ -2,7 +2,7 @@ import visitorGuides from "@/content/warsaw-guides.json";
 import { guideSources, visitorLabels } from "@/content/warsaw-guide-labels";
 
 export const originalTopics = ["tickets-and-opening-hours", "old-town-city-walls-walk"] as const;
-type VisitorTopic = keyof typeof visitorGuides;
+export type VisitorTopic = keyof typeof visitorGuides;
 export const visitorTopics = Object.keys(visitorGuides) as VisitorTopic[];
 export const guideTopics = [...originalTopics, ...visitorTopics];
 export type GuideTopic = (typeof guideTopics)[number];

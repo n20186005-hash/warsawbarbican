@@ -1343,3 +1343,65 @@ img {
   padding: 0.5rem;
   background: var(--teal-light);
 }
+
+.visitor-heading {
+  margin: 1rem 0 1.5rem;
+}
+
+.visitor-heading p {
+  margin-bottom: 1rem;
+}
+
+.visitor-photo {
+  margin: 0 auto 1.5rem;
+  text-align: center;
+}
+
+.visitor-photo img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 52vh;
+  margin: 0 auto;
+  border-radius: var(--radius);
+}
+
+.visitor-photo figcaption {
+  margin-top: .5rem;
+  color: var(--ink-soft);
+  font-size: .85rem;
+}
+
+.visitor-management h2,
+.visitor-detail h2 {
+  margin-bottom: .5rem;
+}
+
+.visitor-detail {
+  margin: 1.6rem 0;
+}
+
+.visitor-facts > div {
+  padding: .55rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.visitor-facts dt {
+  font-weight: 700;
+}
+
+.visitor-list {
+  list-style: decimal;
+  padding-inline-start: 1.5rem;
+}
+
+.visitor-list li,
+.visitor-detail details {
+  margin-block: .55rem;
+}
+
+.visitor-detail summary {
+  cursor: pointer;
+  font-weight: 600;
+}
