@@ -1,7 +1,14 @@
-import { getTranslations } from "next-intl/server";
+import Link from "next/link";
+import { hasLocale } from "next-intl";
+import { routing } from "@/i18n/routing";
+import { getGuide, guidePath } from "@/guides";
+import { getLocale, getTranslations } from "next-intl/server";
 
 export default async function WalkingTourSection() {
   const t = await getTranslations("walkingTour");
+
+  const locale = await getLocale();
+  const topic = "old-town-city-walls-walk";
 
   return (
     <section className="section section-alt" id="walkingTour">
@@ -29,6 +36,9 @@ export default async function WalkingTourSection() {
         <div className="note-box">
           <strong>{t("tip")}:</strong> {t("tipText")}
         </div>
+        {hasLocale(routing.locales, locale) && (
+          <p><Link href={guidePath(locale, topic)}>{getGuide(locale, topic)[0]}</Link></p>
+        )}
       </div>
     </section>
   );

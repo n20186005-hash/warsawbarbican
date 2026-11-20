@@ -8,7 +8,7 @@ export const siteConfig = {
   country: "Poland",
   region: "Mazovia Province",
   streetAddress: "Nowomiejska 15/17",
-  postalCode: "00-257",
+  postalCode: "00-271",
   telephone: "+48 22 277 44 02",
   geo: { latitude: 52.2506035, longitude: 21.01008 },
   plusCode: "7226+62",

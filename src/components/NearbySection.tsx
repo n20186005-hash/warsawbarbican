@@ -1,7 +1,12 @@
-import { getTranslations } from "next-intl/server";
+import Link from "next/link";
+import { hasLocale } from "next-intl";
+import { routing } from "@/i18n/routing";
+import { getGuide, guidePath, guideTopics } from "@/guides";
+import { getLocale, getTranslations } from "next-intl/server";
 
 export default async function NearbySection() {
   const t = await getTranslations("nearby");
+  const locale = await getLocale();
 
   return (
     <section className="section" id="nearby">
@@ -25,6 +30,15 @@ export default async function NearbySection() {
               </div>
             )
           )}
+          {hasLocale(routing.locales, locale) && guideTopics.map((topic) => {
+            const [title, description] = getGuide(locale, topic);
+            return (
+              <div className="nearby-card" key={topic}>
+                <h3><Link href={guidePath(locale, topic)}>{title}</Link></h3>
+                <p>{description}</p>
+              </div>
+            );
+          })}
         </div>
       </div>
     </section>

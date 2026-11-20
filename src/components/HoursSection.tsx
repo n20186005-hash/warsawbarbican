@@ -1,7 +1,14 @@
-import { getTranslations } from "next-intl/server";
+import Link from "next/link";
+import { hasLocale } from "next-intl";
+import { routing } from "@/i18n/routing";
+import { getGuide, guidePath } from "@/guides";
+import { getLocale, getTranslations } from "next-intl/server";
 
 export default async function HoursSection() {
   const t = await getTranslations("hours");
+
+  const locale = await getLocale();
+  const topic = "tickets-and-opening-hours";
 
   return (
     <section className="section" id="hours">
@@ -45,6 +52,9 @@ export default async function HoursSection() {
         </div>
 
         <div className="note-box">{t("note")}</div>
+        {hasLocale(routing.locales, locale) && (
+          <p><Link href={guidePath(locale, topic)}>{getGuide(locale, topic)[0]}</Link></p>
+        )}
       </div>
     </section>
   );
