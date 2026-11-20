@@ -33,6 +33,13 @@
       "zh": "先沿德克特一側走，再進廣場中央。",
       "ru": "Сначала пройдите вдоль стороны Декерта, затем пересеките площадь.",
       "de": "Gehen Sie zuerst an der Dekert-Seite entlang und dann über die Platzmitte."
+    },
+    "feature": {
+      "pl": "Na pierzei Dekerta policz wąskie osie okienne kolejnych kamienic. Z narożnika przy Nowomiejskiej widać, jak zmienia się rytm elewacji po drugiej stronie placu.",
+      "en": "Count the narrow window bays along the Dekert frontage. From the Nowomiejska corner, compare their rhythm with the façades across the square.",
+      "zh": "在德克特一側數一數各棟屋的窄窗列，再從 Nowomiejska 街角比較廣場對面的立面節奏。",
+      "ru": "Посчитайте узкие ряды окон на стороне Декерта. С угла Новомейской сравните их ритм с домами напротив.",
+      "de": "Zählen Sie die schmalen Fensterachsen an der Dekert-Seite. Von der Nowomiejska-Ecke lässt sich ihr Rhythmus mit der gegenüberliegenden Häuserzeile vergleichen."
     }
   },
   "warsaw-mermaid": {
@@ -69,6 +76,13 @@
       "zh": "先看廣場上的複製雕像，再到博物館看原作。",
       "ru": "Сравните копию на площади с оригиналом в музее.",
       "de": "Vergleichen Sie die Kopie am Markt mit dem Original im Museum."
+    },
+    "feature": {
+      "pl": "Obejdź figurę, żeby zobaczyć, jak ustawienie miecza, tarczy i ogona zmienia się z różnych stron.",
+      "en": "Walk around the figure to see how the sword, shield and tail read from different angles.",
+      "zh": "繞到雕像兩側，觀察劍、盾與魚尾從不同角度呈現的輪廓。",
+      "ru": "Обойдите фигуру, чтобы сравнить очертания меча, щита и хвоста с разных сторон.",
+      "de": "Umrunden Sie die Figur und vergleichen Sie Schwert, Schild und Schwanz aus verschiedenen Blickwinkeln."
     }
   },
   "museum-of-warsaw": {
@@ -105,6 +119,13 @@
       "zh": "時間不多時，從常設展選幾個主題展廳。相連的聯排屋有多個樓層。",
       "ru": "Для короткого визита выберите несколько тематических залов постоянной выставки: дома занимают несколько этажей.",
       "de": "Wählen Sie bei wenig Zeit einige Themenräume der Dauerausstellung; die verbundenen Häuser haben mehrere Stockwerke."
+    },
+    "feature": {
+      "pl": "Na wystawie stałej wybierz jeden rodzaj przedmiotów codziennych i porównaj przykłady z różnych epok. Układ gabinetów pozwala zaplanować taką krótką wizytę tematyczną.",
+      "en": "In the permanent exhibition, follow one kind of everyday object across periods. The themed rooms make a short visit with a specific focus possible.",
+      "zh": "在常設展選一類日常物件，比較不同時代的用途與樣式。展廳按主題安排，時間不多也能選定一條參觀主線。",
+      "ru": "На постоянной выставке выберите один вид бытовых предметов и сравните образцы разных эпох. Тематические кабинеты подходят для короткого визита.",
+      "de": "Wählen Sie in der Dauerausstellung eine Art von Alltagsgegenständen und vergleichen Sie Beispiele aus verschiedenen Epochen. Die Themenräume eignen sich für einen kurzen Besuch mit Schwerpunkt."
     }
   },
   "old-town-cellars": {
@@ -141,6 +162,13 @@
       "zh": "如需無階梯動線，先向遺產中心確認升降平臺及入口路線。",
       "ru": "Если нужен маршрут без ступеней, уточните у центра, как воспользоваться подъёмными платформами.",
       "de": "Fragen Sie für einen stufenlosen Besuch nach Hebeplattformen und dem Weg ab dem Eingang."
+    },
+    "feature": {
+      "pl": "Porównaj grube ściany i sklepienia pod ziemią z odtworzonymi fasadami nad ulicą. To dwa różne poziomy tej samej historii zabudowy.",
+      "en": "Compare the thick walls and vaults below ground with the reconstructed façades at street level. They show two layers of the same building history.",
+      "zh": "把地下厚牆與拱頂和地面重建的屋面並列觀察，兩者留下同一街區不同時期的建築線索。",
+      "ru": "Сравните толстые стены и своды под землёй с восстановленными фасадами на улице. Они показывают два слоя истории застройки.",
+      "de": "Vergleichen Sie dicke Kellerwände und Gewölbe mit den rekonstruierten Fassaden auf Straßenniveau. Beide zeigen unterschiedliche Schichten derselben Baugeschichte."
     }
   },
   "castle-square": {
@@ -177,6 +205,13 @@
       "zh": "可在圓柱約集合，再走到廣場較寬的一側看城堡立面。",
       "ru": "Назначьте встречу у колонны, а фасад замка осмотрите с широкого края площади.",
       "de": "Treffen Sie sich an der Säule und betrachten Sie die Schlossfassade dann vom breiten Platzrand."
+    },
+    "feature": {
+      "pl": "Przejdź od wylotu Podwala ku Świętojańskiej. Zmiana szerokości przestrzeni pozwala zobaczyć, gdzie reprezentacyjny plac przechodzi w układ staromiejskich ulic.",
+      "en": "Cross from the Podwale end towards Świętojańska. The changing width shows where the ceremonial square gives way to the Old Town street plan.",
+      "zh": "從 Podwale 街口橫越廣場走向 Świętojańska，看開闊的儀典空間如何縮成老城街巷。",
+      "ru": "Пройдите от Подвале к Свентояньской. Изменение ширины показывает переход от парадной площади к улицам Старого города.",
+      "de": "Gehen Sie von der Podwale zur Świętojańska. An der wechselnden Breite lässt sich der Übergang vom repräsentativen Platz zu den Altstadtgassen ablesen."
     }
   },
   "royal-castle": {
@@ -213,6 +248,13 @@
       "zh": "想看宮廷空間可選皇家路線，想看議會廳與畫作可選博物館路線。",
       "ru": "Для придворных интерьеров выбирайте королевский маршрут, для залов сейма и галерей — музейный.",
       "de": "Wählen Sie für höfische Räume die Königsroute und für Parlamentssäle und Galerien die Museumsroute."
+    },
+    "feature": {
+      "pl": "W Sali Canaletta wypatruj placów i ulic, które można rozpoznać podczas spaceru po wyjściu. Wnętrza i obrazy dają dwa różne punkty widzenia na Warszawę.",
+      "en": "In the Canaletto Room, look for streets and squares you can recognize on your walk afterwards. The state rooms and painted views offer two perspectives on Warsaw.",
+      "zh": "在卡納萊托廳找找離宮後能在散步途中辨認的街道與廣場，再把畫裡的城市視角與宮廷廳室作對照。",
+      "ru": "В зале Каналетто найдите улицы и площади, которые можно узнать на прогулке после визита. Залы и картины дают два взгляда на Варшаву.",
+      "de": "Suchen Sie im Canaletto-Saal nach Straßen und Plätzen, die Sie beim anschließenden Spaziergang wiedererkennen. Prunkräume und Stadtansichten zeigen Warschau aus zwei Perspektiven."
     }
   },
   "sigismunds-column": {
@@ -249,6 +291,13 @@
       "zh": "先從遠處看國王雕像輪廓，再走近圓柱底座。",
       "ru": "Сначала рассмотрите силуэт короля издали, затем подойдите к постаменту.",
       "de": "Betrachten Sie zuerst die Silhouette des Königs aus der Ferne und gehen Sie dann zum Sockel."
+    },
+    "feature": {
+      "pl": "Spójrz osobno na cokół, trzon i figurę. Z bliska widać kamieniarską konstrukcję, z dalszej części placu kolumna zamyka perspektywę ulicy.",
+      "en": "Read the base, shaft and statue separately. Up close you see the masonry; from farther across the square the column closes the street vista.",
+      "zh": "分別觀察柱座、柱身與頂端雕像。走近可看石作結構，退到廣場另一側則能看見圓柱如何收住街景視線。",
+      "ru": "Рассмотрите постамент, ствол и фигуру отдельно. Вблизи видна кладка, издали колонна завершает перспективу улицы.",
+      "de": "Betrachten Sie Sockel, Schaft und Figur getrennt. Aus der Nähe erkennt man die Steinstruktur, aus der Ferne schließt die Säule die Straßenperspektive."
     }
   },
   "st-johns-archcathedral": {
@@ -285,6 +334,13 @@
       "zh": "若地下墓室未開放，可先看正面，再步行到卡諾尼亞廣場。",
       "ru": "Если крипта закрыта, осмотрите фасад и завершите прогулку на Канонии.",
       "de": "Ist die Krypta geschlossen, betrachten Sie die Fassade und gehen Sie weiter zur Kanonia."
+    },
+    "feature": {
+      "pl": "W wąskiej Świętojańskiej cofnij się do przeciwległej pierzei, by zobaczyć cały schodkowy szczyt. W środku porównaj pionowe podziały nawy z rytmem zewnętrznej fasady.",
+      "en": "Step back to the opposite side of narrow Świętojańska to see the stepped gable. Inside, compare the nave’s vertical divisions with the rhythm of the front.",
+      "zh": "退到狹窄的 Świętojańska 街對面看完整的階梯山牆。入內後，比較中殿的垂直分隔與外牆的節奏。",
+      "ru": "Отойдите на другую сторону узкой Свентояньской, чтобы увидеть ступенчатый фронтон целиком. Внутри сравните вертикальные членения нефа с фасадом.",
+      "de": "Treten Sie auf die andere Seite der engen Świętojańska, um den Stufengiebel ganz zu sehen. Vergleichen Sie innen die Gliederung des Schiffs mit der Fassade."
     }
   },
   "kanonia-square": {
@@ -321,6 +377,13 @@
       "zh": "廣場很小，建議短暫停留並讓出住戶門口。",
       "ru": "Площадь небольшая. Сделайте короткую остановку и не перекрывайте входы в дома.",
       "de": "Der Platz ist klein. Halten Sie nur kurz und lassen Sie Hauseingänge frei."
+    },
+    "feature": {
+      "pl": "Od strony ulicy Jezuickiej widać, jak niewielki plac mieści się za katedrą. Obejdź dzwon, zanim zatrzymasz się przy wąskich fasadach.",
+      "en": "From Jezuicka, see how the small court fits behind the cathedral. Walk around the bell before pausing by the narrow façades.",
+      "zh": "由 Jezuicka 一側可看清小廣場如何嵌在主教座堂後方。先繞行古鐘，再停下看窄面寬的房屋。",
+      "ru": "С Езуицкой видно, как небольшой двор расположен за собором. Обойдите колокол, прежде чем остановиться у узких фасадов.",
+      "de": "Von der Jezuicka sieht man, wie der kleine Platz hinter den Dom eingefügt ist. Umrunden Sie die Glocke, bevor Sie die schmalen Fassaden betrachten."
     }
   },
   "gnojna-gora-viewpoint": {
@@ -357,6 +420,13 @@
       "zh": "想較輕鬆回市集，沿 Brzozowa 返回，可把河岸階梯留給另一段行程。",
       "ru": "Для простого возврата к рынку идите по Бжозовой, а спуск к реке оставьте на другой раз.",
       "de": "Zurück zum Markt ist die Brzozowa einfacher als die Treppe zum Fluss."
+    },
+    "feature": {
+      "pl": "Najpierw spójrz w dół ku nabrzeżu, potem wzdłuż krawędzi skarpy. Te dwa kierunki pokazują różnicę wysokości lepiej niż jedno zdjęcie panoramy.",
+      "en": "Look down towards the riverfront and then along the edge of the slope. These two views show the change in elevation better than a single panorama.",
+      "zh": "先往下看河濱，再沿坡緣橫望。兩個方向比單張全景更容易看出高地與河岸的落差。",
+      "ru": "Посмотрите вниз к набережной, затем вдоль кромки склона. Два вида лучше показывают перепад высот, чем одна панорама.",
+      "de": "Blicken Sie erst zum Ufer hinunter, dann entlang der Böschungskante. Beide Ansichten zeigen den Höhenunterschied besser als ein einziges Panorama."
     }
   },
   "stone-steps": {
@@ -393,6 +463,13 @@
       "zh": "雨後先在上方街口檢視石階，再決定是否下行。",
       "ru": "После дождя оцените ступени сверху, прежде чем спускаться.",
       "de": "Prüfen Sie nach Regen die Treppe von der oberen Straße aus, bevor Sie hinuntergehen."
+    },
+    "feature": {
+      "pl": "Na Brzozowej zatrzymaj się na pośrednim poziomie i porównaj górny bieg z przesuniętym zejściem ku Bugajowi.",
+      "en": "Pause at the intermediate level on Brzozowa and compare the upper flight with the offset descent towards Bugaj.",
+      "zh": "在 Brzozowa 的中間高度停一下，比較上段石階與錯開後往 Bugaj 下行的路線。",
+      "ru": "Остановитесь на промежуточном уровне Бжозовой и сравните верхний марш со смещённым спуском к Бугаю.",
+      "de": "Halten Sie auf der Zwischenebene an der Brzozowa und vergleichen Sie den oberen Lauf mit dem versetzten Abstieg zum Bugaj."
     }
   },
   "piwna-street": {
@@ -429,6 +506,13 @@
       "zh": "由城堡走到 Wąski Dunaj，再沿平行的 Świętojańska 折返。",
       "ru": "Пройдите от замка до Вонского Дуная и вернитесь по параллельной Свентояньской.",
       "de": "Gehen Sie vom Schloss zur Wąski Dunaj und über die parallele Świętojańska zurück."
+    },
+    "feature": {
+      "pl": "Po drodze porównaj wejścia kamienic z rozbudowanym portalem św. Marcina. To krótka trasa, na której skala mieszkaniowa i sakralna sąsiadują ze sobą.",
+      "en": "Compare the townhouse doorways with St Martin’s elaborate portal. This short street puts domestic and church architecture side by side.",
+      "zh": "沿途比較聯排屋門口和聖馬丁教堂較繁複的門廊。短短一段街道就能看見住宅與宗教建築的尺度差異。",
+      "ru": "Сравните входы в жилые дома с порталом Святого Мартина. На короткой улице соседствуют жилой и церковный масштабы.",
+      "de": "Vergleichen Sie die Hauseingänge mit dem aufwendigeren Portal der Martinskirche. Wohn- und Sakralbauten liegen auf kurzer Strecke nebeneinander."
     }
   },
   "st-martins-church": {
@@ -465,6 +549,13 @@
       "zh": "遇到禮拜時，可留在皮夫納街觀察教堂正面的曲線。",
       "ru": "Во время службы останьтесь на Пивной и рассмотрите изгибы фасада.",
       "de": "Während eines Gottesdiensts lassen sich die geschwungenen Fassadenlinien von der Piwna aus betrachten."
+    },
+    "feature": {
+      "pl": "W fasadzie szukaj osi portalu i okna nad nim. Krzywizny po bokach są czytelniejsze z drugiego chodnika.",
+      "en": "Find the axis formed by the door and the window above. The curves at either side are easier to read from the opposite pavement.",
+      "zh": "找出門口與上方窗戶形成的中軸。兩側曲線站在對面人行道看得更清楚。",
+      "ru": "Найдите ось входа и окна над ним. Боковые изгибы лучше видны с противоположного тротуара.",
+      "de": "Suchen Sie die Achse aus Portal und Fenster darüber. Die seitlichen Rundungen sind vom anderen Gehweg besser erkennbar."
     }
   },
   "podwale-walk": {
@@ -501,6 +592,13 @@
       "zh": "先沿城牆下方走，回程進入城牆內側較高的街巷作比較。",
       "ru": "Сначала пройдите у подножия стен, затем вернитесь по более высоким улицам внутри укреплений.",
       "de": "Gehen Sie zuerst am Mauerfuß entlang und über die höher gelegenen Straßen innerhalb der Befestigung zurück."
+    },
+    "feature": {
+      "pl": "Podejdź do miejsca, w którym ulica skręca, i spójrz wstecz. Widoczna krzywizna muru i różnica wysokości pomagają odczytać dawny przebieg fosy.",
+      "en": "Walk to the bend and look back. The wall’s curve and the change in ground level help trace the old moat.",
+      "zh": "走到轉彎處後回望。牆面的弧線和地面高差有助辨認昔日護城壕的走向。",
+      "ru": "Дойдите до поворота и оглянитесь. Изгиб стены и перепад высот помогают проследить линию старого рва.",
+      "de": "Gehen Sie bis zur Biegung und blicken Sie zurück. Mauerbogen und Höhenunterschied lassen den alten Grabenverlauf erkennen."
     }
   },
   "little-insurgent-monument": {
@@ -537,6 +635,13 @@
       "zh": "把這座單人雕像與克拉辛斯基廣場的群像一起安排，對照兩種紀念方式。",
       "ru": "Сравните одинокую фигуру с группами скульптур на площади Красиньских.",
       "de": "Vergleichen Sie die Einzelfigur mit den Figurengruppen am Krasiński-Platz."
+    },
+    "feature": {
+      "pl": "Z bliska porównaj proporcje hełmu i munduru z niewielką sylwetką dziecka. Ustawienie na tle muru skupia uwagę na postaci.",
+      "en": "Look at the oversized helmet and uniform against the small figure. The wall backdrop puts the emphasis on the child’s outline.",
+      "zh": "近看過大的頭盔、制服與孩童身形之間的對比。背景的城牆讓人物輪廓更醒目。",
+      "ru": "Сравните большие каску и форму с маленькой фигурой ребёнка. Стена выделяет её силуэт.",
+      "de": "Vergleichen Sie den großen Helm und die Uniform mit der kleinen Figur. Die Mauer im Hintergrund betont ihren Umriss."
     }
   },
   "barbican-architecture": {
@@ -573,6 +678,13 @@
       "zh": "建議從兩側觀察城門。在 Freta 一側最容易辨認外堡突出的輪廓。",
       "ru": "Осмотрите ворота с двух сторон. Выступающий контур лучше всего виден с Фреты.",
       "de": "Betrachten Sie beide Seiten des Tors. Von der Freta ist der vorspringende Umriss am deutlichsten."
+    },
+    "feature": {
+      "pl": "Z Freta obejrzyj zaokrąglony front, a w przejściu zwróć uwagę na grubość ceglanego obwodu.",
+      "en": "View the rounded front from Freta, then notice the thickness of the brick envelope in the passage.",
+      "zh": "從 Freta 看弧形正面，再到門洞內觀察磚造外牆的厚度。",
+      "ru": "Осмотрите округлый фасад с Фреты, затем обратите внимание на толщину кирпичной кладки в проходе.",
+      "de": "Betrachten Sie von der Freta die gerundete Front und achten Sie im Durchgang auf die Stärke des Mauerwerks."
     }
   },
   "unesco-reconstruction": {
@@ -609,6 +721,13 @@
       "zh": "先比較市集與城牆，再到 Brzozowa 看戰後重建展覽。",
       "ru": "Сравните рынок и стены, затем посетите выставку о восстановлении на Бжозовой.",
       "de": "Vergleichen Sie Markt und Mauern und besuchen Sie anschließend die Wiederaufbau-Ausstellung an der Brzozowa."
+    },
+    "feature": {
+      "pl": "Porównaj średniowieczny plan ulic z dekoracją kamienic. Odbudowa zachowała układ przestrzeni, a poszczególne fasady warto czytać osobno.",
+      "en": "Compare the medieval street pattern with the townhouse decoration. The reconstruction preserved the layout, while the individual façades merit separate attention.",
+      "zh": "把中世紀街巷格局與各棟屋的裝飾分開觀察。重建保留了街區布局，各個立面的細節則值得逐一細看。",
+      "ru": "Сравните средневековый рисунок улиц с убранством домов. Планировку сохранили при восстановлении, а фасады стоит рассматривать по отдельности.",
+      "de": "Vergleichen Sie den mittelalterlichen Straßenplan mit dem Dekor der Häuser. Der Wiederaufbau erhielt den Grundriss, die einzelnen Fassaden verdienen einen eigenen Blick."
     }
   },
   "freta-street": {
@@ -645,6 +764,13 @@
       "zh": "沿 Freta 從甕城走到新城市集，途中在 16 號停留。",
       "ru": "Пройдите по Фрете от барбакана к рынку Нового города с остановкой у дома 16.",
       "de": "Gehen Sie über die Freta von der Barbakane zum Neustadtmarkt und halten Sie an Hausnummer 16."
+    },
+    "feature": {
+      "pl": "Oglądaj Freta od strony bramy, gdzie ulica wyraźnie się otwiera. Dalej porównaj szerokość chodnika i rytm domów w stronę rynku.",
+      "en": "Start where the street opens out beyond the gate. Compare the width and the rhythm of the houses as you approach the New Town square.",
+      "zh": "從城門外街面豁然開闊的位置起步。走向新城市集時，留意街寬和成排房屋的變化。",
+      "ru": "Начните там, где улица раскрывается за воротами. По дороге к рынку сравните ширину улицы и ритм фасадов.",
+      "de": "Beginnen Sie dort, wo sich die Straße am Tor öffnet. Vergleichen Sie auf dem Weg zum Markt die Breite und den Rhythmus der Häuser."
     }
   },
   "curie-museum": {
@@ -681,6 +807,13 @@
       "zh": "看完出生故居後繼續走到新城市集，感受這條街在街區中的位置。",
       "ru": "После дома рождения пройдите к рынку Нового города, чтобы увидеть улицу в контексте квартала.",
       "de": "Gehen Sie nach dem Geburtshaus zum Neustadtmarkt weiter, um die Straße im Zusammenhang des Viertels zu sehen."
+    },
+    "feature": {
+      "pl": "Wystawę biograficzną czytaj razem z miejscem. Po wizycie wyjdź na drugą stronę Freta, żeby zobaczyć dom w ciągu sąsiednich kamienic.",
+      "en": "Read the biographical exhibition in the context of the house. Afterwards, cross Freta to see how it fits into the neighbouring row of townhouses.",
+      "zh": "看人物展時也留意展覽所在的故居。參觀後走到 Freta 對面，把故居放回整排聯排屋中觀察。",
+      "ru": "Свяжите биографическую выставку с самим домом. После визита перейдите Фрету и посмотрите, как он вписан в ряд соседних домов.",
+      "de": "Lesen Sie die Biografie-Ausstellung im Zusammenhang mit dem Haus. Wechseln Sie danach die Straßenseite, um es in der Reihe der Nachbarhäuser zu sehen."
     }
   },
   "new-town-market-square": {
@@ -717,6 +850,13 @@
       "zh": "繞廣場一圈，可在往維斯瓦河下坡前休息片刻。",
       "ru": "Обойдите площадь и сделайте паузу перед спуском к Висле.",
       "de": "Umrunden Sie den Platz und machen Sie vor dem Abstieg zur Weichsel eine Pause."
+    },
+    "feature": {
+      "pl": "Stań na rynku naprzeciwko kościoła. Kopuła wyrasta ponad niską zabudowę i pomaga odczytać orientację całego placu.",
+      "en": "Stand across the square from the church. The dome rises over the low houses and helps orient the whole space.",
+      "zh": "站到教堂對面的廣場邊。圓頂高出低矮屋群，可作為辨認整座廣場方向的地標。",
+      "ru": "Встаньте на площади напротив церкви. Купол над невысокими домами помогает ориентироваться на рынке.",
+      "de": "Stellen Sie sich auf dem Markt der Kirche gegenüber. Die Kuppel ragt über die niedrigen Häuser und gibt dem Platz Orientierung."
     }
   },
   "st-kazimierz-church": {
@@ -753,6 +893,13 @@
       "zh": "先從廣場對側看圓頂，再安排禮拜間隔入內。",
       "ru": "Посмотрите на купол с противоположной стороны площади и войдите между службами.",
       "de": "Betrachten Sie die Kuppel vom gegenüberliegenden Platzrand und besuchen Sie das Innere zwischen Gottesdiensten."
+    },
+    "feature": {
+      "pl": "Porównaj środkowy portal, okno i kopułę w jednej osi. Z bocznej części rynku lepiej widać bryłę kopuły w stosunku do sąsiednich budynków.",
+      "en": "Align the central doorway, window and dome. Then move to the side of the square to see the dome’s mass against the neighbouring buildings.",
+      "zh": "先從正面把中央門口、窗戶與圓頂對成一軸，再移到廣場側邊比較圓頂量體與相鄰屋宇。",
+      "ru": "Совместите центральный вход, окно и купол, затем сбоку площади сравните объём купола с соседними зданиями.",
+      "de": "Richten Sie Portal, Fenster und Kuppel auf einer Achse aus. Von der Seite lässt sich die Kuppel besser mit den Nachbarbauten vergleichen."
     }
   },
   "mostowa-street": {
@@ -789,6 +936,13 @@
       "zh": "可沿 Mostowa 下到河邊，回程需預留上坡時間。",
       "ru": "Спускайтесь к реке по Мостовой и учитывайте подъём на обратном пути.",
       "de": "Nehmen Sie für den Abstieg die Mostowa und rechnen Sie auf dem Rückweg mit Steigung."
+    },
+    "feature": {
+      "pl": "Na dolnym odcinku odwróć się w stronę Freta. Różna wysokość dachów i poziom bruku pokazują, jak stromo ulica opada do rzeki.",
+      "en": "From the lower section, turn back towards Freta. Roof heights and paving levels make the slope towards the river visible.",
+      "zh": "在下方街段回望 Freta，由錯落的屋頂和石板路面看出街道向河岸下降的幅度。",
+      "ru": "Снизу оглянитесь к Фрете. Линии крыш и брусчатки показывают, насколько улица спускается к реке.",
+      "de": "Blicken Sie vom unteren Abschnitt zurück zur Freta. Dächer und Pflasterniveau lassen das Gefälle zum Fluss erkennen."
     }
   },
   "fountain-park": {
@@ -825,6 +979,13 @@
       "zh": "沒有表演時，白天可繞水池一圈，再接揚・卡爾斯基步道。",
       "ru": "Вне сезона шоу совместите дневную прогулку вокруг бассейна с бульваром Карского.",
       "de": "Außerhalb der Showsaison lässt sich ein Rundgang am Becken mit dem Karski-Boulevard verbinden."
+    },
+    "feature": {
+      "pl": "Za dnia obejdź skraj basenu i porównaj widok od strony skarpy i promenady. Wieczorna oprawa zależy od programu sezonu.",
+      "en": "By day, walk around the basin and compare the view from the slope and the promenade. Evening shows depend on the season’s programme.",
+      "zh": "白天沿水池邊走走，比較坡地側與河濱側的視角。夜間表演依當季節目安排。",
+      "ru": "Днём обойдите бассейн и сравните виды со стороны склона и набережной. Вечерние шоу зависят от сезонной программы.",
+      "de": "Umrunden Sie tagsüber das Becken und vergleichen Sie die Sicht von Böschung und Promenade. Abendshows richten sich nach dem Saisonprogramm."
     }
   },
   "vistula-boulevards": {
@@ -861,6 +1022,13 @@
       "zh": "先走噴泉至橋梁的短段，回程可循上方街道或原河濱步道。",
       "ru": "Пройдите от фонтанов до моста, а обратно — верхними улицами или той же набережной.",
       "de": "Gehen Sie von den Fontänen bis zur Brücke und über die oberen Straßen oder denselben Uferweg zurück."
+    },
+    "feature": {
+      "pl": "Co jakiś czas spójrz w górę ku Staremu Miastu. Promenada daje zupełnie inną linię widoku na skarpę niż górne uliczki.",
+      "en": "Look uphill towards the Old Town occasionally. The promenade gives a different sightline to the escarpment from the lanes above.",
+      "zh": "沿路不妨抬頭回望老城。河濱步道看高地的視線，與在上方窄巷中截然不同。",
+      "ru": "Время от времени смотрите вверх к Старому городу. С набережной откос виден иначе, чем из верхних переулков.",
+      "de": "Blicken Sie zwischendurch zur Altstadt hinauf. Vom Uferweg ist die Böschung aus einem anderen Winkel zu sehen als aus den oberen Gassen."
     }
   },
   "krasinski-square": {
@@ -897,6 +1065,13 @@
       "zh": "留時間繞看紀念碑，再到宮殿後方的花園休息。",
       "ru": "Оставьте время обойти памятник и отдохнуть в саду за дворцом.",
       "de": "Planen Sie Zeit für das Denkmal und eine Pause im Garten hinter dem Palast ein."
+    },
+    "feature": {
+      "pl": "Zobacz plac od Długiej, a potem obejdź pałac w stronę ogrodu. Przednia i ogrodowa strona budynku pokazują różne funkcje jego otoczenia.",
+      "en": "See the square from Długa, then walk around the palace towards the garden. Its two sides show the different functions of the spaces around it.",
+      "zh": "先從 Długa 看廣場，再繞過宮殿往花園。宮殿前後兩側可比較廣場與休憩園地的不同功能。",
+      "ru": "Осмотрите площадь с Длугой, затем обойдите дворец к саду. Две стороны здания показывают различие окружающих пространств.",
+      "de": "Betrachten Sie den Platz von der Długa aus und gehen Sie um den Palast zum Garten. Die beiden Seiten zeigen die unterschiedlichen Aufgaben der Freiräume."
     }
   },
   "warsaw-uprising-monument": {
@@ -933,6 +1108,13 @@
       "zh": "到花園前先看兩組雕塑。想聽親歷者口述，可另外安排起義博物館。",
       "ru": "Осмотрите обе группы перед выходом в сад. Для рассказов участников отведите отдельное время в музее восстания.",
       "de": "Sehen Sie beide Figurengruppen vor dem Gartenbesuch. Nehmen Sie sich für Zeitzeugenberichte gesondert Zeit im Aufstandsmuseum."
+    },
+    "feature": {
+      "pl": "Zbliż się do obu grup oddzielnie. Zwróć uwagę na to, jak szeroki ruch pierwszej sceny kontrastuje ze skupieniem postaci przy kanale.",
+      "en": "Approach the two groups separately. Compare the broad movement of the first scene with the figures drawn together at the sewer entrance.",
+      "zh": "分開走近兩組群像，對照街頭場景較大的動作與下水道入口旁聚攏的人物。",
+      "ru": "Подойдите к двум группам по отдельности. Сравните широкие движения первой сцены с фигурами, собранными у входа в канализацию.",
+      "de": "Treten Sie an beide Gruppen einzeln heran. Vergleichen Sie die weiten Bewegungen der ersten Szene mit den eng gruppierten Figuren am Kanaleinstieg."
     }
   },
   "krasinski-garden": {
@@ -969,6 +1151,13 @@
       "zh": "若想多休息一會，可沿池塘繞行，再往宮殿立面返回。",
       "ru": "Для более долгого отдыха обойдите пруд и возвращайтесь к фасаду дворца.",
       "de": "Für eine längere Pause umrunden Sie den Teich und gehen zurück zur Palastfassade."
+    },
+    "feature": {
+      "pl": "Przejdź od pałacu do stawu. Geometryczny front przy budynku i wijące się alejki wokół wody pozwalają zobaczyć dwa charaktery ogrodu.",
+      "en": "Walk from the palace towards the pond. The formal frontage and winding waterside paths show two different sides of the garden.",
+      "zh": "從宮殿走到池塘。宮殿前的規整布局與水邊蜿蜒小徑，呈現花園的兩種風格。",
+      "ru": "Пройдите от дворца к пруду. Регулярная часть у здания и извилистые дорожки у воды показывают два характера сада.",
+      "de": "Gehen Sie vom Palast zum Teich. Die regelmäßige Front am Gebäude und die gewundenen Uferwege zeigen zwei Seiten des Gartens."
     }
   },
   "st-annes-church": {
@@ -1005,6 +1194,13 @@
       "zh": "若不登鐘樓，可從廣場比較教堂立面與鐘樓。",
       "ru": "Если не поднимаетесь на башню, сравните храм и колокольню с площади.",
       "de": "Wenn Sie nicht auf den Turm steigen, vergleichen Sie Kirche und Glockenturm vom Platz aus."
+    },
+    "feature": {
+      "pl": "Porównaj płaską fasadę kościoła z wolno stojącą dzwonnicą. Z góry widać, jak plac Zamkowy i Trakt Królewski spotykają się pod wieżą.",
+      "en": "Compare the church’s broad front with the freestanding bell tower. From above you can see how Castle Square meets the Royal Route below it.",
+      "zh": "比較教堂寬闊正面與獨立鐘樓。登塔後，可看清城堡廣場與皇家大道在塔下如何交會。",
+      "ru": "Сравните широкий фасад храма с отдельно стоящей колокольней. Сверху видно, как Замковая площадь переходит в Королевский тракт.",
+      "de": "Vergleichen Sie die breite Kirchenfassade mit dem freistehenden Glockenturm. Von oben sieht man, wie Schlossplatz und Königsweg zusammentreffen."
     }
   },
   "krakowskie-przedmiescie": {
@@ -1041,6 +1237,13 @@
       "zh": "短程散步可走城堡廣場至大學校門一段。",
       "ru": "Для короткой прогулки выберите участок от Замковой площади до ворот университета.",
       "de": "Für einen kurzen Spaziergang reicht der Abschnitt vom Schlossplatz zum Universitätstor."
+    },
+    "feature": {
+      "pl": "Zwróć uwagę na zmianę między budynkiem stojącym tuż przy ulicy a pałacem odsuniętym za dziedziniec. Tę różnicę najlepiej widać podczas krótkiego spaceru między kościołem a uniwersytetem.",
+      "en": "Notice the change between buildings on the street line and palaces set back behind courtyards. It is clearest on the short walk between the church and the university.",
+      "zh": "留意貼著街線的建築與退在前庭後方的宮邸。從教堂步行至大學，這種差異最容易看清。",
+      "ru": "Заметьте разницу между зданиями у самой улицы и дворцами за дворами. Она особенно заметна на пути от церкви к университету.",
+      "de": "Achten Sie auf den Unterschied zwischen Bauten direkt an der Straße und Palästen hinter Vorhöfen. Zwischen Kirche und Universität ist er besonders gut zu sehen."
     }
   },
   "presidential-palace": {
@@ -1077,6 +1280,13 @@
       "zh": "在公共人行道短暫停留，接著可走到華沙大學校門。",
       "ru": "Сделайте короткую остановку на общественном тротуаре, затем идите к воротам университета.",
       "de": "Planen Sie einen kurzen Halt auf dem öffentlichen Gehweg und gehen Sie anschließend zum Universitätstor."
+    },
+    "feature": {
+      "pl": "Oś dziedzińca wyznacza pomnik konny. Z publicznego chodnika porównaj jego położenie z centralną częścią fasady i oboma bokami budynku.",
+      "en": "The equestrian statue marks the courtyard’s axis. From the public pavement, compare its position with the centre and both wings of the palace.",
+      "zh": "騎馬像標示前庭中軸。從公共人行道觀察雕像與宮殿中央和兩側翼部的相對位置。",
+      "ru": "Конная статуя отмечает ось двора. С общественного тротуара сравните её положение с центром и крыльями дворца.",
+      "de": "Das Reiterstandbild markiert die Hofachse. Vergleichen Sie vom öffentlichen Gehweg seine Lage mit Mitte und Flügeln des Palasts."
     }
   },
   "university-main-gate": {
@@ -1113,6 +1323,13 @@
       "zh": "站在入口一側觀察校門佈局，給進出校園的學生留出通道。",
       "ru": "Остановитесь сбоку, чтобы рассмотреть ворота, не мешая проходу студентов.",
       "de": "Stehen Sie seitlich, um die Toranlage anzusehen und den Durchgang für Studierende freizuhalten."
+    },
+    "feature": {
+      "pl": "Porównaj środkowy przejazd z bocznymi przejściami i spójrz przez bramę, gdzie ruch uliczny ustępuje przestrzeni kampusu.",
+      "en": "Compare the central arch with the side openings, then look through the gate from the busy street towards the campus.",
+      "zh": "比較中央大拱與兩側行人入口，再從熱鬧街道穿過門洞視線看向校園空間。",
+      "ru": "Сравните центральную арку с боковыми проходами, затем посмотрите сквозь ворота с оживлённой улицы в кампус.",
+      "de": "Vergleichen Sie den mittleren Bogen mit den Seitendurchgängen und blicken Sie von der belebten Straße durch das Tor in den Campus."
     }
   }
 }
