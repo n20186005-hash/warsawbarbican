@@ -26,6 +26,13 @@
       "zh": "從角落把兩側屋面與美人魚一起入鏡。",
       "ru": "Из угла снимите два ряда домов и Русалку.",
       "de": "Rahmen Sie zwei Häuserreihen und die Meerjungfrau aus der Ecke."
+    },
+    "tip": {
+      "pl": "Zacznij od pierzei Dekerta, zanim wyjdziesz na środek placu.",
+      "en": "Walk the Dekert frontage before crossing the centre of the square.",
+      "zh": "先沿德克特一側走，再進廣場中央。",
+      "ru": "Сначала пройдите вдоль стороны Декерта, затем пересеките площадь.",
+      "de": "Gehen Sie zuerst an der Dekert-Seite entlang und dann über die Platzmitte."
     }
   },
   "warsaw-mermaid": {
@@ -55,6 +62,13 @@
       "zh": "用北側聯排屋當作盾牌的背景。",
       "ru": "Снимите щит на фоне северного ряда домов.",
       "de": "Setzen Sie den Schild vor die Häuser auf der Nordseite."
+    },
+    "tip": {
+      "pl": "Połącz postój przy kopii na rynku z obejrzeniem oryginału w muzeum.",
+      "en": "Pair the square’s copy with the original displayed in the museum.",
+      "zh": "先看廣場上的複製雕像，再到博物館看原作。",
+      "ru": "Сравните копию на площади с оригиналом в музее.",
+      "de": "Vergleichen Sie die Kopie am Markt mit dem Original im Museum."
     }
   },
   "museum-of-warsaw": {
@@ -84,6 +98,13 @@
       "zh": "從廣場對側拍攝數個入口和寬窄不一的立面。",
       "ru": "С другой стороны площади снимите несколько входов и фасады разной ширины.",
       "de": "Fotografieren Sie mehrere Eingänge und die unterschiedlich breiten Fassaden vom anderen Platzrand."
+    },
+    "tip": {
+      "pl": "Przy krótkiej wizycie wybierz kilka gabinetów wystawy stałej zamiast przechodzić przez wszystkie kamienice.",
+      "en": "On a short visit, select a few themed rooms in the permanent exhibition; the linked townhouses span several floors.",
+      "zh": "時間不多時，從常設展選幾個主題展廳。相連的聯排屋有多個樓層。",
+      "ru": "Для короткого визита выберите несколько тематических залов постоянной выставки: дома занимают несколько этажей.",
+      "de": "Wählen Sie bei wenig Zeit einige Themenräume der Dauerausstellung; die verbundenen Häuser haben mehrere Stockwerke."
     }
   },
   "old-town-cellars": {
@@ -113,6 +134,13 @@
       "zh": "可在街上拍攝拱門入口。室內攝影規定可向館方查詢。",
       "ru": "С улицы снимите арочный вход. О съёмке внутри спросите сотрудников.",
       "de": "Fotografieren Sie den Torbogen von der Straße und fragen Sie im Haus nach den Fotoregeln."
+    },
+    "tip": {
+      "pl": "Przy potrzebie dostępu bez schodów zapytaj centrum o platformy i trasę od wejścia.",
+      "en": "If you need step-free access, ask the centre about its lifting platforms and the route from the entrance.",
+      "zh": "如需無階梯動線，先向遺產中心確認升降平台及入口路線。",
+      "ru": "Если нужен маршрут без ступеней, уточните у центра, как воспользоваться подъёмными платформами.",
+      "de": "Fragen Sie für einen stufenlosen Besuch nach Hebeplattformen und dem Weg ab dem Eingang."
     }
   },
   "castle-square": {
@@ -142,6 +170,13 @@
       "zh": "把圓柱放在畫面一側，留出城堡寬闊的立面。",
       "ru": "Сместите колонну к краю кадра, чтобы открыть фасад замка.",
       "de": "Rücken Sie die Säule an den Bildrand, damit die Schlossfassade sichtbar bleibt."
+    },
+    "tip": {
+      "pl": "Wybierz kolumnę jako punkt spotkania, a fasadę zamku oglądaj z szerokiego brzegu placu.",
+      "en": "Use the column as a meeting point, then view the castle façade from the wide edge of the square.",
+      "zh": "可在圓柱約集合，再走到廣場較寬的一側看城堡立面。",
+      "ru": "Назначьте встречу у колонны, а фасад замка осмотрите с широкого края площади.",
+      "de": "Treffen Sie sich an der Säule und betrachten Sie die Schlossfassade dann vom breiten Platzrand."
     }
   },
   "royal-castle": {
@@ -171,6 +206,13 @@
       "zh": "從廣場用直幅構圖，從門廊拍到時鐘。",
       "ru": "С площади снимите вертикальный кадр от портала до часов.",
       "de": "Wählen Sie ein Hochformat vom Portal bis zur Uhr."
+    },
+    "tip": {
+      "pl": "Wybierz apartamenty dla wnętrz dworskich albo trasę muzealną dla sal sejmowych i galerii.",
+      "en": "Choose the Royal Route for court interiors or the Museum Route for parliamentary rooms and galleries.",
+      "zh": "想看宮廷空間可選皇家路線，想看議會廳與畫作可選博物館路線。",
+      "ru": "Для придворных интерьеров выбирайте королевский маршрут, для залов сейма и галерей — музейный.",
+      "de": "Wählen Sie für höfische Räume die Königsroute und für Parlamentssäle und Galerien die Museumsroute."
     }
   },
   "sigismunds-column": {
@@ -200,6 +242,13 @@
       "zh": "從柱座後退，用長焦拍攝十字架與劍。",
       "ru": "Отойдите от постамента и приблизьте крест и меч.",
       "de": "Treten Sie vom Sockel zurück und zoomen Sie auf Kreuz und Schwert."
+    },
+    "tip": {
+      "pl": "Najpierw zobacz sylwetkę króla z daleka, potem podejdź do podstawy kolumny.",
+      "en": "Read the king’s silhouette from a distance before approaching the plinth.",
+      "zh": "先從遠處看國王雕像輪廓，再走近圓柱底座。",
+      "ru": "Сначала рассмотрите силуэт короля издали, затем подойдите к постаменту.",
+      "de": "Betrachten Sie zuerst die Silhouette des Königs aus der Ferne und gehen Sie dann zum Sockel."
     }
   },
   "st-johns-archcathedral": {
@@ -229,6 +278,13 @@
       "zh": "用直幅把下方入口與階梯山牆一起入鏡。",
       "ru": "Снимите вертикально, включив нижний вход и ступенчатый фронтон.",
       "de": "Nehmen Sie Eingang und Stufengiebel im Hochformat auf."
+    },
+    "tip": {
+      "pl": "Jeśli krypta jest zamknięta, obejrzyj fasadę i domknij spacer placem Kanonia.",
+      "en": "If the crypt is closed, see the exterior and finish at Kanonia Square.",
+      "zh": "若地下墓室未開放，可先看正面，再步行到卡諾尼亞廣場。",
+      "ru": "Если крипта закрыта, осмотрите фасад и завершите прогулку на Канонии.",
+      "de": "Ist die Krypta geschlossen, betrachten Sie die Fassade und gehen Sie weiter zur Kanonia."
     }
   },
   "kanonia-square": {
@@ -258,6 +314,13 @@
       "zh": "低角度可讓古鐘以密集的屋面為背景。",
       "ru": "Низкая точка съёмки поместит колокол на фоне тесных фасадов.",
       "de": "Aus niedriger Perspektive hebt sich die Glocke vor den engen Fronten ab."
+    },
+    "tip": {
+      "pl": "Plac jest mały, więc zaplanuj krótki postój i zostaw wolne dojścia do domów.",
+      "en": "The square is small. Make this a brief stop and leave residential entrances clear.",
+      "zh": "廣場很小，建議短暫停留並讓出住戶門口。",
+      "ru": "Площадь небольшая. Сделайте короткую остановку и не перекрывайте входы в дома.",
+      "de": "Der Platz ist klein. Halten Sie nur kurz und lassen Sie Hauseingänge frei."
     }
   },
   "gnojna-gora-viewpoint": {
@@ -287,6 +350,13 @@
       "zh": "在平台用廣角拍出下方河岸不同高度的地形。",
       "ru": "С площадки возьмите широкий кадр с разными уровнями набережной.",
       "de": "Zeigen Sie vom Aussichtspunkt die tieferen Uferebenen im weiten Bild."
+    },
+    "tip": {
+      "pl": "Na prostszy powrót do rynku wybierz Brzozową zamiast schodów ku rzece.",
+      "en": "For an easier return to the market, use Brzozowa and leave the river staircase for another walk.",
+      "zh": "想較輕鬆回市集，沿 Brzozowa 返回，可把河岸階梯留給另一段行程。",
+      "ru": "Для простого возврата к рынку идите по Бжозовой, а спуск к реке оставьте на другой раз.",
+      "de": "Zurück zum Markt ist die Brzozowa einfacher als die Treppe zum Fluss."
     }
   },
   "stone-steps": {
@@ -316,6 +386,13 @@
       "zh": "從上端沿階梯中線構圖。",
       "ru": "Сверху поместите лестницу в центр кадра.",
       "de": "Richten Sie das Bild von oben mittig auf die Treppe."
+    },
+    "tip": {
+      "pl": "Po deszczu przyjrzyj się schodom z górnej ulicy i zdecyduj, czy schodzić.",
+      "en": "After rain, assess the steps from the upper street before committing to the descent.",
+      "zh": "雨後先在上方街口查看石階，再決定是否下行。",
+      "ru": "После дождя оцените ступени сверху, прежде чем спускаться.",
+      "de": "Prüfen Sie nach Regen die Treppe von der oberen Straße aus, bevor Sie hinuntergehen."
     }
   },
   "piwna-street": {
@@ -345,6 +422,13 @@
       "zh": "沿街道中軸取景，讓兩排立面分列左右。",
       "ru": "Снимите вдоль оси улицы, оставив по ряду фасадов с каждой стороны.",
       "de": "Fotografieren Sie entlang der Straßenachse mit je einer Fassadenreihe am Rand."
+    },
+    "tip": {
+      "pl": "Idź od zamku do Wąskiego Dunaju i wróć równoległą Świętojańską.",
+      "en": "Walk from the castle to Wąski Dunaj and return along parallel Świętojańska.",
+      "zh": "由城堡走到 Wąski Dunaj，再沿平行的 Świętojańska 折返。",
+      "ru": "Пройдите от замка до Вонского Дуная и вернитесь по параллельной Свентояньской.",
+      "de": "Gehen Sie vom Schloss zur Wąski Dunaj und über die parallele Świętojańska zurück."
     }
   },
   "st-martins-church": {
@@ -374,6 +458,13 @@
       "zh": "從皮夫納街對面仰拍，把門廊與檐口納入畫面。",
       "ru": "С другой стороны Пивной включите в кадр портал и карниз.",
       "de": "Nehmen Sie Portal und Gesims von der gegenüberliegenden Seite der Piwna auf."
+    },
+    "tip": {
+      "pl": "Gdy trwa nabożeństwo, zatrzymaj się na Piwnej i obejrzyj krzywizny fasady.",
+      "en": "During a service, pause outside on Piwna to study the curves of the façade.",
+      "zh": "遇到禮拜時，可留在皮夫納街觀察教堂正面的曲線。",
+      "ru": "Во время службы останьтесь на Пивной и рассмотрите изгибы фасада.",
+      "de": "Während eines Gottesdiensts lassen sich die geschwungenen Fassadenlinien von der Piwna aus betrachten."
     }
   },
   "podwale-walk": {
@@ -403,6 +494,13 @@
       "zh": "斜向沿城牆取景，帶出街道的彎曲。",
       "ru": "Снимите стену под углом, чтобы показать изгиб улицы.",
       "de": "Fotografieren Sie schräg entlang der Mauer, damit der Straßenbogen sichtbar wird."
+    },
+    "tip": {
+      "pl": "Idź najpierw u stóp murów, a w drodze powrotnej porównaj poziom ulic wewnątrz obwarowań.",
+      "en": "Follow the foot of the walls first, then return through the higher streets inside the old enclosure.",
+      "zh": "先沿城牆下方走，回程進入城牆內側較高的街巷作比較。",
+      "ru": "Сначала пройдите у подножия стен, затем вернитесь по более высоким улицам внутри укреплений.",
+      "de": "Gehen Sie zuerst am Mauerfuß entlang und über die höher gelegenen Straßen innerhalb der Befestigung zurück."
     }
   },
   "little-insurgent-monument": {
@@ -432,6 +530,13 @@
       "zh": "以紅磚牆作背景，保留雕像下的基座。",
       "ru": "Снимите фигуру на фоне красной стены, оставив в кадре постамент.",
       "de": "Fotografieren Sie die Figur vor der roten Mauer mit sichtbarem Sockel."
+    },
+    "tip": {
+      "pl": "Porównaj tę pojedynczą figurę z grupami rzeźb na placu Krasińskich.",
+      "en": "Compare the single figure here with the sculptural groups on Krasiński Square.",
+      "zh": "把這座單人雕像與克拉辛斯基廣場的群像一起安排，對照兩種紀念方式。",
+      "ru": "Сравните одинокую фигуру с группами скульптур на площади Красиньских.",
+      "de": "Vergleichen Sie die Einzelfigur mit den Figurengruppen am Krasiński-Platz."
     }
   },
   "barbican-architecture": {
@@ -461,6 +566,13 @@
       "zh": "從 Freta 拍攝拱門及相連側邊的紅磚牆。",
       "ru": "С Фреты снимите арку и примыкающую линию кирпичной стены.",
       "de": "Nehmen Sie von der Freta den Torbogen und die anschließende Mauer auf."
+    },
+    "tip": {
+      "pl": "Obejdź bramę z obu stron, bo jej wypukły obrys najlepiej widać od Freta.",
+      "en": "Visit both sides of the gate. Freta gives the clearest view of the projecting outline.",
+      "zh": "建議從兩側觀察城門。在 Freta 一側最容易辨認外堡突出的輪廓。",
+      "ru": "Осмотрите ворота с двух сторон. Выступающий контур лучше всего виден с Фреты.",
+      "de": "Betrachten Sie beide Seiten des Tors. Von der Freta ist der vorspringende Umriss am deutlichsten."
     }
   },
   "unesco-reconstruction": {
@@ -490,6 +602,13 @@
       "zh": "各拍一張開闊市集和狹窄的 Świętojańska 街口以供比較。",
       "ru": "Сделайте два кадра для сравнения рынка и узкого выхода Свентояньской.",
       "de": "Vergleichen Sie in zwei Bildern den breiten Markt und die enge Świętojańska."
+    },
+    "tip": {
+      "pl": "Porównaj rynek i mury, a następnie obejrzyj wystawę o odbudowie przy Brzozowej.",
+      "en": "Compare the market and walls, then visit the reconstruction exhibition on Brzozowa.",
+      "zh": "先比較市集與城牆，再到 Brzozowa 看戰後重建展覽。",
+      "ru": "Сравните рынок и стены, затем посетите выставку о восстановлении на Бжозовой.",
+      "de": "Vergleichen Sie Markt und Mauern und besuchen Sie anschließend die Wiederaufbau-Ausstellung an der Brzozowa."
     }
   },
   "freta-street": {
@@ -519,6 +638,13 @@
       "zh": "從 Mostowa 沿 Freta 朝甕城方向取景。",
       "ru": "С Мостовой снимите перспективу Фреты в сторону ворот.",
       "de": "Blicken Sie von der Mostowa die Freta entlang zur Barbakane."
+    },
+    "tip": {
+      "pl": "Wybierz Freta na krótkie przejście z Barbakanu na rynek Nowego Miasta z postojem pod numerem 16.",
+      "en": "Use Freta for a short walk from the Barbican to New Town Market Square, with a stop at number 16.",
+      "zh": "沿 Freta 從甕城走到新城市集，途中在 16 號停留。",
+      "ru": "Пройдите по Фрете от барбакана к рынку Нового города с остановкой у дома 16.",
+      "de": "Gehen Sie über die Freta von der Barbakane zum Neustadtmarkt und halten Sie an Hausnummer 16."
     }
   },
   "curie-museum": {
@@ -548,6 +674,13 @@
       "zh": "從街道對面把整棟故居與博物館標示拍進畫面。",
       "ru": "С другого тротуара снимите весь дом и вывеску музея.",
       "de": "Fotografieren Sie vom anderen Gehweg das ganze Haus mit dem Museumsschild."
+    },
+    "tip": {
+      "pl": "Po obejrzeniu domu urodzenia przejdź w stronę rynku Nowego Miasta, aby zobaczyć ulicę w szerszym kontekście.",
+      "en": "After the birthplace, continue to New Town Market Square to see the street in context.",
+      "zh": "看完出生故居後繼續走到新城市集，感受這條街在街區中的位置。",
+      "ru": "После дома рождения пройдите к рынку Нового города, чтобы увидеть улицу в контексте квартала.",
+      "de": "Gehen Sie nach dem Geburtshaus zum Neustadtmarkt weiter, um die Straße im Zusammenhang des Viertels zu sehen."
     }
   },
   "new-town-market-square": {
@@ -577,6 +710,13 @@
       "zh": "在廣場開闊處把聯排屋與教堂圓頂一起入鏡。",
       "ru": "С открытой части площади снимите дома и купол вместе.",
       "de": "Nehmen Sie vom offenen Platz Häuser und Kuppel gemeinsam auf."
+    },
+    "tip": {
+      "pl": "Obejdź rynek i usiądź na przerwę przed zejściem w stronę Wisły.",
+      "en": "Circle the square and take a break before descending towards the Vistula.",
+      "zh": "繞廣場一圈，可在往維斯瓦河下坡前休息片刻。",
+      "ru": "Обойдите площадь и сделайте паузу перед спуском к Висле.",
+      "de": "Umrunden Sie den Platz und machen Sie vor dem Abstieg zur Weichsel eine Pause."
     }
   },
   "st-kazimierz-church": {
@@ -606,6 +746,13 @@
       "zh": "從教堂正前方取景，凸顯建築的對稱布局。",
       "ru": "Снимайте строго напротив, чтобы передать симметрию храма.",
       "de": "Fotografieren Sie die Kirche frontal, um ihre Symmetrie zu zeigen."
+    },
+    "tip": {
+      "pl": "Zobacz kopułę z przeciwległej strony rynku, a wejście wybierz w przerwie między nabożeństwami.",
+      "en": "View the dome from across the square and time an interior visit between services.",
+      "zh": "先從廣場對側看圓頂，再安排禮拜間隔入內。",
+      "ru": "Посмотрите на купол с противоположной стороны площади и войдите между службами.",
+      "de": "Betrachten Sie die Kuppel vom gegenüberliegenden Platzrand und besuchen Sie das Innere zwischen Gottesdiensten."
     }
   },
   "mostowa-street": {
@@ -635,6 +782,13 @@
       "zh": "從較下方沿坡往上拍，把屋頂和石板路一起納入畫面。",
       "ru": "С нижнего участка снимите вверх, включив крыши и брусчатку.",
       "de": "Fotografieren Sie vom unteren Abschnitt bergauf mit Dächern und Pflaster."
+    },
+    "tip": {
+      "pl": "Na zejście nad rzekę wybierz Mostową, a na powrót zaplanuj zauważalne podejście.",
+      "en": "Use Mostowa for the descent to the river and allow for a noticeable climb on the way back.",
+      "zh": "可沿 Mostowa 下到河邊，回程需預留上坡時間。",
+      "ru": "Спускайтесь к реке по Мостовой и учитывайте подъём на обратном пути.",
+      "de": "Nehmen Sie für den Abstieg die Mostowa und rechnen Sie auf dem Rückweg mit Steigung."
     }
   },
   "fountain-park": {
@@ -664,6 +818,13 @@
       "zh": "從水池邊取景時，在畫面上方留空容納噴水最高點。",
       "ru": "С края бассейна оставьте место над струями в кадре.",
       "de": "Lassen Sie vom Beckenrand aus Platz für die Spitzen der Wasserstrahlen."
+    },
+    "tip": {
+      "pl": "Jeśli pokazów nie ma, połącz dzienny spacer wokół basenu z bulwarem Jana Karskiego.",
+      "en": "Outside show season, combine a daytime circuit of the basin with the Karski Boulevard.",
+      "zh": "沒有表演時，白天可繞水池一圈，再接揚・卡爾斯基步道。",
+      "ru": "Вне сезона шоу совместите дневную прогулку вокруг бассейна с бульваром Карского.",
+      "de": "Außerhalb der Showsaison lässt sich ein Rundgang am Becken mit dem Karski-Boulevard verbinden."
     }
   },
   "vistula-boulevards": {
@@ -693,6 +854,13 @@
       "zh": "在步道高度取景，用河岸線把視線引向橋梁。",
       "ru": "С набережной используйте линию берега, ведущую к мосту.",
       "de": "Nutzen Sie vom Uferweg aus die Uferlinie als Blickführung zur Brücke."
+    },
+    "tip": {
+      "pl": "Wybierz krótki odcinek między fontannami a mostem i zaplanuj powrót górą lub tą samą promenadą.",
+      "en": "Walk the short stretch between the fountains and bridge, then return via the upper streets or the same promenade.",
+      "zh": "先走噴泉至橋梁的短段，回程可循上方街道或原河濱步道。",
+      "ru": "Пройдите от фонтанов до моста, а обратно — верхними улицами или той же набережной.",
+      "de": "Gehen Sie von den Fontänen bis zur Brücke und über die oberen Straßen oder denselben Uferweg zurück."
     }
   },
   "krasinski-square": {
@@ -722,6 +890,13 @@
       "zh": "從廣場分別拍攝宮殿正面與紀念碑人物群。",
       "ru": "С площади отдельно снимите фасад дворца и фигуры памятника.",
       "de": "Fotografieren Sie Palastfront und Denkmalfiguren jeweils in einem eigenen Bild."
+    },
+    "tip": {
+      "pl": "Zostaw czas na obejście pomnika i odpoczynek w ogrodzie po drugiej stronie pałacu.",
+      "en": "Leave time to walk around the memorial and rest in the garden behind the palace.",
+      "zh": "留時間繞看紀念碑，再到宮殿後方的花園休息。",
+      "ru": "Оставьте время обойти памятник и отдохнуть в саду за дворцом.",
+      "de": "Planen Sie Zeit für das Denkmal und eine Pause im Garten hinter dem Palast ein."
     }
   },
   "warsaw-uprising-monument": {
@@ -751,6 +926,13 @@
       "zh": "從人行道高度看兩組人物，再從側面拍攝細節。",
       "ru": "Посмотрите на обе группы с тротуара и снимите детали сбоку.",
       "de": "Betrachten Sie beide Gruppen vom Gehweg und fotografieren Sie Einzelheiten von der Seite."
+    },
+    "tip": {
+      "pl": "Obejrzyj dwie grupy figur przed wyjściem do ogrodu. Na relacje uczestników zarezerwuj osobny czas w muzeum powstania.",
+      "en": "See both sculptural groups before going to the garden. Set aside a separate museum visit for firsthand accounts.",
+      "zh": "到花園前先看兩組雕塑。想聽親歷者口述，可另外安排起義博物館。",
+      "ru": "Осмотрите обе группы перед выходом в сад. Для рассказов участников отведите отдельное время в музее восстания.",
+      "de": "Sehen Sie beide Figurengruppen vor dem Gartenbesuch. Nehmen Sie sich für Zeitzeugenberichte gesondert Zeit im Aufstandsmuseum."
     }
   },
   "krasinski-garden": {
@@ -780,6 +962,13 @@
       "zh": "從園路拍攝宮殿的花園立面，以綠植作前景。",
       "ru": "С дорожки снимите садовый фасад с зеленью на переднем плане.",
       "de": "Fotografieren Sie die Gartenfassade vom Weg mit Grün im Vordergrund."
+    },
+    "tip": {
+      "pl": "Na dłuższą przerwę wybierz alejkę wokół stawu i wróć w stronę fasady pałacu.",
+      "en": "For a longer break, take the path around the pond and return towards the palace frontage.",
+      "zh": "若想多休息一會，可沿池塘繞行，再往宮殿立面返回。",
+      "ru": "Для более долгого отдыха обойдите пруд и возвращайтесь к фасаду дворца.",
+      "de": "Für eine längere Pause umrunden Sie den Teich und gehen zurück zur Palastfassade."
     }
   },
   "st-annes-church": {
@@ -809,6 +998,13 @@
       "zh": "從廣場分開拍攝教堂正面和旁邊的鐘樓。",
       "ru": "С площади отдельно снимите фасад и соседнюю колокольню.",
       "de": "Fotografieren Sie Kirchenfront und benachbarten Turm vom Platz einzeln."
+    },
+    "tip": {
+      "pl": "Jeśli nie planujesz wejścia po schodach na wieżę, porównaj fasadę kościoła i dzwonnicę z placu.",
+      "en": "If you are skipping the tower stairs, compare the church and belfry from the square.",
+      "zh": "若不登鐘樓，可從廣場比較教堂立面與鐘樓。",
+      "ru": "Если не поднимаетесь на башню, сравните храм и колокольню с площади.",
+      "de": "Wenn Sie nicht auf den Turm steigen, vergleichen Sie Kirche und Glockenturm vom Platz aus."
     }
   },
   "krakowskie-przedmiescie": {
@@ -838,6 +1034,13 @@
       "zh": "沿街道軸線取景，呈現大型建築立面之間的開闊距離。",
       "ru": "Снимите вдоль оси улицы, чтобы показать расстояния между парадными фасадами.",
       "de": "Nutzen Sie die Straßenachse, um die Abstände zwischen den repräsentativen Fassaden zu zeigen."
+    },
+    "tip": {
+      "pl": "Na krótki spacer wybierz odcinek od placu Zamkowego do bramy uniwersyteckiej.",
+      "en": "For a short walk, focus on Castle Square to the university gate.",
+      "zh": "短程散步可走城堡廣場至大學校門一段。",
+      "ru": "Для короткой прогулки выберите участок от Замковой площади до ворот университета.",
+      "de": "Für einen kurzen Spaziergang reicht der Abschnitt vom Schlossplatz zum Universitätstor."
     }
   },
   "presidential-palace": {
@@ -867,6 +1070,13 @@
       "zh": "在對側人行道上，把騎馬像與總統府中央部分對齊。",
       "ru": "С противоположного тротуара совместите конную статую с центром дворца.",
       "de": "Richten Sie vom anderen Gehweg das Reiterdenkmal auf die Mitte des Palasts aus."
+    },
+    "tip": {
+      "pl": "Zaplanuj krótki postój po stronie publicznego chodnika, a następnie idź do bramy uniwersytetu.",
+      "en": "Plan a brief pavement-side stop, then continue to the university gate.",
+      "zh": "在公共人行道短暫停留，接著可走到華沙大學校門。",
+      "ru": "Сделайте короткую остановку на общественном тротуаре, затем идите к воротам университета.",
+      "de": "Planen Sie einen kurzen Halt auf dem öffentlichen Gehweg und gehen Sie anschließend zum Universitätstor."
     }
   },
   "university-main-gate": {
@@ -896,6 +1106,13 @@
       "zh": "從街上把校門的所有通道一起入鏡。",
       "ru": "С улицы включите в один кадр все проходы ворот.",
       "de": "Nehmen Sie von der Straße alle Tordurchgänge gemeinsam ins Bild."
+    },
+    "tip": {
+      "pl": "Zatrzymaj się z boku wejścia, by obserwować układ bramy bez blokowania ruchu studentów.",
+      "en": "Pause to the side to study the gate without blocking students entering campus.",
+      "zh": "站在入口一側觀察校門布局，給進出校園的學生留出通道。",
+      "ru": "Остановитесь сбоку, чтобы рассмотреть ворота, не мешая проходу студентов.",
+      "de": "Stehen Sie seitlich, um die Toranlage anzusehen und den Durchgang für Studierende freizuhalten."
     }
   }
 }

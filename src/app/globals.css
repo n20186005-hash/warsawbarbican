@@ -1405,3 +1405,23 @@ img {
   cursor: pointer;
   font-weight: 600;
 }
+
+.visitor-facts > div {
+  display: grid;
+  grid-template-columns: minmax(9rem, 1fr) minmax(0, 3fr);
+  gap: .4rem 1rem;
+}
+
+.visitor-facts dd {
+  margin: 0;
+}
+
+@media (max-width: 520px) {
+  .visitor-facts > div {
+    grid-template-columns: 1fr;
+  }
+}
+
+.visitor-detail h3 {
+  margin: .8rem 0 .35rem;
+}
