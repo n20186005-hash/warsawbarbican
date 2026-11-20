@@ -1,10 +1,12 @@
 "use client";
 
+import { useTranslations } from "next-intl";
 import { useState } from "react";
 
 type GalleryItem = { src: string; caption: string };
 
 export default function GalleryClient({ items }: { items: GalleryItem[] }) {
+  const ui = useTranslations("ui");
   const [active, setActive] = useState<number | null>(null);
 
   return (
@@ -41,11 +43,12 @@ export default function GalleryClient({ items }: { items: GalleryItem[] }) {
           onClick={() => setActive(null)}
           role="dialog"
           aria-modal="true"
+          aria-label={items[active].caption}
         >
           <button
             className="lb-close"
             onClick={() => setActive(null)}
-            aria-label="Close"
+            aria-label={ui("close")}
           >
             ×
           </button>

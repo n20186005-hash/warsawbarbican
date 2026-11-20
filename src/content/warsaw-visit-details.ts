@@ -9,11 +9,11 @@ export const management = {
   },
   heritage: {
     url: "https://whc.unesco.org/en/list/30/",
-    copy: { pl: "Ochrona centrum historycznego opiera się na polskim prawie i miejskich dokumentach planistycznych. UNESCO prowadzi wpis na Listę Światowego Dziedzictwa.", en: "Polish heritage law and Warsaw’s planning documents govern protection of the historic centre. UNESCO maintains the World Heritage listing.", zh: "華沙歷史中心依波蘭文資法規及華沙都市規劃文件受到保護。聯合國教科文組織負責世界遺產名錄。", ru: "Охрану исторического центра регулируют польское законодательство и градостроительные документы Варшавы. ЮНЕСКО ведёт запись в списке Всемирного наследия.", de: "Polnisches Denkmalrecht und Warschaus Planungsunterlagen regeln den Schutz der Altstadt. Die UNESCO führt den Eintrag in der Welterbeliste." },
+    copy: { pl: "Ochrona centrum historycznego opiera się na polskim prawie i miejskich dokumentach planistycznych. UNESCO prowadzi wpis na Listę Światowego Dziedzictwa.", en: "Polish heritage law and Warsaw’s planning documents govern protection of the historic centre. UNESCO maintains the World Heritage listing.", zh: "華沙歷史中心依波蘭文資法規及華沙都市規劃檔案受到保護。聯合國教科文組織負責世界遺產名錄。", ru: "Охрану исторического центра регулируют польское законодательство и градостроительные документы Варшавы. ЮНЕСКО ведёт запись в списке Всемирного наследия.", de: "Polnisches Denkmalrecht und Warschaus Planungsunterlagen regeln den Schutz der Altstadt. Die UNESCO führt den Eintrag in der Welterbeliste." },
   },
   barbican: {
     url: "https://barbakan.muzeumwarszawy.pl/en/visit/",
-    copy: { pl: "Muzeum Warszawy prowadzi wystawę w Barbakanie. Informacji o sezonowym zwiedzaniu udziela muzeum.", en: "The Museum of Warsaw runs the exhibition inside the Barbican and publishes seasonal visitor information.", zh: "華沙博物館負責甕城內的展覽，並公布每季參觀安排。", ru: "Выставку внутри барбакана ведёт Музей Варшавы. Он публикует сезонные условия посещения.", de: "Das Museum von Warschau betreibt die Ausstellung in der Barbakane und veröffentlicht die saisonalen Besuchsinformationen." },
+    copy: { pl: "Muzeum Warszawy prowadzi wystawę w Barbakanie. Informacji o sezonowym zwiedzaniu udziela muzeum.", en: "The Museum of Warsaw runs the exhibition inside the Barbican and publishes seasonal visitor information.", zh: "華沙博物館負責甕城內的展覽，並公佈每季參觀安排。", ru: "Выставку внутри барбакана ведёт Музей Варшавы. Он публикует сезонные условия посещения.", de: "Das Museum von Warschau betreibt die Ausstellung in der Barbakane und veröffentlicht die saisonalen Besuchsinformationen." },
   },
   museum: {
     url: "https://muzeumwarszawy.pl/en/visit/",
@@ -33,11 +33,11 @@ export const management = {
   },
   fountains: {
     url: "https://estrada.com.pl/multimedialny-park-fontann/",
-    copy: { pl: "Miejska instytucja kultury Stołeczna Estrada przygotowuje program pokazów i ogłasza ich terminy.", en: "The municipal cultural institution Stołeczna Estrada produces the fountain shows and publishes their schedule.", zh: "華沙市文化機構 Stołeczna Estrada 負責製作噴泉表演，並公布各季場次。", ru: "Городское учреждение культуры Stołeczna Estrada готовит шоу фонтанов и публикует расписание.", de: "Die städtische Kultureinrichtung Stołeczna Estrada produziert die Fontänenshows und veröffentlicht die Termine." },
+    copy: { pl: "Miejska instytucja kultury Stołeczna Estrada przygotowuje program pokazów i ogłasza ich terminy.", en: "The municipal cultural institution Stołeczna Estrada produces the fountain shows and publishes their schedule.", zh: "華沙市文化機構 Stołeczna Estrada 負責製作噴泉表演，並公佈各季場次。", ru: "Городское учреждение культуры Stołeczna Estrada готовит шоу фонтанов и публикует расписание.", de: "Die städtische Kultureinrichtung Stołeczna Estrada produziert die Fontänenshows und veröffentlicht die Termine." },
   },
   river: {
     url: "https://zzw.waw.pl/nasze-tereny/tereny-wodne/",
-    copy: { pl: "Zarząd Zieleni Warszawy publikuje mapę zarządzanych terenów nadrzecznych. Otoczenie Wisły ma kilku zarządców, zależnie od miejsca i rodzaju infrastruktury.", en: "Warsaw’s Greenery Authority maps the riverside areas under its care. Responsibility along the Vistula depends on the section and the facilities involved.", zh: "華沙綠地管理局公布其管理的河岸區域地圖。維斯瓦河岸的維護職責依路段和設施而異。", ru: "Управление зелёных насаждений Варшавы публикует карту прибрежных участков в своём ведении. Ответственность зависит от участка и объекта.", de: "Die Warschauer Grünflächenverwaltung kartiert die Uferbereiche in ihrer Zuständigkeit. An der Weichsel hängt die Zuständigkeit vom Abschnitt und von der Anlage ab." },
+    copy: { pl: "Zarząd Zieleni Warszawy publikuje mapę zarządzanych terenów nadrzecznych. Otoczenie Wisły ma kilku zarządców, zależnie od miejsca i rodzaju infrastruktury.", en: "Warsaw’s Greenery Authority maps the riverside areas under its care. Responsibility along the Vistula depends on the section and the facilities involved.", zh: "華沙綠地管理局公佈其管理的河岸區域地圖。維斯瓦河岸的維護職責依路段和設施而異。", ru: "Управление зелёных насаждений Варшавы публикует карту прибрежных участков в своём ведении. Ответственность зависит от участка и объекта.", de: "Die Warschauer Grünflächenverwaltung kartiert die Uferbereiche in ihrer Zuständigkeit. An der Weichsel hängt die Zuständigkeit vom Abschnitt und von der Anlage ab." },
   },
   garden: {
     url: "https://zzw.waw.pl/nasze-tereny/parki/ogrod-krasinskich/",
@@ -45,7 +45,7 @@ export const management = {
   },
   cathedral: {
     url: "https://archikatedra.waw.pl/",
-    copy: { pl: "Archikatedra jest czynną świątynią Archidiecezji Warszawskiej. Parafia publikuje informacje o nabożeństwach.", en: "The cathedral is a working church of the Archdiocese of Warsaw. The parish publishes service information.", zh: "總主教座堂是華沙總教區仍在使用的教堂，堂區負責公布禮拜資訊。", ru: "Собор — действующий храм Варшавской архиепархии. Приход публикует расписание богослужений.", de: "Der Dom ist eine aktive Kirche der Erzdiözese Warschau. Die Gemeinde veröffentlicht die Gottesdienstzeiten." },
+    copy: { pl: "Archikatedra jest czynną świątynią Archidiecezji Warszawskiej. Parafia publikuje informacje o nabożeństwach.", en: "The cathedral is a working church of the Archdiocese of Warsaw. The parish publishes service information.", zh: "總主教座堂是華沙總教區仍在使用的教堂，堂區負責公佈禮拜資訊。", ru: "Собор — действующий храм Варшавской архиепархии. Приход публикует расписание богослужений.", de: "Der Dom ist eine aktive Kirche der Erzdiözese Warschau. Die Gemeinde veröffentlicht die Gottesdienstzeiten." },
   },
   martin: {
     url: "https://archwwa.pl/miejsca/kosciol-siostr-franciszkanek-sluzebnic-krzyza-pw-sw-marcina",
@@ -57,7 +57,7 @@ export const management = {
   },
   anne: {
     url: "https://swanna.waw.pl/",
-    copy: { pl: "Kościół św. Anny służy warszawskiemu duszpasterstwu akademickiemu. Informacje o wejściu na taras dzwonnicy sprawdza się osobno.", en: "St Anne’s serves Warsaw’s Catholic academic chaplaincy. The bell tower’s terrace has separate visitor arrangements.", zh: "聖安妮教堂是華沙天主教大專牧靈中心。鐘樓觀景台有獨立的參觀安排。", ru: "Храм Святой Анны служит варшавскому католическому студенческому капелланству. У террасы колокольни отдельные правила посещения.", de: "Die Annenkirche dient der katholischen Hochschulseelsorge Warschaus. Für die Terrasse des Glockenturms gelten eigene Besuchsregeln." },
+    copy: { pl: "Kościół św. Anny służy warszawskiemu duszpasterstwu akademickiemu. Informacje o wejściu na taras dzwonnicy sprawdza się osobno.", en: "St Anne’s serves Warsaw’s Catholic academic chaplaincy. The bell tower’s terrace has separate visitor arrangements.", zh: "聖安妮教堂是華沙天主教大專牧靈中心。鐘樓觀景臺有獨立的參觀安排。", ru: "Храм Святой Анны служит варшавскому католическому студенческому капелланству. У террасы колокольни отдельные правила посещения.", de: "Die Annenkirche dient der katholischen Hochschulseelsorge Warschaus. Für die Terrasse des Glockenturms gelten eigene Besuchsregeln." },
   },
   president: {
     url: "https://www.president.pl/",
@@ -84,8 +84,8 @@ export const visitAccess = {
   church: ["Wejście zależy od godzin otwarcia i nabożeństw.", "Interior access depends on opening hours and services.", "室內參觀配合開放與禮拜時段。", "Доступ внутрь зависит от часов работы и богослужений.", "Der Zugang hängt von Öffnungszeiten und Gottesdiensten ab."],
   barbican: ["Przejście jest bezpłatne. Wystawa ma osobne godziny i bilety.", "The passage is free. The exhibition has separate hours and tickets.", "城門通道免費，展覽另有開放時間與門票。", "Проход бесплатный. У выставки отдельное расписание и билеты.", "Der Durchgang ist frei. Für die Ausstellung gelten eigene Zeiten und Eintrittspreise."],
   show: ["Pokazy są sezonowe. Sprawdź datę i porę na stronie organizatora.", "Shows run seasonally. Check the date and time with the organizer.", "表演按季舉行，日期與時間請查主辦方公告。", "Шоу сезонные. Проверяйте дату и время у организатора.", "Die Shows finden saisonal statt. Datum und Uhrzeit stehen beim Veranstalter."],
-  park: ["Przed wizytą sprawdź komunikaty o dostępie do parku.", "Check the park operator’s current access notices.", "入園前可查看公園管理單位的通行公告。", "Уточняйте текущий доступ в объявлениях администрации парка.", "Beachten Sie die aktuellen Zugangshinweise der Parkverwaltung."],
-  tower: ["Kościół i taras na dzwonnicy mają osobne zasady wstępu.", "Church and bell-tower terrace access are arranged separately.", "教堂與鐘樓觀景台各有參觀規定。", "Для храма и террасы колокольни действуют отдельные правила.", "Für Kirche und Turmterrasse gelten getrennte Zugangsregeln."],
+  park: ["Przed wizytą sprawdź komunikaty o dostępie do parku.", "Check the park operator’s current access notices.", "入園前可檢視公園管理單位的通行公告。", "Уточняйте текущий доступ в объявлениях администрации парка.", "Beachten Sie die aktuellen Zugangshinweise der Parkverwaltung."],
+  tower: ["Kościół i taras na dzwonnicy mają osobne zasady wstępu.", "Church and bell-tower terrace access are arranged separately.", "教堂與鐘樓觀景臺各有參觀規定。", "Для храма и террасы колокольни действуют отдельные правила.", "Für Kirche und Turmterrasse gelten getrennte Zugangsregeln."],
   exterior: ["Widok z publicznego chodnika przed pałacem.", "View from the public sidewalk in front of the palace.", "由宮殿前方的公共人行道觀賞。", "Осмотр с общественного тротуара перед дворцом.", "Besichtigung vom öffentlichen Gehweg vor dem Palast."],
   campus: ["Bramę widać z ulicy. Wejście na kampus zależy od zasad uczelni.", "The gate is visible from the street. Campus entry follows university rules.", "從街上可看校門，入校依校方規則。", "Ворота видны с улицы. Вход в кампус регулирует университет.", "Das Tor ist von der Straße sichtbar. Den Campuszugang regelt die Universität."],
 } as const;

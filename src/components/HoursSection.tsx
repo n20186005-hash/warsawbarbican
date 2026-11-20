@@ -5,6 +5,7 @@ import { getGuide, guidePath } from "@/guides";
 import { getLocale, getTranslations } from "next-intl/server";
 
 export default async function HoursSection() {
+  const ui = await getTranslations("ui");
   const t = await getTranslations("hours");
 
   const locale = await getLocale();
@@ -14,7 +15,7 @@ export default async function HoursSection() {
     <section className="section" id="hours">
       <div className="container">
         <div className="section-head">
-          <span className="kicker">Plan your visit</span>
+          <span className="kicker">{ui("plan")}</span>
           <h2>{t("title")}</h2>
         </div>
 

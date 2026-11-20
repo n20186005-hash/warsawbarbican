@@ -26,7 +26,7 @@ const API_URL =
 const bcp47: Record<string, string> = {
   pl: "pl-PL",
   en: "en-GB",
-  zh: "zh-CN",
+  zh: "zh-TW",
   ru: "ru-RU",
   de: "de-DE",
 };
@@ -138,6 +138,7 @@ function WeatherGlyph({ code }: { code: number }) {
 }
 
 export default async function WeatherSection() {
+  const ui = await getTranslations("ui");
   const t = await getTranslations("weather");
   const locale = await getLocale();
   const intlLocale = bcp47[locale] ?? "en-GB";
@@ -164,7 +165,7 @@ export default async function WeatherSection() {
       <section className="section section-alt" id="weather">
         <div className="container">
           <div className="section-head">
-            <span className="kicker">Before you go</span>
+            <span className="kicker">{ui("before")}</span>
             <h2>{t("title")}</h2>
           </div>
           <div className="card weather-fallback">
@@ -183,7 +184,7 @@ export default async function WeatherSection() {
     <section className="section section-alt" id="weather">
       <div className="container">
         <div className="section-head">
-          <span className="kicker">Before you go</span>
+          <span className="kicker">{ui("before")}</span>
           <h2>{t("title")}</h2>
           <p>{t("subtitle")}</p>
         </div>

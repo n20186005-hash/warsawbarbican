@@ -1,13 +1,14 @@
 import { getTranslations } from "next-intl/server";
 
 export default async function Reviews() {
+  const ui = await getTranslations("ui");
   const t = await getTranslations("reviews");
 
   return (
     <section className="section section-alt" id="reviews">
       <div className="container">
         <div className="section-head">
-          <span className="kicker">Visitor reviews</span>
+          <span className="kicker">{ui("reviews")}</span>
           <h2>{t("title")}</h2>
         </div>
 

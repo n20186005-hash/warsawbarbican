@@ -21,7 +21,7 @@ export const typeNames = {
   cellars: ["Piwnice i wystawa", "Historic cellars and exhibition", "歷史地窖與展覽", "Исторические подвалы и выставка", "Historische Keller und Ausstellung"],
   palace: ["Rezydencja historyczna", "Historic palace", "歷史宮殿", "Исторический дворец", "Historischer Palast"],
   church: ["Zabytkowa świątynia", "Historic church", "歷史教堂", "Исторический храм", "Historische Kirche"],
-  viewpoint: ["Punkt widokowy", "Viewpoint", "觀景台", "Смотровая площадка", "Aussichtspunkt"],
+  viewpoint: ["Punkt widokowy", "Viewpoint", "觀景臺", "Смотровая площадка", "Aussichtspunkt"],
   stairs: ["Zabytkowa ulica schodkowa", "Historic stepped lane", "歷史石階巷", "Исторический переулок со ступенями", "Historische Treppengasse"],
   street: ["Ulica historyczna", "Historic street", "歷史街道", "Историческая улица", "Historische Straße"],
   walls: ["Dawne fortyfikacje", "Historic fortifications", "歷史防禦工事", "Исторические укрепления", "Historische Befestigung"],
@@ -76,8 +76,8 @@ const profiles: Partial<Record<VisitorTopic, Access>> = {
     tickets: free,
   },
   "st-annes-church": {
-    hours: ["Godziny kościoła i tarasu dzwonnicy sprawdź osobno.", "Check the church and bell-tower terrace schedules separately.", "教堂與鐘樓觀景台分別公告開放時間。", "Проверяйте расписания храма и террасы колокольни отдельно.", "Kirche und Turmterrasse haben getrennte Öffnungszeiten."],
-    tickets: ["Taras ma osobny bilet.", "The tower terrace has a separate ticket.", "鐘樓觀景台須另購票。", "На террасу нужен отдельный билет.", "Für die Turmterrasse ist ein separates Ticket erforderlich."],
+    hours: ["Godziny kościoła i tarasu dzwonnicy sprawdź osobno.", "Check the church and bell-tower terrace schedules separately.", "教堂與鐘樓觀景臺分別公告開放時間。", "Проверяйте расписания храма и террасы колокольни отдельно.", "Kirche und Turmterrasse haben getrennte Öffnungszeiten."],
+    tickets: ["Taras ma osobny bilet.", "The tower terrace has a separate ticket.", "鐘樓觀景臺須另購票。", "На террасу нужен отдельный билет.", "Für die Turmterrasse ist ein separates Ticket erforderlich."],
   },
   "presidential-palace": {
     hours: ["Oglądanie z chodnika przy Krakowskim Przedmieściu.", "Street-side viewing from Krakowskie Przedmieście.", "在克拉科夫郊區街的人行道欣賞外觀。", "Осмотр с тротуара Краковского предместья.", "Außenansicht vom Gehweg an der Krakowskie Przedmieście."],

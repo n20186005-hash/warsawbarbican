@@ -1,6 +1,6 @@
 "use client";
 
-import { useLocale } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import { Link, usePathname } from "@/i18n/navigation";
 
 const languages: { code: string; label: string }[] = [
@@ -12,11 +12,12 @@ const languages: { code: string; label: string }[] = [
 ];
 
 export default function LanguageToggle() {
+  const ui = useTranslations("ui");
   const locale = useLocale();
   const pathname = usePathname();
 
   return (
-    <div className="lang-toggle" role="group" aria-label="Language">
+    <div className="lang-toggle" role="group" aria-label={ui("language")}>
       {languages.map((lang) => (
         <Link
           key={lang.code}

@@ -34,6 +34,8 @@ export default async function HomePage({
 
   const t = await getTranslations({ locale, namespace: "faq" });
 
+  const ui = await getTranslations({ locale, namespace: "ui" });
+
   const faqJsonLd = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
@@ -48,9 +50,9 @@ export default async function HomePage({
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Warsaw Barbican", item: siteConfig.baseUrl },
-      { "@type": "ListItem", position: 2, name: "Warsaw", item: `${siteConfig.baseUrl}/${locale}` },
-      { "@type": "ListItem", position: 3, name: "Old Town (Stare Miasto)", item: `${siteConfig.baseUrl}/${locale}#walkingTour` },
+      { "@type": "ListItem", position: 1, name: ui("brand"), item: siteConfig.baseUrl },
+      { "@type": "ListItem", position: 2, name: ui("city"), item: `${siteConfig.baseUrl}/${locale}` },
+      { "@type": "ListItem", position: 3, name: ui("oldTown"), item: `${siteConfig.baseUrl}/${locale}#walkingTour` },
     ],
   };
 

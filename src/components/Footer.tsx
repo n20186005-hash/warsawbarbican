@@ -3,6 +3,7 @@ import { Link } from "@/i18n/navigation";
 import { siteConfig } from "@/config";
 
 export default async function Footer() {
+  const ui = await getTranslations("ui");
   const t = await getTranslations("footer");
   const navT = await getTranslations("header");
   const locale = await getLocale();
@@ -12,7 +13,7 @@ export default async function Footer() {
       <div className="container">
         <div className="footer-grid">
           <div>
-            <h4>Warsaw Barbican</h4>
+            <h4>{ui("brand")}</h4>
             <p>{t("tagline")}</p>
             <p className="footer-note">{t("editNote")}</p>
           </div>

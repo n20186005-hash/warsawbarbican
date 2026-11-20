@@ -1,3 +1,4 @@
+import { languageTag } from "@/i18n/language-tags";
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
@@ -12,16 +13,16 @@ import { routing } from "@/i18n/routing";
 
 type Props = { params: Promise<{ locale: string; topic: string }> };
 
-export const dynamicParams = false;
-
 export function generateStaticParams() {
   return guideTopics.map((topic) => ({ topic }));
 }
 
 async function resolveGuide(params: Props["params"]) {
   const { locale, topic: slug } = await params;
+  if (!hasLocale(routing.locales, locale)) notFound();
+  setRequestLocale(locale);
   const topic = guideTopics.find((candidate) => candidate === slug);
-  if (!topic || !hasLocale(routing.locales, locale)) notFound();
+  if (!topic) notFound();
   return { locale, topic, guide: getGuide(locale, topic) };
 }
 
@@ -29,23 +30,24 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, topic, guide: [title, description] } = await resolveGuide(params);
   const visitor = getVisitorGuide(locale, topic);
   const url = siteConfig.baseUrl + guidePath(locale, topic);
+  const image = siteConfig.baseUrl + (visitor ? `/guides/${topic}.webp` : siteConfig.heroImage);
   return {
     title: { absolute: title },
     description,
     alternates: {
       canonical: url,
       languages: {
-        ...Object.fromEntries(routing.locales.map((lang) => [lang, siteConfig.baseUrl + guidePath(lang, topic)])),
+        ...Object.fromEntries(routing.locales.map((lang) => [languageTag(lang), siteConfig.baseUrl + guidePath(lang, topic)])),
         "x-default": siteConfig.baseUrl + guidePath(routing.defaultLocale, topic),
       },
     },
-    openGraph: { title, description, url, images: [siteConfig.baseUrl + (visitor ? `/guides/${topic}.webp` : siteConfig.heroImage)] },
+    twitter: { card: "summary_large_image", title, description, images: [{ url: image, alt: title }] },
+    openGraph: { title, description, url, images: [{ url: image, alt: title }] },
   };
 }
 
 export default async function GuidePage({ params }: Props) {
   const { locale, topic, guide: [title, description, sections] } = await resolveGuide(params);
-  setRequestLocale(locale);
   const [home, map, museum, more] = guideCopy[locale].labels;
   const visitor = getVisitorGuide(locale, topic);
   const labels = visitorLabels[locale];

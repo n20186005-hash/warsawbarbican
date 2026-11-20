@@ -2,6 +2,7 @@ import { getTranslations } from "next-intl/server";
 import { siteConfig } from "@/config";
 
 export default async function Hero() {
+  const ui = await getTranslations("ui");
   const t = await getTranslations("hero");
 
   return (
@@ -14,7 +15,7 @@ export default async function Hero() {
       />
       <div className="hero-overlay" />
       <div className="container hero-content">
-        <span className="hero-kicker">Warsaw · Old Town (Stare Miasto) · Since 1548</span>
+        <span className="hero-kicker">{ui("hero")}</span>
         <span className="hero-badge">{t("freeBadge")}</span>
         <h1>{t("title")}</h1>
         <p className="hero-sub">{t("subtitle")}</p>

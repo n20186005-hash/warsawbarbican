@@ -138,7 +138,7 @@
     "tip": {
       "pl": "Przy potrzebie dostępu bez schodów zapytaj centrum o platformy i trasę od wejścia.",
       "en": "If you need step-free access, ask the centre about its lifting platforms and the route from the entrance.",
-      "zh": "如需無階梯動線，先向遺產中心確認升降平台及入口路線。",
+      "zh": "如需無階梯動線，先向遺產中心確認升降平臺及入口路線。",
       "ru": "Если нужен маршрут без ступеней, уточните у центра, как воспользоваться подъёмными платформами.",
       "de": "Fragen Sie für einen stufenlosen Besuch nach Hebeplattformen und dem Weg ab dem Eingang."
     }
@@ -160,7 +160,7 @@
     "history": {
       "pl": "Dzisiejszy układ placu ukształtowano na początku XIX wieku. Rok po roku odbudowy zmienił jego pierzeje po wojennych zniszczeniach.",
       "en": "The square took its present shape in the early nineteenth century. Its frontages were rebuilt after wartime destruction.",
-      "zh": "今日廣場的布局形成於十九世紀初，周邊立面在戰爭破壞後重建。",
+      "zh": "今日廣場的佈局形成於十九世紀初，周邊立面在戰爭破壞後重建。",
       "ru": "Современные очертания площадь получила в начале XIX века. Окружающие фасады восстановлены после войны.",
       "de": "Die heutige Form entstand im frühen 19. Jahrhundert. Die Platzfronten wurden nach den Kriegszerstörungen rekonstruiert."
     },
@@ -196,7 +196,7 @@
     "history": {
       "pl": "Od rezydencji książąt mazowieckich zamek rozrósł się do siedziby monarchy i sejmu. W 1791 r. uchwalono tu Konstytucję 3 maja.",
       "en": "The Mazovian dukes’ residence grew into the seat of the monarch and parliament. The Constitution of 3 May was adopted here in 1791.",
-      "zh": "此處從馬佐夫舍諸公爵的住所發展為王室與議會所在地。1791 年的《五三憲法》即在此通過。",
+      "zh": "此處從馬佐夫舍諸公爵的住所發展為王室與議會所在地。1791 年的《五三憲法》即在此透過。",
       "ru": "Резиденция мазовецких князей стала местом работы монарха и сейма. В 1791 году здесь приняли Конституцию 3 мая.",
       "de": "Aus der Residenz der masowischen Herzöge wurde der Sitz von König und Parlament. Hier wurde 1791 die Verfassung vom 3. Mai verabschiedet."
     },
@@ -340,14 +340,14 @@
     "history": {
       "pl": "Nazwa wiąże się z dawnym składowiskiem odpadów. Dzisiejszy taras odsłania kontrast pomiędzy zwartą zabudową a otwartym brzegiem.",
       "en": "The name recalls a former refuse site. Today’s terrace exposes the contrast between the tight blocks and the open riverbank.",
-      "zh": "地名保留了此地昔日作為垃圾堆放地的記憶。從今日平台可比較緊密的街廓與開闊河岸。",
+      "zh": "地名保留了此地昔日作為垃圾堆放地的記憶。從今日平臺可比較緊密的街廓與開闊河岸。",
       "ru": "Название напоминает о бывшей свалке. Сегодня с террасы виден контраст плотной застройки и открытого берега.",
       "de": "Der Name erinnert an eine frühere Abfallhalde. Heute zeigt die Terrasse den Übergang von dichter Bebauung zum offenen Ufer."
     },
     "framing": {
       "pl": "Z tarasu ułóż wisłostradowe i nadrzeczne poziomy w szerokim kadrze.",
       "en": "Use a wide frame to show the lower riverside levels from the terrace.",
-      "zh": "在平台用廣角拍出下方河岸不同高度的地形。",
+      "zh": "在平臺用廣角拍出下方河岸不同高度的地形。",
       "ru": "С площадки возьмите широкий кадр с разными уровнями набережной.",
       "de": "Zeigen Sie vom Aussichtspunkt die tieferen Uferebenen im weiten Bild."
     },
@@ -376,7 +376,7 @@
     "history": {
       "pl": "Górny odcinek łączy Krzywe Koło z Brzozową. Przy Brzozowej dolny bieg schodów przesuwa się w bok w kierunku Bugaju.",
       "en": "The upper steps link Krzywe Koło with Brzozowa. At Brzozowa, the lower flight shifts sideways towards Bugaj.",
-      "zh": "上段石階連接 Krzywe Koło 與 Brzozowa。到 Brzozowa 後，下段往 Bugaj 的石階錯開了一個位置。",
+      "zh": "上段石階連線 Krzywe Koło 與 Brzozowa。到 Brzozowa 後，下段往 Bugaj 的石階錯開了一個位置。",
       "ru": "Верхняя лестница соединяет Кшиве-Коло и Бжозову. У Бжозовой нижний марш смещается в сторону Бугая.",
       "de": "Der obere Lauf verbindet Krzywe Koło mit der Brzozowa. Dort versetzt sich der untere Treppenabschnitt Richtung Bugaj."
     },
@@ -390,7 +390,7 @@
     "tip": {
       "pl": "Po deszczu przyjrzyj się schodom z górnej ulicy i zdecyduj, czy schodzić.",
       "en": "After rain, assess the steps from the upper street before committing to the descent.",
-      "zh": "雨後先在上方街口查看石階，再決定是否下行。",
+      "zh": "雨後先在上方街口檢視石階，再決定是否下行。",
       "ru": "После дождя оцените ступени сверху, прежде чем спускаться.",
       "de": "Prüfen Sie nach Regen die Treppe von der oberen Straße aus, bevor Sie hinuntergehen."
     }
@@ -455,7 +455,7 @@
     "framing": {
       "pl": "Spójrz w górę z przeciwległej strony Piwnej, aby objąć portal i gzyms.",
       "en": "Look up from the opposite side of Piwna to include the portal and cornice.",
-      "zh": "從皮夫納街對面仰拍，把門廊與檐口納入畫面。",
+      "zh": "從皮夫納街對面仰拍，把門廊與簷口納入畫面。",
       "ru": "С другой стороны Пивной включите в кадр портал и карниз.",
       "de": "Nehmen Sie Portal und Gesims von der gegenüberliegenden Seite der Piwna auf."
     },
@@ -743,7 +743,7 @@
     "framing": {
       "pl": "Stań na wprost kościoła, aby pokazać jego symetrię.",
       "en": "Face the church square-on to show its symmetry.",
-      "zh": "從教堂正前方取景，凸顯建築的對稱布局。",
+      "zh": "從教堂正前方取景，凸顯建築的對稱佈局。",
       "ru": "Снимайте строго напротив, чтобы передать симметрию храма.",
       "de": "Fotografieren Sie die Kirche frontal, um ihre Symmetrie zu zeigen."
     },
@@ -808,7 +808,7 @@
     "history": {
       "pl": "Park upamiętnia 125-lecie warszawskich wodociągów. Szukaj ławki z postacią projektanta kanalizacji Williama Heerleina Lindleya.",
       "en": "The park commemorates 125 years of Warsaw’s waterworks. Look for the bench with sewer designer William Heerlein Lindley.",
-      "zh": "公園紀念華沙供水系統 125 周年。可找找有下水道設計者威廉・赫萊因・林德利塑像的長椅。",
+      "zh": "公園紀念華沙供水系統 125 週年。可找找有下水道設計者威廉・赫萊因・林德利塑像的長椅。",
       "ru": "Парк посвящён 125-летию варшавского водопровода. Найдите скамью с фигурой инженера Уильяма Хирлейна Линдли.",
       "de": "Der Park erinnert an 125 Jahre Warschauer Wasserwerke. Suchen Sie die Bank mit dem Kanalingenieur William Heerlein Lindley."
     },
@@ -952,7 +952,7 @@
     "history": {
       "pl": "Ogród powstał w XVII wieku jako część założenia pałacowego. Od pałacu warto przejść alejkami ku stawowi, by zobaczyć swobodniejszy układ zieleni.",
       "en": "The garden began in the seventeenth century as part of the palace grounds. Follow the paths from the palace to the pond to see the more informal landscape.",
-      "zh": "花園始於十七世紀，原是宮殿園區的一部分。可沿園路從宮殿走到池塘，觀察布局較自然的園景。",
+      "zh": "花園始於十七世紀，原是宮殿園區的一部分。可沿園路從宮殿走到池塘，觀察佈局較自然的園景。",
       "ru": "Сад появился в XVII веке как часть дворцового ансамбля. Пройдите от дворца к пруду, чтобы увидеть более свободную планировку парка.",
       "de": "Der Garten entstand im 17. Jahrhundert als Teil der Palastanlage. Gehen Sie vom Palast zum Teich, um den freier gestalteten Parkteil zu sehen."
     },
@@ -988,7 +988,7 @@
     "history": {
       "pl": "Kościół wyrósł przy klasztorze bernardynów założonym w XV wieku. Klasycystyczna fasada jest dużo późniejsza od jego początków.",
       "en": "The church grew beside a Bernardine monastery founded in the fifteenth century. Its classical frontage came much later.",
-      "zh": "教堂伴隨十五世紀創建的伯納丁修道院而發展。今日的古典主義立面則晚得多。",
+      "zh": "教堂伴隨十五世紀建立的伯納丁修道院而發展。今日的古典主義立面則晚得多。",
       "ru": "Церковь возникла при монастыре бернардинцев XV века. Классический фасад появился значительно позже.",
       "de": "Die Kirche entstand bei einem im 15. Jahrhundert gegründeten Bernhardinerkloster. Ihre klassizistische Front kam viel später hinzu."
     },
@@ -1110,7 +1110,7 @@
     "tip": {
       "pl": "Zatrzymaj się z boku wejścia, by obserwować układ bramy bez blokowania ruchu studentów.",
       "en": "Pause to the side to study the gate without blocking students entering campus.",
-      "zh": "站在入口一側觀察校門布局，給進出校園的學生留出通道。",
+      "zh": "站在入口一側觀察校門佈局，給進出校園的學生留出通道。",
       "ru": "Остановитесь сбоку, чтобы рассмотреть ворота, не мешая проходу студентов.",
       "de": "Stehen Sie seitlich, um die Toranlage anzusehen und den Durchgang für Studierende freizuhalten."
     }
