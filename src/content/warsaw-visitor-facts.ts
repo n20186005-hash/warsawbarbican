@@ -44,7 +44,7 @@ const churchVisit: Access = {
 
 const profiles: Partial<Record<VisitorTopic, Access>> = {
   "museum-of-warsaw": {
-    url: "https://muzeumwarszawy.pl/en/visit/",
+    url: "https://muzeumwarszawy.pl/en/visit/", phone: "+48 22 277 44 02",
     hours: ["Wystawa stała: wt., śr. i pt. 9:00–17:00, czw. 9:00–19:00, sob.–niedz. 11:00–18:00. Ostatnie wejście godzinę przed zamknięciem.", "Permanent exhibition: Tue, Wed and Fri 09:00–17:00, Thu 09:00–19:00, Sat–Sun 11:00–18:00. Last entry one hour before closing.", "常設展週二、三、五 09:00–17:00，週四 09:00–19:00，週末 11:00–18:00。閉館前一小時停止入場。", "Постоянная выставка: вт., ср. и пт. 09:00–17:00, чт. 09:00–19:00, сб.–вс. 11:00–18:00. Вход до часа перед закрытием.", "Dauerausstellung: Di., Mi. und Fr. 9–17 Uhr, Do. 9–19 Uhr, Sa.–So. 11–18 Uhr. Letzter Einlass eine Stunde vor Schließung."],
     tickets: ["Wystawa stała 25/18 PLN (normalny/ulgowy), w czwartki bezpłatna. Bilet łączony 35/25 PLN.", "Permanent exhibition PLN 25/18 (regular/reduced), free on Thursdays. Combined ticket PLN 35/25.", "常設展全票 25、優惠票 18 波蘭茲羅提，週四免費。聯票 35／25 波蘭茲羅提。", "Постоянная выставка 25/18 PLN (полный/льготный), по четвергам бесплатно. Общий билет 35/25 PLN.", "Dauerausstellung 25/18 PLN (regulär/ermäßigt), donnerstags frei. Kombiticket 35/25 PLN."],
   },
@@ -68,6 +68,7 @@ const profiles: Partial<Record<VisitorTopic, Access>> = {
     tickets: free,
   },
   "barbican-architecture": {
+    phone: "+48 22 277 44 02",
     hours: ["Przejście dostępne przez cały rok. Wystawa działa sezonowo.", "The passage is accessible year-round. The exhibition is seasonal.", "城門通道全年開放。室內展覽按季開放。", "Проход доступен круглый год. Выставка работает сезонно.", "Der Durchgang ist ganzjährig zugänglich. Die Ausstellung ist saisonal."],
     tickets: ["Przejście bezpłatne. W sezonie 2026 wystawa: 12 PLN normalny, 8 PLN ulgowy.", "Passage free. The 2026 exhibition cost PLN 12 regular or PLN 8 reduced.", "城門通道免費。2026 年展季全票 12、優惠票 8 波蘭茲羅提。", "Проход бесплатный. Выставка в сезоне 2026: 12 PLN полный, 8 PLN льготный.", "Durchgang frei. Ausstellung 2026: 12 PLN regulär, 8 PLN ermäßigt."],
   },

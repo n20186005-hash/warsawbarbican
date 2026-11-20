@@ -32,13 +32,14 @@ export default function VisitorGuideArticle({ locale, topic, visitor }: {
   const localName = visitor.place.split(",")[0];
   const area = labels.groups[visitor.group];
   const city = ["Warszawa, Polska", "Warsaw, Poland", "波蘭華沙", "Варшава, Польша", "Warschau, Polen"][languageIndex];
-  const directionsUrl = `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(visitor.place)}&travelmode=walking`;
+  const directionBase = `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(visitor.place)}`;
+  const directionsUrl = directionBase + "&travelmode=walking";
 
   return (
     <>
       <div className="section-head visitor-heading">
         <h1>{visitor.title}</h1>
-        <p>{siteType} · {area}</p>
+        <p>{visitor.description}</p>
         <p>{facts.hours[languageIndex]}</p>
         <a className="btn btn-primary" href={visitor.mapUrl}>{map}</a>{" "}
         <a href="#visitor-reviews">{copy.reviews}</a>
@@ -58,19 +59,21 @@ export default function VisitorGuideArticle({ locale, topic, visitor }: {
       </section>
       <section className="visitor-detail">
         <h2>{copy.explore}</h2>
-        <p>{visitor.description}</p>
+        <p>{siteType} · {area}</p>
         <h3>{copy.tips}</h3>
         <p>{detail.tip[locale]}</p>
+        <h3>{copy.highlights}</h3>
+        <p>{detail.feature[locale]}</p>
       </section>
       <section className="visitor-detail">
         <h2>{basics}</h2>
         <dl className="visitor-facts">
           <div><dt>{copy.name}</dt><dd lang="pl">{localName}</dd></div>
           <div><dt>{copy.type}</dt><dd>{siteType}</dd></div>
-          <div><dt>{copy.area}</dt><dd>Śródmieście · {city}</dd></div>
-          <div><dt>{labels.location}</dt><dd lang="pl">{visitor.place}</dd></div>
+          <div><dt>{copy.area}</dt><dd>{area} · <span lang="pl">Śródmieście</span> · {city}</dd></div>
+          <div><dt>{labels.location}</dt><dd><a href={visitor.mapUrl} lang="pl">{visitor.place}</a></dd></div>
           <div><dt>{labels.duration}</dt><dd>{visitor.duration} {labels.minutes}</dd></div>
-          <div><dt>{copy.opening}</dt><dd><a href="#visitor-hours">{copy.opening}</a></dd></div>
+          <div><dt>{copy.opening}</dt><dd><a href="#visitor-hours">{facts.hours[languageIndex]}</a></dd></div>
           <div><dt>{copy.tickets}</dt><dd>{facts.tickets[languageIndex]}</dd></div>
           {facts.phone && <div><dt>{copy.phone}</dt><dd><a href={`tel:${facts.phone.replaceAll(" ", "")}`}>{facts.phone}</a></dd></div>}
           <div><dt>{transit}</dt><dd lang="pl">{stop}</dd></div>
@@ -88,11 +91,10 @@ export default function VisitorGuideArticle({ locale, topic, visitor }: {
       <section className="visitor-detail">
         <h2>{transit}</h2>
         <p lang="pl">{stop}</p>
-        <p><a href="https://www.wtp.waw.pl/">{labels.transit}</a></p>
+        <p><a href="https://www.wtp.waw.pl/">{labels.transit}</a> · <a href={directionBase + "&travelmode=transit"}>{copy.transitRoute}</a></p>
       </section>
       <section className="visitor-detail">
         <h2>{copy.discover}</h2>
-        <h3>{copy.highlights}</h3>
         <p>{detail.history[locale]}</p>
       </section>
       <section className="visitor-detail">

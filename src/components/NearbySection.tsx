@@ -5,6 +5,16 @@ import { getGuide, getVisitorGuide, guidePath, originalTopics, visitorTopics } f
 import { visitorLabels } from "@/content/warsaw-guide-labels";
 import { getLocale, getTranslations } from "next-intl/server";
 
+// The five locale dictionaries present these cards in the same editorial order.
+const featuredTopics = [
+  ["market-square"],
+  ["royal-castle"],
+  ["st-johns-archcathedral"],
+  ["warsaw-uprising-monument"],
+  ["museum-of-warsaw"],
+  ["castle-square", "sigismunds-column"],
+] as const;
+
 export default async function NearbySection() {
   const t = await getTranslations("nearby");
   const locale = await getLocale();
@@ -28,9 +38,12 @@ export default async function NearbySection() {
               i: number
             ) => (
               <div className="nearby-card" key={i}>
-                <h3>{spot.name}</h3>
+                <h3><Link href={guidePath(language, featuredTopics[i][0])}>{spot.name}</Link></h3>
                 <p>{spot.note}</p>
                 <span className="distance-chip">{spot.distance}</span>
+                {featuredTopics[i].slice(1).map((topic) => (
+                  <p key={topic}><Link href={guidePath(language, topic)}>{getGuide(language, topic)[0]}</Link></p>
+                ))}
               </div>
             )
           )}
