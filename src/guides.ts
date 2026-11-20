@@ -1,4 +1,10 @@
-export const guideTopics = ["tickets-and-opening-hours", "old-town-city-walls-walk"] as const;
+import visitorGuides from "@/content/warsaw-guides.json";
+import { guideSources, visitorLabels } from "@/content/warsaw-guide-labels";
+
+export const originalTopics = ["tickets-and-opening-hours", "old-town-city-walls-walk"] as const;
+type VisitorTopic = keyof typeof visitorGuides;
+export const visitorTopics = Object.keys(visitorGuides) as VisitorTopic[];
+export const guideTopics = [...originalTopics, ...visitorTopics];
 export type GuideTopic = (typeof guideTopics)[number];
 
 export const guideCopy = {
@@ -70,5 +76,25 @@ export const guideCopy = {
 } as const;
 
 export const guidePath = (locale: string, topic: GuideTopic) => `/${locale}/guide/${topic}`;
-export const getGuide = (locale: keyof typeof guideCopy, topic: GuideTopic) =>
-  guideCopy[locale][topic === "tickets-and-opening-hours" ? "tickets" : "walk"];
+export type GuideLocale = keyof typeof guideCopy;
+type GuideGroup = keyof (typeof visitorLabels)["en"]["groups"];
+
+export function getVisitorGuide(locale: GuideLocale, topic: GuideTopic) {
+  if (topic === "tickets-and-opening-hours" || topic === "old-town-city-walls-walk") return null;
+
+  const { place, duration, group, source, copy } = visitorGuides[topic];
+  const [title, description, walk] = copy[locale];
+  return {
+    title, description, walk, place, duration,
+    group: group as GuideGroup,
+    source: guideSources[source],
+    mapUrl: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(place)}`,
+  };
+}
+
+export function getGuide(locale: GuideLocale, topic: GuideTopic) {
+  const guide = getVisitorGuide(locale, topic);
+  if (!guide) return guideCopy[locale][topic === "tickets-and-opening-hours" ? "tickets" : "walk"];
+  const { background, walk } = visitorLabels[locale];
+  return [guide.title, guide.description, [[background, guide.description], [walk, guide.walk]]] as const;
+}
